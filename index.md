@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 37-in-1 Sensor Kit Documentation
+# IoT Launcher IoT Kit Documentation
 
 This is an era of artificial intelligence. Artificial intelligence is widely applied to our lives, especially for all kinds of robots. To make beginners understand the principle readily, this sensor kit includes digital and analog sensors, modules such as ultrasound, digital tubes, temperature and humidity sensors.
 
