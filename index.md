@@ -22,6 +22,6 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 ### **Sensors**
 - [Project 18: PIR Motion Sensing](docs/projects/project-18-pir-motion.html)
 - [Project 19: Analog Temperature](docs/projects/project-19-analog-temperature.html)
-- [Project 36: Ultrasonic Ranger](docs/projects/project-36-ultrasonic.html)
+- [Project 36: Ultrasonic Ranger](docs/projects/Projects_Usecases/project-36-ultrasonic.html)
 
 [View All Projects →](docs/projects/)
