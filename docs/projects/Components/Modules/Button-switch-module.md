@@ -1,18 +1,16 @@
-## Button Switch using Lorfi-L
-
-### Introduction
+## Introduction
 
 Pushbuttons is the most common hardware interface to different hardware.
 
-### Hardware Setup
+## Hardware Setup
 
 The pushbutton will be connected to digital IO pin of Lorfi-L.
 
-### Software Setup
+## Software Setup
 
 Lorfi-L is based on RAK3172 LoRaWAN module. This must be added to Arduino IDE.
 
-### **Sample Code**
+## **Sample Code**
 ```c
 #define LED PB5
 
@@ -28,6 +26,6 @@ void loop()
 }
 ```
 
-### Expected Output
+## Expected Output
 
-### FAQ
+## FAQ
