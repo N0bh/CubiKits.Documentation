@@ -20,8 +20,8 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 
 ### **Basic Lorfi-L**
 
-- [Project 1: White LED](/docs/projects/Components/Modules/White-LED-Module.html)
-- [Project 2: Button LED](/docs/projects/Components/Modules/Button-switch-module.html)
+- [Project 1: White LED](/docs/projects/Wi-Fi/Modules/White-LED-Module.html)
+- [Project 2: Button LED](/docs/projects/Basic/Modules/Button-switch-module.html)
 - [Project 3: RGB LED](docs/projects/project-02-rgb-led.html)
 - [Project 4: Traffic Light](docs/projects/project-03-traffic-light.html)
 
