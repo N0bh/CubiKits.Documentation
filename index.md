@@ -11,10 +11,11 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 - [Introduction](docs/introduction.html)
 - [Installation Guide](docs/installation.html)
 - Tutorial Guides
-  - [Basic Lorfi-L]([#basic-lorfi-l)
+  - [Basic Lorfi-L](#basic-lorfi-l)
   - [Basic Lorfi-W](#basic-lorfi-w)
   - [Wi-Fi](#wi-fi)
   - [LoRaWAN](#lorawan)
+  - [Cellular](#cellular)
   - [BLE](#ble)
 
 ### **Basic Lorfi-L**
