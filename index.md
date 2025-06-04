@@ -10,20 +10,38 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 ## **Quick Start**
 - [Introduction](docs/introduction.html)
 - [Installation Guide](docs/installation.html)
-- [Project List](#projects)
+- Tutorial Guides
+  - [Basic Lorfi-L]([#basic-lorfi-l))
+  - [Basic Lorfi-W](#basic-lorfi-w)
+  - [Wi-Fi](#wi-fi)
+  - [LoRaWAN](#lorawan)
+  - [BLE](#ble)
 
-## **Projects**
+### **Basic Lorfi-L**
 
-### **Basic Modules**
 - [Project 1: White LED](/docs/projects/Components/Modules/White-LED-Module.html)
-- [Project 2: White LED](/docs/projects/Components/Modules/Button-switch-module.html)
+- [Project 2: Button LED](/docs/projects/Components/Modules/Button-switch-module.html)
 - [Project 3: RGB LED](docs/projects/project-02-rgb-led.html)
 - [Project 4: Traffic Light](docs/projects/project-03-traffic-light.html)
-[View All Basic Lorfi-L →](docs/projects/Components/Modules)
 
-### **Sensors**
+### **Basic Lorfi-W**
+
 - [Project 18: PIR Motion Sensing](docs/projects/project-18-pir-motion.html)
 - [Project 19: Analog Temperature](docs/projects/project-19-analog-temperature.html)
 - [Project 36: Ultrasonic Ranger](docs/projects/Projects_Usecases/project-36-ultrasonic.html)
 
-[View All Projects →](docs/projects/)
+### **Wi-Fi**
+
+Coming Soon...
+
+### **LoRaWAN**
+
+Coming Soon...
+
+### **Cellular**
+
+Coming Soon...
+
+### **BLE**
+
+Coming Soon...
