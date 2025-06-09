@@ -9,7 +9,6 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 
 ## **Quick Start**
 - [Introduction](docs/introduction.html)
-<<<<<<< HEAD
 - [Installation Guide](docs/installation.html)
 - [Project List](#Guides)
 =======
@@ -23,11 +22,9 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
   - [LoRaWAN](#lorawan)
   - [Cellular](#cellular)
   - [BLE](#ble)
->>>>>>> eb26a85617ebf3579df3ab28c43b93fbeaec9b06
 
 ### **Basic Lorfi-L**
 
-<<<<<<< HEAD
 ### **Modules**
 - [Module 1: White LED](/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html)
 - [Module 2: RGB LED](docs/Guides/project-02-rgb-led.html)
@@ -66,4 +63,3 @@ Coming Soon...
 ### **BLE**
 
 Coming Soon...
->>>>>>> eb26a85617ebf3579df3ab28c43b93fbeaec9b06
