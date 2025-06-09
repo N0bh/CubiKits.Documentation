@@ -1,7 +1,7 @@
 title: "IoT School PH Kit Documentation"
 description: "Complete guide for Lorfi projects and applications"
 baseurl: ""
-url: "https://carlerickrowan.github.io/carlerickrowan"
+url: "https://iotlauncher.github.io/iotlauncher"
 
 # Build settings
 markdown: kramdown
