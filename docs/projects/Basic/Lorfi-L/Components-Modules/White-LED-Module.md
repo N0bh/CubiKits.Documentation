@@ -1,6 +1,13 @@
-# Button Switch Module using Lorfi-L
+# White LED Module using Lorfi-L
 
-Pushbuttons is the most common hardware interface to different hardware.
+# Description
+This white LED light module is perfect for Arduino beginners. It easily connects to an IO or sensor shield and allows for experimentation with light-based projects.
+
+# Specification
+
+**White LED Module**
+**Type** Digital
+
 
 ## Hardware Setup
 
