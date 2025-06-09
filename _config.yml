@@ -1,7 +1,7 @@
-title: "37-in-1 Sensor Kit Documentation"
-description: "Complete guide for Arduino sensor projects"
+title: "IoT School PH Kit Documentation"
+description: "Complete guide for Lorfi projects and applications"
 baseurl: ""
-url: "https://carlerickrowan.github.io/carlerickrowan"
+url: "https://iotlauncher.github.io/iotlauncher"
 
 # Build settings
 markdown: kramdown
@@ -12,6 +12,7 @@ theme: minima
 header_pages:
   - docs/introduction.md
   - docs/installation.md
+  - docs/hardware-guide.md
 
 # Collections for better organization
 collections:
