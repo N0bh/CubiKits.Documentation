@@ -1,22 +1,23 @@
 ---
 layout: project
-title: "Module 1: White Led"
-difficulty: basic
-components: ["Whie Led Module", "Lorfi-L Rak3172", "Jumper Wires"]
+title: "Project 36: Ultrasonic Ranger"
+project_number: 36
+difficulty: intermediate
+components: ["Ultrasonic Sensor", "Arduino UNO", "Jumper Wires"]
 ---
 
 # Project 36: Ultrasonic Ranger
 
 ## **Description**
-This white LED light module is perfect for Arduino beginners. It easily connects to an IO or sensor shield and allows for experimentation with light-based projects.
+The ultrasonic sensor uses sonar to determine distance to an object. It offers excellent non-contact range detection with high accuracy and stable readings.
 
 ## **Specifications**
-- **White LED module:**
-- **Type:** Digital 
-- **PH2.54 socket:**
+- **Detection Distance:** 2-40cm
+- **IO Interface:** 4 wire interface (-/+/S/EN)  
+- **Output Signal:** TTL voltage
 - **Effective Angle:** 35°
-- **Size:** 30*20mm
-- **Weight:** 3g
+- **Size:** 41.7×16.7mm
+- **Weight:** 5g
 
 ## **Required Components**
 - UNO Board × 1
@@ -36,18 +37,41 @@ This white LED light module is perfect for Arduino beginners. It easily connects
 | Echo | Digital Pin 8 |
 
 ## **Sample Code**
-```c
-#define LED PB5
 
-void setup()
-{
-  pinMode(LED, OUTPUT);     //Set Pin7 as output
+```c
+// Ultrasonic Sensor Distance Measurement V4
+const int trigPin = 7;
+const int echoPin = 8;
+
+void setup() {
+Serial.begin(9600);
+pinMode(trigPin, OUTPUT);
+pinMode(echoPin, INPUT);
 }
-void loop()
-{    digitalWrite(LED, HIGH);   //Turn off led
-     delay(1000);
-     digitalWrite(LED, LOW);    //Turn on led
-     delay(1000);
+
+void loop() {
+long duration, distance;
+
+// Clear the trigPin
+digitalWrite(trigPin, LOW);
+delayMicroseconds(2);
+
+// Trigger the sensor
+digitalWrite(trigPin, HIGH);
+delayMicroseconds(10);
+digitalWrite(trigPin, LOW);
+
+// Read the echoPin
+duration = pulseIn(echoPin, HIGH);
+
+// Calculate distance
+distance = duration * 0.034 / 2;
+
+Serial.print("Distance: ");
+Serial.print(distance);
+Serial.println(" cm");
+
+delay(500);
 }
 ```
 

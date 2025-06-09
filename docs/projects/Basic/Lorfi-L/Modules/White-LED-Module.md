@@ -40,7 +40,7 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 
 void setup()
 {
-  pinMode(LED, OUTPUT);     //Set Pin7 as output
+  pinMode(LED, OUTPUT);     //Set PB5 as output
 }
 void loop()
 {    digitalWrite(LED, HIGH);   //Turn off led
