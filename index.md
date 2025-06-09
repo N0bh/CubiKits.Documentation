@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# IoT Launcher IoT Kit Documentation
+# IoT School PH Kit Documentation
 
 This is an era of artificial intelligence. Artificial intelligence is widely applied to our lives, especially for all kinds of robots. To make beginners understand the principle readily, this sensor kit includes digital and analog sensors, modules such as ultrasound, digital tubes, temperature and humidity sensors.
 
@@ -23,7 +23,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 ### **Basic Lorfi-L**
 
 - [Project 1: Button LED](/docs/projects/Basic/Lorfi-L/Button-switch-module.html)
-- [Project 2: White LED](/docs/projects/Basic/Lorf-L/White-LED-Module.html)
+- [Project 2: White LED](/docs/projects/Basic/Lorfi-L/White-LED-Module.html)
 - [Project 3: RGB LED](docs/projects/project-02-rgb-led.html)
 - [Project 4: Traffic Light](docs/projects/project-03-traffic-light.html)
 

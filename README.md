@@ -1,4 +1,4 @@
-# IoT Launcher Documentation
+# IoT School PH Kit Documentation
 
 ## Introduction
 

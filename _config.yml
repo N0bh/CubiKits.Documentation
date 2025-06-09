@@ -1,4 +1,4 @@
-title: "IoT Launcher Kit Documentation"
+title: "IoT School PH Kit Documentation"
 description: "Complete guide for Lorfi projects and applications"
 baseurl: ""
 url: "https://carlerickrowan.github.io/carlerickrowan"
@@ -12,6 +12,7 @@ theme: minima
 header_pages:
   - docs/introduction.md
   - docs/installation.md
+  - docs/hardware-guide.md
 
 # Collections for better organization
 collections:
