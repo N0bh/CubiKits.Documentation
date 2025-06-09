@@ -9,7 +9,8 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 
 ## **Quick Start**
 - [Introduction](docs/introduction.html)
-- [Installation Guide](docs/installation.html)
+- [Hardware Guide](docs/hardware-guide.html)
+- [Installation Guide to Arduino IDE](docs/installation.html)
 - Tutorial Guides
   - Basic
     - [Basic Lorfi-L](#basic-lorfi-l)
