@@ -1,3 +1,48 @@
+# Capacitive Touch Sensor using Lorfi-L
+
+# Description
+
+Looking for an alternative to traditional mechanical buttons? Try using a capacitive touch sensor. Commonly found in modern electronic devices, this sensor adds a sleek, interactive element to your Arduino projects.
+
+It detects touch from the human body or metal objects and outputs a corresponding high or low voltage signal. The sensor can even detect touch through materials like cloth or paper, although sensitivity decreases as the thickness of the material increases.
+
+Future improvements to this type of sensor module aim to enhance performance and user experience.
+
+
+# Specification
+
+- Supply Voltage: 3.3V to 5V
+- Interface: Digital
+- Size: 30*20mm
+- Weight: 3g
+
+## Hardware Setup 
+
+#### Using directly Lorfi-L
+
+You can find complete [Lorfi-L IO pinout here].
+
+*MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
+
+#### Using Lorfi Interface board
+
+You can find complete guide for [Lorfi Interface here].
+
+
+*MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
+
+## Software Setup
+
+Lorfi-L is based on RAK3172 LoRaWAN module. This must be added to Arduino IDE.
+
+Here's the guide [how to add RAK3172 on your Arduino IDE].
+
+Once RAK3172 is added, you can now select it from the board selection.
+
+*ADD HERE IMAGE OF RAK3172 ON BOARD SELECTION IN ARDUINO IDE.*
+
+If failing, test the UART connection by checking the version. Use `AT+VER=?` command with baud rate of 115200. In case of MCU brick, revive the RAK3172 by following this [guide from RAKwireless](https://learn.rakwireless.com/hc/en-us/articles/26687606549911-How-To-Guide-STM32CubeProgrammer-for-RAK-Modules).
+
 ## **Sample Code**
 ```c
 #define Sensor PB5
@@ -16,3 +61,13 @@ void loop() {
   delay(100);
 }
 ```
+
+## Expected Output
+
+Once the code is succesfully uploaded you must see the following output or behavior.
+
+*ADD HERE IMAGE OF SUCCESSFUL UPLOAD*
+
+*ADD HERE IMAGE OF EXPECTED OUTPUT IN SERIAL IF ANY*
+
+## FAQ
