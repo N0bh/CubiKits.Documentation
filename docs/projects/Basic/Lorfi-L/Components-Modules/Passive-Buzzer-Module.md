@@ -1,14 +1,18 @@
-# using Lorfi-L
+# Passive Buzzer Module
+
 
 # Description
 
+The buzzer used in this project is a passive buzzer. It doesn't generate sound on its own but requires external pulse signals to operate. Varying the frequency of these pulses produces different tones. With an Arduino, you can easily program melodies, making it a fun and straightforward way to create music.
 
 # Specification
 
-
+- Working voltage: 3.3-5v
+- Interface type: digital
+- Size: 30*20mm
+- Weight: 4g
 
 ## Hardware Setup
-
 
 
 #### Using directly Lorfi-L
