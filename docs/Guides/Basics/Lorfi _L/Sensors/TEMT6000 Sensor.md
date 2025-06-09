@@ -1,7 +1,7 @@
 ## **Sample Code**
 ```c
 ///Arduino Sample Code
-#define Sensor PB3
+#define Sensor PB5
 
 void setup() {
   Serial.begin(9600);

@@ -1,7 +1,7 @@
 ## **Sample Code**
 ```c
 ///Arduino Sample Code
-#define Sensor PB3
+#define Sensor PB5
 int val;
 
 void setup() {
@@ -14,5 +14,4 @@ void loop() {
   Serial.println(val, DEC);  //read analog value through serial port printed
   delay(100);
 }
-
 ```

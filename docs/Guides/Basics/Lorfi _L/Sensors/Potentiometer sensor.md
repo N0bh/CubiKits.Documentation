@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Sensor PB3
+#define Sensor PB5
 
 void setup() {
   Serial.begin(9600);  //Open the serial to set the baud rate as 9600bps

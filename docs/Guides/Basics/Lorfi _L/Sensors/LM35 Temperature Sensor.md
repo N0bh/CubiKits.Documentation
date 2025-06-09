@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Sensor PB3
+#define Sensor PB5
 int val;
 int dat;
 

@@ -10,18 +10,18 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 ## **Quick Start**
 - [Introduction](docs/introduction.html)
 - [Installation Guide](docs/installation.html)
-- [Project List](#projects)
+- [Project List](#Guides)
 
 ## **Projects**
 
 ### **Basic Modules**
-- [Project 1: White LED](docs/projects/project-01-white-led.html)
-- [Project 2: RGB LED](docs/projects/project-02-rgb-led.html)
-- [Project 3: Traffic Light](docs/projects/project-03-traffic-light.html)
+- [Project 1: White LED](docs/Guides/project-01-white-led.html)
+- [Project 2: RGB LED](docs/Guides/project-02-rgb-led.html)
+- [Project 3: Traffic Light](docs/Guides/project-03-traffic-light.html)
 
 ### **Sensors**
-- [Project 18: PIR Motion Sensing](docs/projects/project-18-pir-motion.html)
-- [Project 19: Analog Temperature](docs/projects/project-19-analog-temperature.html)
-- [Project 36: Ultrasonic Ranger](docs/projects/Projects_Usecases/project-36-ultrasonic.html)
+- [Project 18: PIR Motion Sensing](docs/Guides/project-18-pir-motion.html)
+- [Project 19: Analog Temperature](docs/Guides/project-19-analog-temperature.html)
+- [Project 36: Ultrasonic Ranger](docs/Guides/Projects_Usecases/project-36-ultrasonic.html)
 
-[View All Projects →](docs/projects/)
+[View All Projects →](docs/Guides/)

@@ -1,7 +1,6 @@
 ## **Sample Code**
 ```c
-#define buzzer PB5
-
+int buzzer = 2;  //set digital IO pin of the buzzer
 void setup() {
   pinMode(buzzer, OUTPUT);  // set digital IO pin pattern, OUTPUT to be output
 }

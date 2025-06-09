@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Sensor PB3
+#define Sensor PB5
   int value = 0;  // variable for reading the sensor status
 
 void setup() {
