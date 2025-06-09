@@ -5,11 +5,11 @@ This white LED light module is perfect for Arduino beginners. It easily connects
 
 #Specification
 
-- **White LED Module**
-- **Type:** Digital
-- **PH2.54 socket**
-- **Size:** 30*20mm
-- **Weight:** 3g
+- White LED Module
+- Type: Digital
+- PH2.54 socket
+- Size: 30*20mm
+- Weight: 3g
 
 
 ## Hardware Setup
