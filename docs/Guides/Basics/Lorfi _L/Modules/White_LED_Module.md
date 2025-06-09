@@ -1,5 +1,5 @@
 ---
-layout: Guides
+layout: project
 title: "Module 1: White Led"
 difficulty: basic
 components: ["Whie Led Module", "Lorfi-L Rak3172", "Jumper Wires"]
