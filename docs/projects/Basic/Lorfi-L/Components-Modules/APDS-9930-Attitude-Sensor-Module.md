@@ -6,8 +6,8 @@
 #include <APDS9930.h>
 
 // Pins
-#define APDS9930_INT    2  // Needs to be an interrupt pin
-#define LED_PIN         13 // LED for showing interrupt
+#define APDS9930_INT    PB5  // Needs to be an interrupt pin
+#define LED_PIN         PB3 // LED for showing interrupt
 
 // Constants
 #define PROX_INT_HIGH   600 // Proximity level for interrupt

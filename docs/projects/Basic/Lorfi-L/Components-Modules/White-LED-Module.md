@@ -3,7 +3,7 @@
 # Description
 This white LED light module is perfect for Arduino beginners. It easily connects to an IO or sensor shield and allows for experimentation with light-based projects.
 
-#Specification
+# Specification
 
 - White LED Module
 - Type: Digital
