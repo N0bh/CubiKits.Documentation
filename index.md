@@ -11,8 +11,9 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 - [Introduction](docs/introduction.html)
 - [Installation Guide](docs/installation.html)
 - Tutorial Guides
-  - [Basic Lorfi-L](#basic-lorfi-l)
-  - [Basic Lorfi-W](#basic-lorfi-w)
+  - Basic
+    - [Basic Lorfi-L](#basic-lorfi-l)
+    - [Basic Lorfi-W](#basic-lorfi-w)
   - [Wi-Fi](#wi-fi)
   - [LoRaWAN](#lorawan)
   - [Cellular](#cellular)
@@ -27,9 +28,9 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 
 ### **Basic Lorfi-W**
 
-- [Project 18: PIR Motion Sensing](docs/projects/project-18-pir-motion.html)
-- [Project 19: Analog Temperature](docs/projects/project-19-analog-temperature.html)
-- [Project 36: Ultrasonic Ranger](docs/projects/Projects_Usecases/project-36-ultrasonic.html)
+- [Project 1: PIR Motion Sensing](docs/projects/project-18-pir-motion.html)
+- [Project 2: Analog Temperature](docs/projects/project-19-analog-temperature.html)
+- [Project 3: Ultrasonic Ranger](docs/projects/Projects_Usecases/project-36-ultrasonic.html)
 
 ### **Wi-Fi**
 

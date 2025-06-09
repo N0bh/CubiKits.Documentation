@@ -1,4 +1,4 @@
-## Introduction
+# Button Switch Module using Lorfi-L
 
 Pushbuttons is the most common hardware interface to different hardware.
 
@@ -6,7 +6,7 @@ Pushbuttons is the most common hardware interface to different hardware.
 
 The pushbutton will be connected to digital IO pin of Lorfi-L. 
 
-### Using directly Lorfi-L
+#### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].
 
@@ -14,7 +14,7 @@ You can find complete [Lorfi-L IO pinout here].
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
-### Using Lorfi Interface board
+#### Using Lorfi Interface board
 
 You can find complete guide for [Lorfi Interface here].
 
