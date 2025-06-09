@@ -28,10 +28,10 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 ### **Basic Lorfi-L**
 
 <<<<<<< HEAD
-### **Basic Modules**
-- [Project 1: White LED](docs/Guides/project-01-white-led.html)
-- [Project 2: RGB LED](docs/Guides/project-02-rgb-led.html)
-- [Project 3: Traffic Light](docs/Guides/project-03-traffic-light.html)
+### **Modules**
+- [Module 1: White LED](docs/Guides/Basics/Lorfi_L/Modules/White_LED_Module.html)
+- [Module 2: RGB LED](docs/Guides/project-02-rgb-led.html)
+- [Module 3: Traffic Light](docs/Guides/project-03-traffic-light.html)
 
 ### **Sensors**
 - [Project 18: PIR Motion Sensing](docs/Guides/project-18-pir-motion.html)
