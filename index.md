@@ -29,7 +29,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 
 <<<<<<< HEAD
 ### **Modules**
-- [Module 1: White LED](/docs/projects/Basic/Lorfi-L/Modules/White-LED-Module.html)
+- [Module 1: White LED](/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html)
 - [Module 2: RGB LED](docs/Guides/project-02-rgb-led.html)
 - [Module 3: Traffic Light](docs/Guides/project-03-traffic-light.html)
 
@@ -41,7 +41,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 [View All Projects →](docs/Guides/)
 =======
 - [Project 1: Button LED](/docs/projects/Basic/Lorfi-L/Button-switch-module.html)
-- [Project 2: White LED](/docs/projects/Basic/Lorfi-L/Modules/White-LED-Module.html)
+- [Project 2: White LED](/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html)
 - [Project 3: RGB LED](docs/projects/project-02-rgb-led.html)
 - [Project 4: Traffic Light](docs/projects/project-03-traffic-light.html)
 
