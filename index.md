@@ -25,26 +25,25 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 
 ### **Basic Lorfi-L**
 
-### **Modules**
-- [Module 1: White LED Module](/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html)
-- [Module 2: RGB LED Module](/docs/projects/Basic/Lorfi-L/Components-Modules/RGB-LED-Module.html)
-- [Module 3: 3W LED Module](docs/projects/Basic/Lorfi-L/Components-Modules/3W_LED_Module.html)
-- [Module 4: Traffic Light Module](docs/projects/Basic/Lorfi-L/Components-Modules/Traffic-Light-Module.html)
-- [Module 5: Active Buzzer Module](docs/projects/Basic/Lorfi-L/Components-Modules/Active_Buzzer.html)
-- [Module 6: Passive Buzzer Module](docs/projects/Basic/Lorfi-L/Components-Modules/Passive-Buzzer-Module.html)
-- [Module 7: Button Switch Module](docs/projects/Basic/Lorfi-L/Components-Modules/Button-Switch-Module.html)
-- [Module 8: APDS-9930 Attitude Sensor Module](docs/projects/Basic/Lorfi-L/Components-Modules/APDS-9930-Attitude-Sensor-Module.html)
-- [Module 9: Single Relay Module](docs/projects/Basic/Lorfi-L/Components-Modules/Single-Relay-Module.html)
-- [Module 10: Reed Switch Module](docs/projects/Basic/Lorfi-L/Components-Modules/Reed-Switch-Module.html)
-- [Module 11: Photo Interruptor Module](docs/projects/Basic/Lorfi-L/Components-Modules/Photo-Interruptor-Module.html)
-- [Module 12: Capacitive Touch Module](docs/projects/Basic/Lorfi-L/Components-Modules/Capacitive-Touch-Module.html)
-- [Module 13: IR Receiver Module](docs/projects/Basic/Lorfi-L/Components-Modules/IR-Receiver-Module.html)
-- [Module 14: IR Transmitter Module](docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html)
+**Modules**
+- [White LED Module](/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html)
+- [RGB LED Module](/docs/projects/Basic/Lorfi-L/Components-Modules/RGB-LED-Module.html)
+- [3W LED Module](docs/projects/Basic/Lorfi-L/Components-Modules/3W_LED_Module.html)
+- [Traffic Light Module](docs/projects/Basic/Lorfi-L/Components-Modules/Traffic-Light-Module.html)
+- [Active Buzzer Module](docs/projects/Basic/Lorfi-L/Components-Modules/Active_Buzzer.html)
+- [Passive Buzzer Module](docs/projects/Basic/Lorfi-L/Components-Modules/Passive-Buzzer-Module.html)
+- [Button Switch Module](docs/projects/Basic/Lorfi-L/Components-Modules/Button-Switch-Module.html)
+- [APDS-9930 Attitude Sensor Module](docs/projects/Basic/Lorfi-L/Components-Modules/APDS-9930-Attitude-Sensor-Module.html)
+- [Single Relay Module](docs/projects/Basic/Lorfi-L/Components-Modules/Single-Relay-Module.html)
+- [Reed Switch Module](docs/projects/Basic/Lorfi-L/Components-Modules/Reed-Switch-Module.html)
+- [Photo Interruptor Module](docs/projects/Basic/Lorfi-L/Components-Modules/Photo-Interruptor-Module.html)
+- [Capacitive Touch Module](docs/projects/Basic/Lorfi-L/Components-Modules/Capacitive-Touch-Module.html)
+- [IR Receiver Module](docs/projects/Basic/Lorfi-L/Components-Modules/IR-Receiver-Module.html)
+- [IR Transmitter Module](docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html)
 
-
-### **Sensors**
-- [Project 18: PIR Motion Sensing](docs/Guides/project-18-pir-motion.html)
-- [Project 19: Analog Temperature](docs/Guides/project-19-analog-temperature.html)
+**Sensors**
+- [Ball Tilt Switch Sensor](docs/Guides/project-18-pir-motion.html)
+- [Ceramic Vibration Sensor](docs/Guides/project-19-analog-temperature.html)
 - [Project 36: Ultrasonic Ranger](docs/Guides/Projects_Usecases/project-36-ultrasonic.html)
 
 [View All Projects →](docs/Guides/)
