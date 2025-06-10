@@ -43,22 +43,6 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 
 ## **Sample Code**
 ```c
-
-```
-
-## Expected Output
-
-Once the code is succesfully uploaded you must see the following output or behavior.
-
-*ADD HERE IMAGE OF SUCCESSFUL UPLOAD*
-
-*ADD HERE IMAGE OF EXPECTED OUTPUT IN SERIAL IF ANY*
-
-## FAQ
-
-
-## **Sample Code**
-```c
 #define led PB5
 void setup() {                
    pinMode(led, OUTPUT);     
@@ -89,3 +73,13 @@ void loop() {
   }
 }
 ```
+
+## Expected Output
+
+Once the code is succesfully uploaded you must see the following output or behavior.
+
+*ADD HERE IMAGE OF SUCCESSFUL UPLOAD*
+
+*ADD HERE IMAGE OF EXPECTED OUTPUT IN SERIAL IF ANY*
+
+## FAQ
