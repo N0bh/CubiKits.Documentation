@@ -1,6 +1,5 @@
 # Passive Buzzer Module
 
-
 # Description
 
 The buzzer used in this project is a passive buzzer. It doesn't generate sound on its own but requires external pulse signals to operate. Varying the frequency of these pulses produces different tones. With an Arduino, you can easily program melodies, making it a fun and straightforward way to create music.
@@ -12,7 +11,7 @@ The buzzer used in this project is a passive buzzer. It doesn't generate sound o
 - Size: 30*20mm
 - Weight: 4g
 
-## Hardware Setup
+# Hardware Setup
 
 
 #### Using directly Lorfi-L

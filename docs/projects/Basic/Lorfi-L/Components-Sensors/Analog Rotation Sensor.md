@@ -1,15 +1,15 @@
-# Microphone Sound Sensor using Lorfi-W
+# Analog Rotation Sensor using Lorfi-L
 
 # Description
 
-The analog sound sensor is mainly used to detect the intensity of surrounding sounds. It features a built-in potentiometer, allowing you to adjust the signal gain as needed. This sensor is great for creating interactive projects, such as a voice-activated switch.
+This analog rotation sensor is compatible with Arduino and is built around a potentiometer. It provides a voltage output that can be divided into 1024 steps, making it easy to connect to an Arduino using a sensor shield. By reading the analog values through an IO port, it can be combined with other sensors to create a variety of interactive projects.
 
 # Specification
 
 - Supply Voltage: 3.3V to 5V
 - Interface: Analog
 - Size: 30*20mm
-- Weight: 4g
+- Weight: 8g
 
 ## Hardware Setup
 
@@ -42,15 +42,15 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 ## **Sample Code**
 ```c
 #define Sensor PB5
-  int value = 0;  // variable for reading the sensor status
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(9600);  //Open the serial to set the baud rate as 9600bps
 }
 void loop() {
-  value = analogRead(Sensor);
-  Serial.println(value, DEC);
-  delay(1000);
+  int sensorValue = analogRead(Sensor);
+  // print out the value you read:
+  Serial.println(sensorValue);
+  delay(100);  // delay in between reads for stability
 }
 ```
 
