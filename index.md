@@ -44,7 +44,6 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Receiver-Module.html">IR Receiver Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>
     </ul>
-  <details>
 
   <details>
     <summary><strong>Sensors</strong></summary>
@@ -71,7 +70,6 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/TEMT6000-Sensor.html">Ambient Light Sensor</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Thin-Film-Pressure-Sensor.html">Thin-film Pressure Sensor</a></li>
     </ul>
-  <details>
 
   **Sensors**
   - [Analog Rotation Sensor](docs/projects/Basic/Lorfi-L/Components-Sensors/Analog-Rotation-Sensor.html)
