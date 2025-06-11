@@ -11,7 +11,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 - [Introduction](docs/introduction.html)
 - [Installation Guide](docs/installation.html)
 - [Project List](#Guides)
-=======
+
 - [Hardware Guide](docs/hardware-guide.html)
 - [Installation Guide to Arduino IDE](docs/installation.html)
 - Tutorial Guides
@@ -46,6 +46,8 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
     </ul>
   </details>
 
+
+
   <details>
     <summary><strong>Sensors</strong></summary>
     <ul>
@@ -73,6 +75,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
     </ul>
   </details>
 
+
 ### **Basic Lorfi-W**
 
   <details>
@@ -86,6 +89,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
     <ul>
     </ul>
   </details>
+
 
 ### **Wi-Fi**
 
