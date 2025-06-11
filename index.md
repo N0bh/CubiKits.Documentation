@@ -24,10 +24,10 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
   - [BLE](#ble)
 
 
-  ### **Basic Lorfi-L**
+### **Basic Lorfi-L**
 
-    <details>
-    <summary><strong>Basic Lorfi-L</strong></summary>
+  <details>
+    <summary><strong>Modules</strong></summary>
     <ul>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html">White LED Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/RGB-LED-Module.html">RGB LED Module</a></li>
@@ -44,6 +44,34 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Receiver-Module.html">IR Receiver Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>
     </ul>
+  <details>
+
+  <details>
+    <summary><strong>Sensors</strong></summary>
+    <ul>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Analog-Rotation-Sensor.html">Analog Rotation Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Ball-Tilt-Switch-Sensor.html">Ball Tilt Switch Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Crash-Sensor.html">Crash Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/DTH11-Temperature-and-Humidity-Sensor.html">DHT11 Temperature and Humidity Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Flame-Sensor.html">Flame Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/GUVA-S12SD-3528-Ultraviolet-Sensor.html">Ultraviolet Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Hall-Magnetic-Sensor.html">Hall Magnetic Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/HC-SR04-Ultrasonic-Sensor.html">HC-SR04 Ultrasonic Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Knock-Sensor.html">Knock Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Line-Tracking-Sensor.html">Line Tracking Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/LM35-Temperature-Sensor.html">LM35 Temperature Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Analog-Sound-Sensor.html">Analog Sound Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/MMA8452Q-Module-Acceleration-Tilt-Sensor.html">Acceleration Tilt Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Gas-Sensor.html">Gas Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Obstacle-Avoidance-Sensor.html">Obstacle Avoidance Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Photo-Resistor-Sensor.html">Photo Resistor Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/PIR-Motion-Sensor.html">PIR Motion Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Soil-Humidity-Sensor.html">Soil Humidity Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Steam-Sensor.html">Steam Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/TEMT6000-Sensor.html">Ambient Light Sensor</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Thin-Film-Pressure-Sensor.html">Thin-film Pressure Sensor</a></li>
+    </ul>
+  <details>
 
   **Sensors**
   - [Analog Rotation Sensor](docs/projects/Basic/Lorfi-L/Components-Sensors/Analog-Rotation-Sensor.html)
