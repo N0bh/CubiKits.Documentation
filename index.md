@@ -73,18 +73,19 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
     </ul>
   </details>
 
-[View All Projects →](docs/Guides/)
-=======
-- [Project 1: Button LED](/docs/projects/Basic/Lorfi-L/Button-switch-module.html)
-- [Project 2: White LED](/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html)
-- [Project 3: RGB LED](docs/projects/project-02-rgb-led.html)
-- [Project 4: Traffic Light](docs/projects/project-03-traffic-light.html)
-
 ### **Basic Lorfi-W**
 
-- [Project 1: PIR Motion Sensing](docs/projects/project-18-pir-motion.html)
-- [Project 2: Analog Temperature](docs/projects/project-19-analog-temperature.html)
-- [Project 3: Ultrasonic Ranger](docs/projects/Projects_Usecases/project-36-ultrasonic.html)
+  <details>
+    <summary><strong>Modules</strong></summary>
+    <ul>
+    </ul>
+  </details>
+
+  <details>
+    <summary><strong>Sensors</strong></summary>
+    <ul>
+    </ul>
+  </details>
 
 ### **Wi-Fi**
 
