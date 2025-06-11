@@ -68,12 +68,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
     <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/TEMT6000-Sensor.html">Ambient Light Sensor</a></li>
     <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Thin-Film-Pressure-Sensor.html">Thin-film Pressure Sensor</a></li>
   </ul>
-
 </details>
-
-
-<details>
-  <summary><strong>Basic Lorfi-L</strong></summary>
 
   ### **Basic Lorfi-L**
 
@@ -116,8 +111,6 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
   - [Steam Sensor](docs/projects/Basic/Lorfi-L/Components-Sensors/Steam-Sensor.html)
   - [Ambient Light Sensor](docs/projects/Basic/Lorfi-L/Components-Sensors/TEMT6000-Sensor.html)
   - [Thin-film Pressure Sensor](docs/projects/Basic/Lorfi-L/Components-Sensors/Thin-Film-Pressure-Sensor.html)
-
-</details>
 
 [View All Projects →](docs/Guides/)
 =======
