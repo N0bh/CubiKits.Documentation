@@ -24,7 +24,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
   - [BLE](#ble)
 
 
-### **Basic Lorfi-L**
+### **Basic Lorfi-L**<br>
 
   <details>
     <summary><strong>Modules</strong></summary>
@@ -45,8 +45,6 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>
     </ul>
   </details>
-
-
 
   <details>
     <summary><strong>Sensors</strong></summary>
@@ -75,8 +73,7 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
     </ul>
   </details>
 
-
-### **Basic Lorfi-W**
+### **Basic Lorfi-W**<br>
 
   <details>
     <summary><strong>Modules</strong></summary>
