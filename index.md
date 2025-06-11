@@ -62,8 +62,8 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 - [PIR Motion Sensor](docs/projects/Basics/Lorfi-L/Components-Sensors/PIR-Motion-Sensor.html)
 - [Soil Humidity Sensor](docs/projects/Basics/Lorfi-L/Components-Sensors/Soil-Humidity-Sensor.html)
 - [Steam Sensor](docs/projects/Basics/Lorfi-L/Components-Sensors/Steam-Sensor.html)
-- [Ambient Light Sensor](docs/projects/Basics/Lorfi-L/Components-Sensors/Ambient-Light-Sensor.html)
-- [Thin-film Pressure Sensor](docs/projects/Basics/Lorfi-L/Components-Sensors/Thin-film-Pressure-Sensor.html)
+- [Ambient Light Sensor](docs/projects/Basics/Lorfi-L/Components-Sensors/TEMT6000-Sensor.html)
+- [Thin-film Pressure Sensor](docs/projects/Basics/Lorfi-L/Components-Sensors/Thin-Film-Pressure-Sensor.html)
 
 [View All Projects →](docs/Guides/)
 =======
