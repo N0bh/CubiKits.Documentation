@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# IoT School PH Kit Documentation
+# <span style="display:inline-block;margin-bottom:2rem;">IoT School PH Kit Documentation</span>
 
 This is an era of artificial intelligence. Artificial intelligence is widely applied to our lives, especially for all kinds of robots. To make beginners understand the principle readily, this sensor kit includes digital and analog sensors, modules such as ultrasound, digital tubes, temperature and humidity sensors.
 
@@ -11,15 +11,15 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
-    <strong>Column 1</strong><br>
+    <strong>Item</strong><br>
     Content A
   </div>
   <div style="flex: 1; padding: 10px;">
-    <strong>Column 2</strong><br>
+    <strong>Quantity</strong><br>
     Content B
   </div>
   <div style="flex: 1; padding: 10px;">
-    <strong>Column 3</strong><br>
+    <strong>Picture</strong><br>
     Content C
   </div>
 </div>
