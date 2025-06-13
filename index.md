@@ -18,6 +18,10 @@ This is an era of artificial intelligence. Artificial intelligence is widely app
     <strong>Column 2</strong><br>
     Content B
   </div>
+  <div style="flex: 1; padding: 10px;">
+    <strong>Column 3</strong><br>
+    Content C
+  </div>
 </div>
 
 ## **Quick Start**
