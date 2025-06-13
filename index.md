@@ -14,7 +14,7 @@ title: Home
 <div style="display: flex;margin-bottom:2rem;">
   <div style="flex: 1; padding: 10px;">
     <strong>Item</strong><br>
-    <div style="text-align: align left;color: white;">
+    <div style="text-align: left; color: white;">
       <a href="#">3W LED Module</a>
       <a href="#">Active Buzzer Module</a>
       <a href="#">APDS 9930 Attitude Sensor Module</a>
