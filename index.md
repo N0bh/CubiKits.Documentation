@@ -14,41 +14,43 @@ title: Home
 <div style="display: flex;margin-bottom:2rem;">
   <div style="flex: 1; padding: 10px;">
     <strong>Item</strong><br>
-    3W LED Module
-    Active Buzzer Module
-    APDS 9930 Attitude Sensor Module
-    Button Switch Module
-    Capacitive Touch Module
-    IR Receiver Module
-    IR Transmitter Module
-    Passive Buzzer Module
-    Photo Interruptor Module
-    Reed Switch Module
-    RGB LED Module
-    Single Relay Module
-    Traffic Light Module
-    White LED Module
-    Analog Rotation Sensor
-    Analaog Sound Sensor
-    Ball Tilt Switch Sensor
-    Ceramic Vibration Sensor
-    Crash Sensor
-    DHT11 Temperature and Humidity Sensor
-    Flame Sensor
-    GUVA S12S 3528 Ultraviolet Sensor
-    Hall Magnetic Sensor
-    HC-SR04 Ultrasonic Sensor
-    Knock Sensor
-    Line Tracking Sensor
-    LM35 Temperature Sensor
-    MMA84521 Module Acceleration Tilt Sensor
-    MQT Gas Sensor
-    Obstacle Avoidance Sensor
-    Photo Resistor Sensor
-    Soil Humidity Sensor
-    Steam Sensor
-    TEMT6000 Sensor
-    Thin Film Pressure Sensor
+    <ul>
+      3W LED Module
+      Active Buzzer Module
+      APDS 9930 Attitude Sensor Module
+      Button Switch Module
+      Capacitive Touch Module
+      IR Receiver Module
+      IR Transmitter Module
+      Passive Buzzer Module
+      Photo Interruptor Module
+      Reed Switch Module
+      RGB LED Module
+      Single Relay Module
+      Traffic Light Module
+      White LED Module
+      Analog Rotation Sensor
+      Analaog Sound Sensor
+      Ball Tilt Switch Sensor
+      Ceramic Vibration Sensor
+      Crash Sensor
+      DHT11 Temperature and Humidity Sensor
+      Flame Sensor
+      GUVA S12S 3528 Ultraviolet Sensor
+      Hall Magnetic Sensor
+      HC-SR04 Ultrasonic Sensor
+      Knock Sensor
+      Line Tracking Sensor
+      LM35 Temperature Sensor
+      MMA84521 Module Acceleration Tilt Sensor
+      MQT Gas Sensor
+      Obstacle Avoidance Sensor
+      Photo Resistor Sensor
+      Soil Humidity Sensor
+      Steam Sensor
+      TEMT6000 Sensor
+      Thin Film Pressure Sensor
+    </ul>
   </div>
   <div style="flex: 1; padding: 10px;">
     <strong>Quantity</strong><br>
