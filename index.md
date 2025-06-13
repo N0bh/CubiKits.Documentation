@@ -14,6 +14,8 @@ title: Home
 <div style="display: flex;margin-bottom:2rem;">
   <div style="flex: 1; padding: 10px;">
     <strong>Item</strong><br>
+  </div>
+  <div>
     <ul>
       3W LED Module
       Active Buzzer Module
