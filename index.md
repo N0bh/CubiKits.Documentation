@@ -7,6 +7,19 @@ title: Home
 
 This is an era of artificial intelligence. Artificial intelligence is widely applied to our lives, especially for all kinds of robots. To make beginners understand the principle readily, this sensor kit includes digital and analog sensors, modules such as ultrasound, digital tubes, temperature and humidity sensors.
 
+# Components Lists
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <strong>Column 1</strong><br>
+    Content A
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <strong>Column 2</strong><br>
+    Content B
+  </div>
+</div>
+
 ## **Quick Start**
 - [Introduction](docs/introduction.html)
 - [Installation Guide](docs/installation.html)
