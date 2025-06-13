@@ -14,44 +14,42 @@ title: Home
 <div style="display: flex;margin-bottom:2rem;">
   <div style="flex: 1; padding: 10px;">
     <strong>Item</strong><br>
-  </div>
-  <div>
     <ul>
-      3W LED Module
-      Active Buzzer Module
-      APDS 9930 Attitude Sensor Module
-      Button Switch Module
-      Capacitive Touch Module
-      IR Receiver Module
-      IR Transmitter Module
-      Passive Buzzer Module
-      Photo Interruptor Module
-      Reed Switch Module
-      RGB LED Module
-      Single Relay Module
-      Traffic Light Module
-      White LED Module
-      Analog Rotation Sensor
-      Analaog Sound Sensor
-      Ball Tilt Switch Sensor
-      Ceramic Vibration Sensor
-      Crash Sensor
-      DHT11 Temperature and Humidity Sensor
-      Flame Sensor
-      GUVA S12S 3528 Ultraviolet Sensor
-      Hall Magnetic Sensor
-      HC-SR04 Ultrasonic Sensor
-      Knock Sensor
-      Line Tracking Sensor
-      LM35 Temperature Sensor
-      MMA84521 Module Acceleration Tilt Sensor
-      MQT Gas Sensor
-      Obstacle Avoidance Sensor
-      Photo Resistor Sensor
-      Soil Humidity Sensor
-      Steam Sensor
-      TEMT6000 Sensor
-      Thin Film Pressure Sensor
+      <li><a href="#">3W LED Module</a></li>
+      <li><a href="#">Active Buzzer Module</a></li>
+      <li><a href="#">APDS 9930 Attitude Sensor Module</a></li>
+      <li><a href="#">Button Switch Module</a></li>
+      <li><a href="#">Capacitive Touch Module</a></li>
+      <li><a href="#">IR Receiver Module</a></li>
+      <li><a href="#">IR Transmitter Module</a></li>
+      <li><a href="#">Passive Buzzer Module</a></li>
+      <li><a href="#">Photo Interruptor Module</a></li>
+      <li><a href="#">Reed Switch Module</a></li>
+      <li><a href="#">RGB LED Module</a></li>
+      <li><a href="#">Single Relay Module</a></li>
+      <li><a href="#">Traffic Light Module</a></li>
+      <li><a href="#">White LED Module</a></li>
+      <li><a href="#">Analog Rotation Sensor</a></li>
+      <li><a href="#">Analaog Sound Sensor</a></li>
+      <li><a href="#">Ball Tilt Switch Sensor</a></li>
+      <li><a href="#">Ceramic Vibration Sensor</a></li>
+      <li><a href="#">Crash Sensor</a></li>
+      <li><a href="#">DHT11 Temperature and Humidity Sensor</a></li>
+      <li><a href="#">Flame Sensor</a></li>
+      <li><a href="#">GUVA S12S 3528 Ultraviolet Sensor</a></li>
+      <li><a href="#">Hall Magnetic Sensor</a></li>
+      <li><a href="#">HC-SR04 Ultrasonic Sensor</a></li>
+      <li><a href="#">Knock Sensor</a></li>
+      <li><a href="#">Line Tracking Sensor</a></li>
+      <li><a href="#">LM35 Temperature Sensor</a></li>
+      <li><a href="#">MMA84521 Module Acceleration Tilt Sensor</a></li>
+      <li><a href="#">MQT Gas Sensor</a></li>
+      <li><a href="#">Obstacle Avoidance Sensor</a></li>
+      <li><a href="#">Photo Resistor Sensor</a></li>
+      <li><a href="#">Soil Humidity Sensor</a></li>
+      <li><a href="#">Steam Sensor</a></li>
+      <li><a href="#">TEMT6000 Sensor</a></li>
+      <li><a href="#">Thin Film Pressure Sensor</a></li>
     </ul>
   </div>
   <div style="flex: 1; padding: 10px;">
