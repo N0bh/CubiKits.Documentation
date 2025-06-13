@@ -5,7 +5,7 @@ title: Home
 
 # <span style="display:inline-block;margin-bottom:2rem;">IoT School PH Kit Documentation</span>
 
-<p style="margin-bottom:2rem;">
+<p style="text-align:center;margin-bottom:2rem;">
   This is an era of artificial intelligence. Artificial intelligence is widely applied to our lives, especially for all kinds of robots. To make beginners understand the principle readily, this sensor kit includes digital and analog sensors, modules such as ultrasound, digital tubes, temperature and humidity sensors.
 </p>
 
