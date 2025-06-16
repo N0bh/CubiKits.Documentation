@@ -226,28 +226,28 @@ title: Home
   <div class="section">
     <h3>Tutorials</h3>
     <details open>
-      <summary>Wi-Fi</summary>
+      <h4>Tutorials</h4>
     </details>
    </div>
 
   <div class="section">
     <h3>Tutorials</h3>
     <details open>
-      <summary>LoRaWAN</summary>
+      <h4>LoRaWAN</h4>
     </details>
    </div>
 
   <div class="section">
     <h3>Tutorials</h3>
     <details open>
-      <summary>Cellular</summary>
+      <h4>Cellular</h4>
     </details>
    </div>
 
   <div class="section">
     <h3>Tutorials</h3>
     <details open>
-      <summary>BLE</summary>
+      <h4>BLE</h4>
     </details>
    </div>
 
