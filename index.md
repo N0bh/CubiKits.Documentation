@@ -11,7 +11,7 @@ title: Home
 
 # <span style="display:inline-block;margin-bottom:2rem;">Components Lists
 
-<table style="width: 100%; border-collapse: collapse; margin-bottom: 2rem; color: white;">
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 2rem; color: Black;">
   <thead>
     <tr>
       <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Item</th>
@@ -197,93 +197,6 @@ title: Home
     <!-- Repeat rows as needed -->
   </tbody>
 </table>
-
-<div style="display: flex;margin-bottom:2rem;">
-  <div style="flex: 1; padding: 10px;">
-    <strong>Item</strong><br>
-    <div style="text-align: left; color: white;">
-      <li>
-        <a href="#">3W LED Module</a>
-        <a href="#">Active Buzzer Module</a>
-        <a href="#">APDS 9930 Attitude Sensor Module</a>
-        <a href="#">Button Switch Module</a>
-        <a href="#">Capacitive Touch Module</a>
-        <a href="#">IR Receiver Module</a>
-        <a href="#">IR Transmitter Module</a>
-        <a href="#">Passive Buzzer Module</a>
-        <a href="#">Photo Interruptor Module</a>
-        <a href="#">Reed Switch Module</a>
-        <a href="#">RGB LED Module</a>
-        <a href="#">Single Relay Module</a>
-        <a href="#">Traffic Light Module</a>
-        <a href="#">White LED Module</a>
-        <a href="#">Analog Rotation Sensor</a>
-        <a href="#">Analaog Sound Sensor</a>
-        <a href="#">Ball Tilt Switch Sensor</a>
-        <a href="#">Ceramic Vibration Sensor</a>
-        <a href="#">Crash Sensor</a>
-        <a href="#">DHT11 Temperature and Humidity Sensor</a>
-        <a href="#">Flame Sensor</a>
-        <a href="#">GUVA S12S 3528 Ultraviolet Sensor</a>
-        <a href="#">Hall Magnetic Sensor</a>
-        <a href="#">HC-SR04 Ultrasonic Sensor</a>
-        <a href="#">Knock Sensor</a>
-        <a href="#">Line Tracking Sensor</a>
-        <a href="#">LM35 Temperature Sensor</a>
-        <a href="#">MMA84521 Module Acceleration Tilt Sensor</a>
-        <a href="#">MQT Gas Sensor</a>
-        <a href="#">Obstacle Avoidance Sensor</a>
-        <a href="#">Photo Resistor Sensor</a>
-        <a href="#">Soil Humidity Sensor</a>
-        <a href="#">Steam Sensor</a>
-        <a href="#">TEMT6000 Sensor</a>
-        <a href="#">Thin Film Pressure Sensor</a>
-      </li>
-    </div>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <strong>Quantity</strong><br>
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-    1
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <strong>Picture</strong><br>
-    
-  </div>
-</div>
 
 ## **Quick Start**
 - [Introduction](docs/introduction.html)
