@@ -230,35 +230,31 @@ title: Home
           <li>Lorfi-WB</li>
         </ul>
     </details>
-   </div>
+  </div>
 
   <div>
-    <h3>Tutorials</h3>
     <details open>
       <h4>Tutorials</h4>
     </details>
-   </div>
+  </div>
 
   <div>
-    <h3>Tutorials</h3>
     <details open>
       <h4>LoRaWAN</h4>
     </details>
-   </div>
+  </div>
 
   <div>
-    <h3>Tutorials</h3>
     <details open>
       <h4>Cellular</h4>
     </details>
-   </div>
+  </div>
 
   <div>
-    <h3>Tutorials</h3>
     <details open>
       <h4>BLE</h4>
     </details>
-   </div>
+  </div>
 
   <div class="section">
     <h3>Projects/Usecase Samples</h3>
