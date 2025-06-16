@@ -206,13 +206,13 @@ title: Home
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   </p>
 
-  <div class="section">
+  <div>
     <h3>Installation Setups</h3>
       <li>Hardware Guide</li>
       <li>Software Guide</li>
   </div>
 
-  <div class="section">
+  <div>
     <h3>Tutorials</h3>
     <summary>Basics</summary>
       <ul>
@@ -221,7 +221,7 @@ title: Home
       </ul>
   </div>
 
-  <div class="section">
+  <div>
     <h3>Tutorials</h3>
     <details open>
       <summary>Basics</summary>
@@ -232,28 +232,28 @@ title: Home
     </details>
    </div>
 
-  <div class="section">
+  <div>
     <h3>Tutorials</h3>
     <details open>
       <h4>Tutorials</h4>
     </details>
    </div>
 
-  <div class="section">
+  <div>
     <h3>Tutorials</h3>
     <details open>
       <h4>LoRaWAN</h4>
     </details>
    </div>
 
-  <div class="section">
+  <div>
     <h3>Tutorials</h3>
     <details open>
       <h4>Cellular</h4>
     </details>
    </div>
 
-  <div class="section">
+  <div>
     <h3>Tutorials</h3>
     <details open>
       <h4>BLE</h4>
