@@ -12,27 +12,29 @@ title: Home
 # <span style="display:inline-block;margin-bottom:2rem;">Components Lists
 
 
-<div style="margin-bottom: 2rem;">
-  <div style="display: flex; font-weight: bold; margin-bottom: 10px;">
-    <div style="flex: 1; padding: 10px;">Item</div>
-    <div style="flex: 1; padding: 10px;">Quantity</div>
-    <div style="flex: 1; padding: 10px;">Picture</div>
-  </div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 2rem; color: white;">
+  <thead>
+    <tr>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Item</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Quantity</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Picture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;"><a href="#">3W LED Module</a></td>
+      <td style="padding: 10px;">1</td>
+      <td style="padding: 10px;"><img src="image1.jpg" alt="3W LED Module" style="max-width: 100px;"></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><a href="#">Active Buzzer Module</a></td>
+      <td style="padding: 10px;">1</td>
+      <td style="padding: 10px;"><img src="image2.jpg" alt="Active Buzzer Module" style="max-width: 100px;"></td>
+    </tr>
+    <!-- Repeat rows as needed -->
+  </tbody>
+</table>
 
-  <div style="display: flex; margin-bottom: 5px;">
-    <div style="flex: 1; padding: 10px;"><a href="#">3W LED Module</a></div>
-    <div style="flex: 1; padding: 10px;">1</div>
-    <div style="flex: 1; padding: 10px;"><img src="image1.jpg" alt="3W LED Module" style="max-width: 100px;"></div>
-  </div>
-
-  <div style="display: flex; margin-bottom: 5px;">
-    <div style="flex: 1; padding: 10px;"><a href="#">Active Buzzer Module</a></div>
-    <div style="flex: 1; padding: 10px;">1</div>
-    <div style="flex: 1; padding: 10px;"><img src="image2.jpg" alt="Active Buzzer Module" style="max-width: 100px;"></div>
-  </div>
-
-  <!-- Repeat for other items -->
-</div>
 
 
 
