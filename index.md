@@ -208,52 +208,28 @@ title: Home
 
   <div>
     <h3>Installation Setups</h3>
-      <li>Hardware Guide</li>
-      <li>Software Guide</li>
+      <a href="#">Hardware Guide</a>
+      <a href="#">Software Guide</a>
   </div>
 
   <div>
     <h3>Tutorials</h3>
     <summary>Basics</summary>
-      <ul>
-        <li>Lorfi-L</li>
-        <li>Lorfi-WB</li>
-      </ul>
+      <li>Lorfi-L</li>
+      <li>Lorfi-WB</li>
+  </div>
+
+
+  <div>
+    <h4>LoRaWAN</h4>
   </div>
 
   <div>
-    <h3>Tutorials</h3>
-    <details open>
-      <summary>Basics</summary>
-        <ul>
-          <li>Lorfi-L</li>
-          <li>Lorfi-WB</li>
-        </ul>
-    </details>
+    <h4>Cellular</h4>
   </div>
 
   <div>
-    <details open>
-      <h4>Tutorials</h4>
-    </details>
-  </div>
-
-  <div>
-    <details open>
-      <h4>LoRaWAN</h4>
-    </details>
-  </div>
-
-  <div>
-    <details open>
-      <h4>Cellular</h4>
-    </details>
-  </div>
-
-  <div>
-    <details open>
-      <h4>BLE</h4>
-    </details>
+    <h4>BLE</h4>
   </div>
 
   <div class="section">
