@@ -208,8 +208,17 @@ title: Home
 
   <div class="section">
     <h3>Installation Setups</h3>
-    <a href="#">Hardware Guide</a>
-    <a href="#">Software Guide</a>
+      <li>Hardware Guide</li>
+      <li>Software Guide</li>
+  </div>
+
+  <div class="section">
+    <h3>Tutorials</h3>
+    <summary>Basics</summary>
+      <ul>
+        <li>Lorfi-L</li>
+        <li>Lorfi-WB</li>
+      </ul>
   </div>
 
   <div class="section">
