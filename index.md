@@ -11,12 +11,38 @@ title: Home
 
 # <span style="display:inline-block;margin-bottom:2rem;">Components Lists
 
+
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; font-weight: bold; margin-bottom: 10px;">
+    <div style="flex: 1; padding: 10px;">Item</div>
+    <div style="flex: 1; padding: 10px;">Quantity</div>
+    <div style="flex: 1; padding: 10px;">Picture</div>
+  </div>
+
+  <div style="display: flex; margin-bottom: 5px;">
+    <div style="flex: 1; padding: 10px;"><a href="#">3W LED Module</a></div>
+    <div style="flex: 1; padding: 10px;">1</div>
+    <div style="flex: 1; padding: 10px;"><img src="image1.jpg" alt="3W LED Module" style="max-width: 100px;"></div>
+  </div>
+
+  <div style="display: flex; margin-bottom: 5px;">
+    <div style="flex: 1; padding: 10px;"><a href="#">Active Buzzer Module</a></div>
+    <div style="flex: 1; padding: 10px;">1</div>
+    <div style="flex: 1; padding: 10px;"><img src="image2.jpg" alt="Active Buzzer Module" style="max-width: 100px;"></div>
+  </div>
+
+  <!-- Repeat for other items -->
+</div>
+
+
+
+
 <div style="display: flex;margin-bottom:2rem;">
   <div style="flex: 1; padding: 10px;">
     <strong>Item</strong><br>
     <div style="text-align: left; color: white;">
       <li>
-        `<a href="#">3W LED Module</a>
+        <a href="#">3W LED Module</a>
         <a href="#">Active Buzzer Module</a>
         <a href="#">APDS 9930 Attitude Sensor Module</a>
         <a href="#">Button Switch Module</a>
