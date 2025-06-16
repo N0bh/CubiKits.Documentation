@@ -21,7 +21,7 @@ title: Home
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px; color: Black;"><a href="#">3W LED Module</a></td>
+      <td style="padding: 10px;"><a href="#">3W LED Module</a></td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image1.jpg" alt="3W LED Module" style="max-width: 100px;"></td>
     </tr>
@@ -194,25 +194,53 @@ title: Home
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
-    <!-- Repeat rows as needed -->
   </tbody>
 </table>
 
-## **Quick Start**
-- [Introduction](docs/introduction.html)
-- [Installation Guide](docs/installation.html)
-- [Project List](#Guides)
+# <span style="display:inline-block;margin-bottom:2rem;">Guides</span>
 
-- [Hardware Guide](docs/hardware-guide.html)
-- [Installation Guide to Arduino IDE](docs/installation.html)
-- Tutorial Guides
-  - Basic
-    - [Basic Lorfi-L](#basic-lorfi-l)
-    - [Basic Lorfi-W](#basic-lorfi-w)
-  - [Wi-Fi](#wi-fi)
-  - [LoRaWAN](#lorawan)
-  - [Cellular](#cellular)
-  - [BLE](#ble)
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+
+  <div class="section">
+    <h3>Installation Setups</h3>
+    <a href="#">Hardware Guide</a>
+    <a href="#">Software Guide</a>
+  </div>
+
+  <div class="section">
+    <h3>Tutorials</h3>
+    <details open>
+      <summary>Basics</summary>
+        <ul>
+          <li>Lorfi-L</li>
+          <li>Lorfi-WB</li>
+        </ul>
+        <summary>Wi-Fi</summary>
+        <summary>LoRaWAN</summary>
+        <summary>Cellular</summary>
+        <summary>BLE</summary>
+    </details>
+  </div>
+
+  <div class="section">
+    <h3>Projects/Usecase Samples</h3>
+    <ul>
+      <li><a href="#">Project Sample #1</a></li>
+      <li><a href="#">Project Sample #2</a></li>
+      <li><a href="#">Project Sample #3</a></li>
+      <li><a href="#">Project Sample #4</a></li>
+      <li><a href="#">Project Sample #5</a></li>
+    </ul>
+  </div>
+
+</body>
+</html>
+
 
 
 ### **Basic Lorfi-L**<br>
