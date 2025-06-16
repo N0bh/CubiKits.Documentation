@@ -199,7 +199,7 @@ title: Home
 
 # <span style="display:inline-block;margin-bottom:2rem;">Guides</span>
 
-  <p>
+  <p style="display:inline-block;margin-bottom:2rem;">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
@@ -220,10 +220,12 @@ title: Home
           <li>Lorfi-L</li>
           <li>Lorfi-WB</li>
         </ul>
-        <summary>Wi-Fi</summary>
-        <summary>LoRaWAN</summary>
-        <summary>Cellular</summary>
-        <summary>BLE</summary>
+    </details>
+    <details>
+      <summary>Wi-Fi</summary>
+      <summary>LoRaWAN</summary>
+      <summary>Cellular</summary>
+      <summary>BLE</summary>
     </details>
   </div>
 
