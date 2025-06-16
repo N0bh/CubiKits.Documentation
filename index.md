@@ -21,7 +21,7 @@ title: Home
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px;"><a href="#">3W LED Module</a></td>
+      <td style="padding: 10px; color: Black;"><a href="#">3W LED Module</a></td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image1.jpg" alt="3W LED Module" style="max-width: 100px;"></td>
     </tr>
