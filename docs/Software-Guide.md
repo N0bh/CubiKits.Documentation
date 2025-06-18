@@ -36,16 +36,20 @@ Go to File > Preferences.
 In the Additional Board Manager URLs field, add the following URL:
 https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless_com_rui_index.json
 
-If there are existing URLs, add this on a new line or separate with a comma.
+If there are existing URLs, add this on a new line or separate with a comma. Click OK to save.
 
-Click OK to save.
+*Insert Image*
 
 Restart the Arduino IDE.
 
-Go to Tools > Board > Boards Manager.
+Go to Tools > Board > Boards Manager. In the search bar, type RAK.
 
-In the search bar, type RAK.
+*Insert Image*
 
 Locate RAKwireless RUI STM32 Boards and click Install.
 
+*Insert Image*
+
 After installation, select your RAK3172 board via Tools > Board > RAKWireless RUI STM32 Modules > WisDuo RAK3172 Evaluation Board.
+
+*Insert Image*
