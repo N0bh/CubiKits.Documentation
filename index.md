@@ -212,7 +212,7 @@ title: Home
         <a href="/docs/Hardware-Guide.md">Hardware Guide</a>
       </li>
       <li>
-        <a href="/docs/Software-Guide.md">Software Guide</a>
+        <a href="/docs/Software-Guide.html">Software Guide</a>
       </li>
   </div>
 
