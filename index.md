@@ -207,20 +207,22 @@ title: Home
   </p>
 
   <div style="margin-bottom:2rem;">
-    <h3>Installation Setups</h3>
-      <li style="margin-bottom:2rem;">
-        <a href="#">Hardware Guide</a>
+    <h2>Installation Setups</h2>
+      <li>
+        <a href="/docs/Hardware-Guide.md">Hardware Guide</a>
       </li>
-      <li style="margin-bottom:2rem;">
-        <a href="#">Hardware Guide</a>
+      <li>
+        <a href="/docs/Software-Guide.md">Software Guide</a>
       </li>
   </div>
 
   <div style="margin-bottom:2rem;">
-    <h3>Tutorials</h3>
-    <h4>Basics</h4>
-      <li>Lorfi-L</li>
-      <li>Lorfi-WB</li>
+    <h2>Tutorials</h2>
+    <div>
+      <h4>Basics</h4>
+        <li>Lorfi-L</li>
+        <li>Lorfi-WB</li>
+    </div>
   </div>
 
   <div style="margin-bottom:2rem;">
@@ -343,19 +345,3 @@ title: Home
       <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Thin-Film-Pressure-Sensor.html">Thin-film Pressure Sensor</a></li>
     </ul>
   </details>
-
-### **Wi-Fi**
-
-Coming Soon...
-
-### **LoRaWAN**
-
-Coming Soon...
-
-### **Cellular**
-
-Coming Soon...
-
-### **BLE**
-
-Coming Soon...
