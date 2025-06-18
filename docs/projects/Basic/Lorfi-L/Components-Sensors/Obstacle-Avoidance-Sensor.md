@@ -1,15 +1,23 @@
-# using Lorfi-L
+# Infrared Obstacle Avoidance using Lorfi-L
 
 # Description
 
+The infrared obstacle sensor is designed for wheeled robots, with adjustable detection range (2–40 cm) and strong resistance to ambient light. It uses infrared reflection to detect objects and outputs a digital signal when an obstacle is sensed. Compatible with 3.3V–5V systems, it's ideal for Arduino and other microcontrollers.
 
 # Specification
 
-
+- Working voltage: DC 3.3V-5V
+- Working current: ≥20mA
+- Working temperature: －10℃ to＋50℃
+- Detection distance: 2-40cm
+- IO Interface: 4 wire interfaces (-/+/S/EN)
+- Output signal: TTL voltage
+- Accommodation mode: Multi-circle resistance regulation
+- Effective Angle: 35°
 
 ## Hardware Setup
 
-
+Connect the Out pin of module to Digital pin (PB5) of Lorfi-L board, connect the V+ pin to 5V port, GND pin to GND port.
 
 #### Using directly Lorfi-L
 
@@ -38,39 +46,20 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 ## **Sample Code**
 
 ```c
-// Ultrasonic Sensor Distance Measurement V4
-const int trigPin = 7;
-const int echoPin = 8;
-
-void setup() {
-Serial.begin(9600);
-pinMode(trigPin, OUTPUT);
-pinMode(echoPin, INPUT);
-}
-
-void loop() {
-long duration, distance;
-
-// Clear the trigPin
-digitalWrite(trigPin, LOW);
-delayMicroseconds(2);
-
-// Trigger the sensor
-digitalWrite(trigPin, HIGH);
-delayMicroseconds(10);
-digitalWrite(trigPin, LOW);
-
-// Read the echoPin
-duration = pulseIn(echoPin, HIGH);
-
-// Calculate distance
-distance = duration * 0.034 / 2;
-
-Serial.print("Distance: ");
-Serial.print(distance);
-Serial.println(" cm");
-
-delay(500);
+#define sensorPin PB5    // the number of the sensor pin
+int sensorState = 0;         // variable for reading the sensor status
+void setup() {    
+  pinMode(sensorPin, INPUT); }
+void loop(){
+  // read the state of the sensor value:
+  sensorState = digitalRead(sensorPin);
+  // if it is, the sensorState is HIGH:
+  if (sensorState == HIGH) {     
+     Serial.print("Object Detected!");  
+  } 
+  else {
+     Serial.print("Object not Detected!");
+  }
 }
 ```
 

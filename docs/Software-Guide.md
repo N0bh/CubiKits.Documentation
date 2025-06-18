@@ -27,7 +27,7 @@ Click Install and wait for the process to complete.
 
 Once installed, launch the Arduino IDE from your desktop or Start menu
 
-# Adding Boards RAK3172
+# Adding Boards LorfiRAK3172
 
 Open Arduino IDE.
 
