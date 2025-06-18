@@ -210,30 +210,32 @@ title: Home
     <h3>Installation Setups</h3>
       <li style="margin-bottom:2rem;">
         <a href="#">Hardware Guide</a>
-        <a href="#">Software Guide</a>
+      </li>
+      <li style="margin-bottom:2rem;">
+        <a href="#">Hardware Guide</a>
       </li>
   </div>
 
-  <div>
+  <div style="margin-bottom:2rem;">
     <h3>Tutorials</h3>
     <h4>Basics</h4>
       <li>Lorfi-L</li>
       <li>Lorfi-WB</li>
   </div>
 
-  <div>
+  <div style="margin-bottom:2rem;">
     <h4>LoRaWAN</h4>
   </div>
 
-  <div>
+  <div style="margin-bottom:2rem;">
     <h4>Cellular</h4>
   </div>
 
-  <div>
+  <div style="margin-bottom:2rem;">
     <h4>BLE</h4>
   </div>
 
-  <div class="section">
+  <div style="margin-bottom:2rem;">
     <h3>Projects/Usecase Samples</h3>
     <ul>
       <li><a href="#">Project Sample #1</a></li>
