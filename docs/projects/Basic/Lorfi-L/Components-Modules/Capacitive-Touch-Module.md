@@ -18,6 +18,8 @@ Future improvements to this type of sensor module aim to enhance performance and
 
 ## Hardware Setup 
 
+![Capacitive Touch Module](\assets\Images\LORFI Components\Lorfi-L_Modules\5.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].
@@ -27,7 +29,6 @@ You can find complete [Lorfi-L IO pinout here].
 #### Using Lorfi Interface board
 
 You can find complete guide for [Lorfi Interface here].
-
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 

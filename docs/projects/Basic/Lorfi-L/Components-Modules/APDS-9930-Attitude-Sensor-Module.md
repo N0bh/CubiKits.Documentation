@@ -28,6 +28,8 @@ An integrated micro optical lens enhances the efficiency of infrared signal tran
 
 ## Hardware Setup
 
+![Attitude Sensor Module](\assets\Images\LORFI Components\Lorfi-L_Modules\3.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

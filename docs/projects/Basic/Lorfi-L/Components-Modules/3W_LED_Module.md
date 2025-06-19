@@ -23,6 +23,8 @@ For instance, smart robots can utilize this module for lighting purposes. Howeve
 
 ## Hardware Setup
 
+![3W LED Module](\assets\Images\LORFI Components\Lorfi-L_Modules\1.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

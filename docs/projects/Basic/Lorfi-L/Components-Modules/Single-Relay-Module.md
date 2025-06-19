@@ -17,7 +17,7 @@ This single relay module is suitable for use in interactive projects and feature
 
 ## Hardware Setup
 
-
+![Single Relay Module](\assets\Images\LORFI Components\Lorfi-L_Modules\11.png)
 
 #### Using directly Lorfi-L
 

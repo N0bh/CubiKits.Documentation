@@ -14,7 +14,7 @@ This white LED light module is perfect for Arduino beginners. It easily connects
 
 ## Hardware Setup
 
-The pushbutton will be connected to digital IO pin of Lorfi-L. 
+![White LED Module](\assets\Images\LORFI Components\Lorfi-L_Modules\12.png)
 
 #### Using directly Lorfi-L
 

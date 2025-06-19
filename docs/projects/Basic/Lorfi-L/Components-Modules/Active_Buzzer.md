@@ -17,6 +17,8 @@ Despite its small size, it’s a powerful tool for creating engaging interactive
 
 ## Hardware Setup
 
+![Active Buzzer](\assets\Images\LORFI Components\Lorfi-L_Modules\2.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

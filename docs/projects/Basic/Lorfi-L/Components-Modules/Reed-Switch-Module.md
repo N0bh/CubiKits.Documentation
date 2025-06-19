@@ -26,7 +26,7 @@ Widely adopted in household appliances, automobiles, communication equipment, in
 
 ## Hardware Setup
 
-
+![Reed Switch Module](\assets\Images\LORFI Components\Lorfi-L_Modules\10.png)
 
 #### Using directly Lorfi-L
 

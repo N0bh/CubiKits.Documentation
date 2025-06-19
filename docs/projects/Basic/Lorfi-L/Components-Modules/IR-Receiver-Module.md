@@ -15,6 +15,8 @@ Infrared (IR) technology is commonly used in remote controls. With this IR recei
 
 ## Hardware Setup 
 
+![IR Receiver Module](\assets\Images\LORFI Components\Lorfi-L_Modules\6.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

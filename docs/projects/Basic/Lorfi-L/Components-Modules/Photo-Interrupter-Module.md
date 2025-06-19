@@ -17,6 +17,7 @@ This type of sensor is commonly used in various applications such as optical lim
 
 ## Hardware Setup
 
+![Photo Interrupter Module](\assets\Images\LORFI Components\Lorfi-L_Modules\9.png)
 
 #### Using directly Lorfi-L
 

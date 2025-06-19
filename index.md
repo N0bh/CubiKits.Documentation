@@ -263,7 +263,7 @@ title: Home
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/APDS-9930-Attitude-Sensor-Module.html">APDS-9930 Attitude Sensor Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Single-Relay-Module.html">Single Relay Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Reed-Switch-Module.html">Reed Switch Module</a></li>
-      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Photo-Interruptor-Module.html">Photo Interruptor Module</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Photo-Interrupter-Module.html">Photo Interruptor Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Capacitive-Touch-Module.html">Capacitive Touch Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Receiver-Module.html">IR Receiver Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>
@@ -312,7 +312,7 @@ title: Home
       <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/APDS-9930-Attitude-Sensor-Module.html">APDS-9930 Attitude Sensor Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Single-Relay-Module.html">Single Relay Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Reed-Switch-Module.html">Reed Switch Module</a></li>
-      <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Photo-Interruptor-Module.html">Photo Interruptor Module</a></li>
+      <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Photo-Interrupter-Module.html">Photo Interruptor Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Capacitive-Touch-Module.html">Capacitive Touch Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/IR-Receiver-Module.html">IR Receiver Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>

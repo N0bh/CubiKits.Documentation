@@ -13,6 +13,7 @@ The buzzer used in this project is a passive buzzer. It doesn't generate sound o
 
 # Hardware Setup
 
+![Passive Buzzer Module](\assets\Images\LORFI Components\Lorfi-L_Modules\8.png)
 
 #### Using directly Lorfi-L
 

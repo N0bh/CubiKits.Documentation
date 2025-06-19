@@ -22,6 +22,8 @@ This is a simple push-button module that's perfect for getting started with Ardu
 
 ## Hardware Setup 
 
+![Digital Push Button Module](\assets\Images\LORFI Components\Lorfi-L_Modules\4.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

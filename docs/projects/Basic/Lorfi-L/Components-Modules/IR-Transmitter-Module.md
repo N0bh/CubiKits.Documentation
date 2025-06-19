@@ -17,6 +17,8 @@ Infrared receivers typically have a limited detection angle, which is influenced
 
 ## Hardware Setup
 
+![IR Transmitter Module](\assets\Images\LORFI Components\Lorfi-L_Modules\7.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

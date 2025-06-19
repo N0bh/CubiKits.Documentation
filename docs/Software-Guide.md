@@ -41,17 +41,15 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 If there are existing URLs, add this on a new line or separate with a comma. Click OK to save.
 
-![Software Guide 1](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide1.png)
-
 Restart the Arduino IDE.
 
 Go to Tools > Board > Boards Manager. In the search bar, type RAK.
 
 ![Software Guide 2](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide2.png)
 
-Locate RAKwireless RUI STM32 Boards and click Install.
-
 ![Software Guide 3](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide3.png)
+
+Locate RAKwireless RUI STM32 Boards and click Install.
 
 After installation, select your RAK3172 board via Tools > Board > RAKWireless RUI STM32 Modules > WisDuo RAK3172 Evaluation Board.
 
