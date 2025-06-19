@@ -16,6 +16,8 @@ This Line Tracking Sensor is capable of detecting black lines on a white backgro
 
 Connect the S pin of module to Digital Input of the Lorfi board, connect the GND pin to GND port, V+ pin to 5V port.
 
+![Line Tracking Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\12.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

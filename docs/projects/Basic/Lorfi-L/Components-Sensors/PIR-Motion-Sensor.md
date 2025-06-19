@@ -24,6 +24,8 @@ This updated version, designed specifically for Arduino, features an all-in-one 
 
 Connect the S pin of module to Digital Input of the Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
 
+![PIR Motion Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\18.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

@@ -254,9 +254,7 @@ title: Home
     <summary><strong>Modules</strong></summary>
     <ul>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html">White LED Module</a></li>
-      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/RGB-LED-Module.html">RGB LED Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/3W_LED_Module.html">3W LED Module</a></li>
-      <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Traffic-Light-Module.html">Traffic Light Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Active_Buzzer.html">Active Buzzer Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Passive-Buzzer-Module.html">Passive Buzzer Module</a></li>
       <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Button-Switch-Module.html">Button Switch Module</a></li>

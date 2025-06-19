@@ -27,6 +27,8 @@ Next, please refer to the following connection table:
 
 Note: D4、D5 are the digital pins(PIN 5(PB5) and PIN 12(PB3) ).
 
+![HC-SR04 Ultrasonic Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\10.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

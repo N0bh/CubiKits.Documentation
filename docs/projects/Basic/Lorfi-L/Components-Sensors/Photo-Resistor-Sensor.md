@@ -15,6 +15,8 @@ Photocells, often found in everyday applications, are primarily used in smart sw
 
 Connect the S pin of module to Analog A0 of the Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
 
+![Photo Resistor Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\17.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

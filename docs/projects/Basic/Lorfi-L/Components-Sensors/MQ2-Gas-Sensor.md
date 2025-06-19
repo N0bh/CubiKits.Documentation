@@ -15,6 +15,8 @@ The MQ2 analog gas sensor is commonly used in gas leak detection systems for bot
 
 Connect the A0 pin of module to Analog A0 of the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
+![MQ2 Gas Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\15.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

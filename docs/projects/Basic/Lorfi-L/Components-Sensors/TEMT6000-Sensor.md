@@ -16,6 +16,8 @@ Designed to match the sensitivity of the human eye, the TEMT6000 performs best a
 
 This component is very straightforward to use—just connect the power, ground, and the signal pin to an analog input. Once connected, it outputs an analog voltage that increases with brightness. You can power it with 3.3V if needed, though the output voltage will be lower compared to 5V operation.
 
+![Ambient Light Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\21.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

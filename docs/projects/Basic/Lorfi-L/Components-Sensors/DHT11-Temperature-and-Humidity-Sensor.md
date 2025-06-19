@@ -15,6 +15,8 @@ The DHT11 sensor is a digital temperature and humidity sensor that provides cali
 
 Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
 
+![DHT11 Temperature and Humidity Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\6.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

@@ -15,6 +15,8 @@ This vibration sensor operates using a piezoelectric ceramic chip that detects a
 
 Connect the S pin of module to Analog A0 of Lorfi Board, connect the negative pin to GND port, NC pin to 5V port.
 
+![Ceramic Vibration Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\4.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].

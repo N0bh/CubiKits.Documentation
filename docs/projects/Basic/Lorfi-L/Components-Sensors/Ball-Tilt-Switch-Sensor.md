@@ -15,6 +15,8 @@ The tilt sensor functions as a digital tilt switch and can be used for basic til
 
 Connect the S pin of module to digital input of the Lorfi Board, connect the negative pin to GND port, positive pin to 5V port.
 
+![Digital Tilt Switch Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\3.png)
+
 #### Using directly Lorfi-L
 
 You can find complete [Lorfi-L IO pinout here].
