@@ -40,11 +40,11 @@ You can find complete guide for [Lorfi Interface here].
 
 Lorfi-L is based on RAK3172 LoRaWAN module. This must be added to Arduino IDE.
 
-Here's the guide [how to add RAK3172 on your Arduino IDE].
+Here's the guide on <a href="/docs/Software-Guide.html">how to add RAK3172 on your Arduino IDE</a>.
 
 Once RAK3172 is added, you can now select it from the board selection.
 
-*ADD HERE IMAGE OF RAK3172 ON BOARD SELECTION IN ARDUINO IDE.*
+![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
 
 If failing, test the UART connection by checking the version. Use `AT+VER=?` command with baud rate of 115200. In case of MCU brick, revive the RAK3172 by following this [guide from RAKwireless](https://learn.rakwireless.com/hc/en-us/articles/26687606549911-How-To-Guide-STM32CubeProgrammer-for-RAK-Modules).
 
