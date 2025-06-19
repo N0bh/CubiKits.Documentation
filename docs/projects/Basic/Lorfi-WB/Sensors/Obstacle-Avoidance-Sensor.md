@@ -40,8 +40,8 @@ The ultrasonic sensor uses sonar to determine distance to an object. It offers e
 
 ```c
 // Ultrasonic Sensor Distance Measurement V4
-const int trigPin = 7;
-const int echoPin = 8;
+#define trigPin = 2;
+#define echoPin = 14;
 
 void setup() {
 Serial.begin(9600);

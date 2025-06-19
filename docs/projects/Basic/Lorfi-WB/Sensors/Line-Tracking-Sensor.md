@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define sensor PB5
+#define sensor 2
 
 void setup()
 {

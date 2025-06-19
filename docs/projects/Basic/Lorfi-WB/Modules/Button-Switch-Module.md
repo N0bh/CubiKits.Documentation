@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define LED PB5
+#define LED 2
 
 void setup()
 {

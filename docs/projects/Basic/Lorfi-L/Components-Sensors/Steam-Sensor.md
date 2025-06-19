@@ -44,7 +44,7 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 ## **Sample Code**
 ```c
 ///Arduino Sample Code
-#define Sensor PB5
+#define Sensor PB3
 int val;
 
 void setup() {

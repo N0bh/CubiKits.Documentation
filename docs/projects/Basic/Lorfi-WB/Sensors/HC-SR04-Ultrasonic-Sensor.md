@@ -1,7 +1,7 @@
 ## **Sample Code**
 ```c
-#define TRIG_PIN PB3
-#define ECHO_PIN PB5
+#define TRIG_PIN 2
+#define ECHO_PIN 14
 
 void setup() {
   Serial.begin(9600);

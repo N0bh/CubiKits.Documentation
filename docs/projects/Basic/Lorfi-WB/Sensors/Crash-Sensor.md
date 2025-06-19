@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Sensor PB5  // set pin for collision sensor
+#define Sensor 2  // set pin for collision sensor
 
 int sensorState;  // set digital variable val
 void setup() {

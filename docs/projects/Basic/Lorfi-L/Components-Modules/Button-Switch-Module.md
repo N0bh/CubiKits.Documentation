@@ -49,18 +49,16 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 ## **Sample Code**
 ```c
 #define inputPin PB5
-#define LED PB3
 
 void setup() {
-  pinMode(LED, OUTPUT);      // set LED as output
   pinMode(inputPin, INPUT);     // set pushbutton as input
 }
 void loop(){
   int val = digitalRead(inputPin);  // read input value
   if (val == HIGH) {            // check if the input is HIGH
-    digitalWrite(LED, LOW);  // turn LED OFF
+    Serial.println("Button Pressed");
   } else {
-    digitalWrite(LED, HIGH); // turn LED ON
+    Serial.println("No action");
   }
 }
 ```

@@ -1,7 +1,7 @@
 ## **Sample Code**
 ```c
 #include <DHT11.h>
-DHT11 dht11(PB5);
+DHT11 dht11(2);
 
 void setup() {
     Serial.begin(9600);

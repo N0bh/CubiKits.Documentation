@@ -41,7 +41,7 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 
 ## **Sample Code**
 ```c
-#define Sensor PB5
+#define Sensor PB3
 
 void setup() {
   Serial.begin(9600);  //Open the serial to set the baud rate as 9600bps

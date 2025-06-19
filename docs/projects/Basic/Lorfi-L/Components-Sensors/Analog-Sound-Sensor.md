@@ -41,7 +41,7 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 
 ## **Sample Code**
 ```c
-#define Sensor PB5
+#define Sensor PB3
   int value = 0;  // variable for reading the sensor status
 
 void setup() {

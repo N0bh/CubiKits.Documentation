@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Relay PB5
+#define Relay 2
 
 void setup() {
   pinMode(Relay, OUTPUT);  //Set Pin3 as output

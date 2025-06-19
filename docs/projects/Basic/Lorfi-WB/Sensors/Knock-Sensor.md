@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Sensor PB5  // PB5 corresponds to a pin number (depends on the board, e.g. D11 on Uno)
+#define Sensor 2  // PB5 corresponds to a pin number (depends on the board, e.g. D11 on Uno)
 
 // State variable to detect knock
 volatile bool knockDetected = false;

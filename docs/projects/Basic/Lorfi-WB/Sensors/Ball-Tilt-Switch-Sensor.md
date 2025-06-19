@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Sensor PB5
+#define Sensor 2
 
 void setup() {
   pinMode(Sensor, INPUT);  // Set digital pin 3 to input mode

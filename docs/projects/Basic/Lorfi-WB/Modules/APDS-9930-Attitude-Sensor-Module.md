@@ -7,7 +7,6 @@
 
 // Pins
 #define APDS9930_INT    2  // Needs to be an interrupt pin
-#define LED_PIN         13 // LED for showing interrupt
 
 // Constants
 #define PROX_INT_HIGH   600 // Proximity level for interrupt
@@ -24,7 +23,6 @@ volatile bool isr_flag = false;
 void setup() {
 
   // Set LED as output
-  pinMode(LED_PIN, OUTPUT);
   pinMode(APDS9930_INT, INPUT);
 
   // Initialize Serial port
@@ -126,11 +124,6 @@ void loop() {
       Serial.print(F("  Ch1: "));
       Serial.println(ch1);
     }
-
-    // Turn on LED for a half a second
-    digitalWrite(LED_PIN, HIGH);
-    delay(300);
-    digitalWrite(LED_PIN, LOW);
 
     // Reset flag and clear APDS-9930 interrupt (IMPORTANT!)
     isr_flag = false;

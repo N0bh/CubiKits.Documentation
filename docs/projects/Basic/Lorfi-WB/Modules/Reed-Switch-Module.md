@@ -1,6 +1,6 @@
 ## **Sample Code**
 ```c
-#define Sensor PB5
+#define Sensor 2
 int val;  //define digital variable val
 
 void setup() {
