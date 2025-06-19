@@ -10,9 +10,10 @@ theme: minima
 
 # Navigation
 header_pages:
-  - docs/introduction.md
-  - docs/installation.md
-  - docs/hardware-guide.md
+  - docs/Software-Guide.md
+  - docs/Hardware-Guide.md
+  - docs/Guides.md
+  - docs/Components-Lists.md
 
 # Collections for better organization
 collections:
