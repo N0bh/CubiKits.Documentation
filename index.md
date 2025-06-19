@@ -220,7 +220,24 @@ title: Home
     <h2>Tutorials</h2>
     <div>
       <h4>Basics</h4>
-        <li>Lorfi-L</li>
+        <summary><strong>Lorfi-L</strong></summary>
+          <details>
+            <summary><strong>Modules</strong></summary>
+            <ul>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html">White LED Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/3W_LED_Module.html">3W LED Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Active_Buzzer.html">Active Buzzer Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Passive-Buzzer-Module.html">Passive Buzzer Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Button-Switch-Module.html">Button Switch Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/APDS-9930-Attitude-Sensor-Module.html">APDS-9930 Attitude Sensor Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Single-Relay-Module.html">Single Relay Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Reed-Switch-Module.html">Reed Switch Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Photo-Interrupter-Module.html">Photo Interruptor Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Capacitive-Touch-Module.html">Capacitive Touch Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Receiver-Module.html">IR Receiver Module</a></li>
+              <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>
+            </ul>
+          </details>
         <li>Lorfi-WB</li>
     </div>
   </div>
