@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 If there are existing URLs, add this on a new line or separate with a comma. Click OK to save.
 
-![Software Guide 1](C:\Users\VHON\iotlauncher.github.io\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide1.png)
+![Software Guide 1](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide1.png)
 
 Restart the Arduino IDE.
 
