@@ -40,7 +40,7 @@ You can find complete guide for [Lorfi Interface here].
 
 Lorfi-L is based on RAK3172 LoRaWAN module. This must be added to Arduino IDE.
 
-Here's the guide [how to add RAK3172 on your Arduino IDE].
+Here's the guide [how to add RAK3172 on your Arduino IDE](C:\Users\VHON\iotlauncher.github.io\docs\Software-Guide.md).
 
 Once RAK3172 is added, you can now select it from the board selection.
 
