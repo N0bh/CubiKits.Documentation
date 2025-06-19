@@ -34,11 +34,12 @@ Open Arduino IDE.
 Go to File > Preferences.
 
 In the Additional Board Manager URLs field, add the following URL:
+
 https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless_com_rui_index.json
 
 If there are existing URLs, add this on a new line or separate with a comma. Click OK to save.
 
-*Insert Image*
+![Software Guide 1](C:\Users\VHON\iotlauncher.github.io\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide1.png)
 
 Restart the Arduino IDE.
 
