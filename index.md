@@ -344,12 +344,7 @@ title: Home
   </div>
 
   <div style="margin-bottom:2rem;">
-    <h3>Projects/Usecase Samples</h3>
-    <ul>
-      <li><a href="#">Project Sample #1</a></li>
-      <li><a href="#">Project Sample #2</a></li>
-      <li><a href="#">Project Sample #3</a></li>
-      <li><a href="#">Project Sample #4</a></li>
-      <li><a href="#">Project Sample #5</a></li>
+    <h2>Projects/Usecase Samples</h2>
+    <h3>Coming Soon...</h3>
     </ul>
   </div>
