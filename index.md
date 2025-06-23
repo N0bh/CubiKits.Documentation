@@ -209,7 +209,7 @@ title: Home
   <div style="margin-bottom:2rem;">
     <h2>Installation Setups</h2>
       <li>
-        <a href="/docs/Hardware-Guide.md">Hardware Guide</a>
+        <a href="/docs/Hardware-Guide.html">Hardware Guide</a>
       </li>
       <li>
         <a href="/docs/Software-Guide.html">Software Guide</a>
