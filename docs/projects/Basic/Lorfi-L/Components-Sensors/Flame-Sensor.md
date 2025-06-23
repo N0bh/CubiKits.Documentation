@@ -16,6 +16,12 @@ This flame sensor is designed to detect fire or light sources with wavelengths r
 
 ## Hardware Setup
 
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
 Connect the D0 pin of module to Digital Input of the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
 ![Flame Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\7.png)

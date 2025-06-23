@@ -17,6 +17,14 @@ Despite its small size, it’s a powerful tool for creating engaging interactive
 
 ## Hardware Setup
 
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
+
 ![Active Buzzer](\assets\Images\LORFI Components\Lorfi-L_Modules\2.png)
 
 #### Using directly Lorfi-L

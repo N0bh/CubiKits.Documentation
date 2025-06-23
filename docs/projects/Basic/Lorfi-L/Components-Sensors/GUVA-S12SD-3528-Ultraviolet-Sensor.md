@@ -16,6 +16,12 @@ The GUVA-S12SD ultraviolet sensor is designed to detect UV light. It is commonly
 
 ## Hardware Setup
 
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
 Connect the D0 pin of module to Digital Input of Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
 ![GUVA S12SD-3528 Ultraviolet Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\8.png)

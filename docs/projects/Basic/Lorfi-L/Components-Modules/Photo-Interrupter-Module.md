@@ -17,6 +17,14 @@ This type of sensor is commonly used in various applications such as optical lim
 
 ## Hardware Setup
 
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
+
 ![Photo Interrupter Module](\assets\Images\LORFI Components\Lorfi-L_Modules\9.png)
 
 #### Using directly Lorfi-L

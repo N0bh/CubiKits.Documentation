@@ -16,6 +16,12 @@ When paired with an Arduino, this sensor can make plant care smarter and more ef
 
 ## Hardware Setup
 
+|     Sensor    |   Lorfi WB  |
+|---------------|-------------|
+| Signal        | A0          |
+| VCC           | 5V          |
+| GND           | GND         |
+
 Connect the S pin of module to Analog A0 of the Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
 
 ![Soil Humidity Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\19.png)

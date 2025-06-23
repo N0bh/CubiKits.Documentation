@@ -11,8 +11,15 @@ This white LED light module is perfect for Arduino beginners. It easily connects
 - Size: 30*20mm
 - Weight: 3g
 
-
 ## Hardware Setup
+
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
 
 ![White LED Module](\assets\Images\LORFI Components\Lorfi-L_Modules\12.png)
 

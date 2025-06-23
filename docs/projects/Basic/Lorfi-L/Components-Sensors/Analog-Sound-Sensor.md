@@ -13,6 +13,13 @@ The analog sound sensor is mainly used to detect the intensity of surrounding so
 
 ## Hardware Setup
 
+|     Sensor    |   Lorfi WB  |
+|---------------|-------------|
+| Signal        | A0          |
+| VCC           | 5V          |
+| GND           | GND         |
+
+
 Connect the S pin of module to Analog A0 of the Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
 
 ![Microphone Sound Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\2.png)

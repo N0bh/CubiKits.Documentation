@@ -15,6 +15,12 @@ The steam sensor is an analog sensor that can be used as a basic rain detector o
 
 ## Hardware Setup
 
+|     Sensor    |   Lorfi WB  |
+|---------------|-------------|
+| Signal        | A0          |
+| VCC           | 5V          |
+| GND           | GND         |
+
 Connect the S pin of module to Analog A0 of the Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
 
 ![Steam Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\20.png)

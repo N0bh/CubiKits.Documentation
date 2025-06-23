@@ -13,7 +13,13 @@ This module functions as a knock sensor that generates a brief signal when tappe
 
 ## Hardware Setup
 
-Connect the S pin of module to Digital Input of Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of the sensor to the Digital Input PB5 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
 ![Knock Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\11.png)
 

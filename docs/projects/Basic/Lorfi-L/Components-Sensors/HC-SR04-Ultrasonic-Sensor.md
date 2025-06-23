@@ -20,8 +20,8 @@ Next, please refer to the following connection table:
 
 | Ultrasonic ranger | Arduino Uno |
 |-------------------|-------------|
-| ECHO              | PB5          |
-| TRIG              | PB3          |
+| ECHO              | PB5         |
+| TRIG              | PB3         |
 | VCC               | 5V          |
 | GND               | GND         |
 

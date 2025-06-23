@@ -17,7 +17,13 @@ The infrared obstacle sensor is designed for wheeled robots, with adjustable det
 
 ## Hardware Setup
 
-Connect the Out pin of module to Digital pin (PB5) of Lorfi-L board, connect the V+ pin to 5V port, GND pin to GND port.
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of the sensor to the Digital Input PB5 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
 ![Obstacle Avoidance Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\16.png)
 

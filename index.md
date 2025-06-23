@@ -219,10 +219,6 @@ title: Home
   <div style="margin-bottom:2rem;">
     <h2>Tutorials</h2>
   </div>
-
-  <div style="margin-bottom:2rem;">
-    <h4>Basics</h4>
-  </div>
       
   <div style="margin-bottom:2rem;">
     <h2>Basics</h2>

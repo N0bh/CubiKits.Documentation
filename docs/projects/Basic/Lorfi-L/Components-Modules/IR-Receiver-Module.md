@@ -15,6 +15,14 @@ Infrared (IR) technology is commonly used in remote controls. With this IR recei
 
 ## Hardware Setup 
 
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
+
 ![IR Receiver Module](\assets\Images\LORFI Components\Lorfi-L_Modules\6.png)
 
 #### Using directly Lorfi-L

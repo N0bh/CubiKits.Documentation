@@ -22,6 +22,13 @@ The MMA8452Q is a smart, low-power, three-axis capacitive accelerometer with 12-
 
 ## Hardware Setup
 
+|     Sensor    |   Lorfi WB  |
+|---------------|-------------|
+| SDA           | PA11        |
+| SCL           | PA12        |
+| VCC           | 3V          |
+| GND           | GND         |
+
 Connect the SCL pin to pin 9, SDA pin to pin 10 of the Lorfi Board; Connect positive pin to 3V3 port, negative pin to GND port.
 
 ![MMA8452Q Module Acceleration Tilt Senso](\assets\Images\LORFI Components\Lorfi-L_Sensors\14.png)

@@ -14,7 +14,13 @@ This magnetic induction sensor detects magnetic materials within a range of up t
 
 ## Hardware Setup
 
-Connect the S pin of module to Digital Input of the Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of the sensor to the Digital Input PB5 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
 ![Hall Magnetic Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\9.png)
 

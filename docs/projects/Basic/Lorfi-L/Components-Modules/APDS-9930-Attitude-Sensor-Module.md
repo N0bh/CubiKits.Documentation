@@ -28,6 +28,16 @@ An integrated micro optical lens enhances the efficiency of infrared signal tran
 
 ## Hardware Setup
 
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| SDA           | PA11        |
+| SCL           | PA12        |
+| INT           | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of sensor to Digital Input of the Lorfi board for the interrupt pin, connect the SDA and SCL pins of the sensor to the Lorfi Board,s negative pin to GND port, positive pin to 5V port.
+
 ![Attitude Sensor Module](\assets\Images\LORFI Components\Lorfi-L_Modules\3.png)
 
 #### Using directly Lorfi-L

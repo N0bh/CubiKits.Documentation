@@ -13,7 +13,13 @@ The LM35 Linear Temperature Sensor is a semiconductor-based sensor designed to m
 
 ## Hardware Setup
 
-Connect the signal pin of sensor to A0 port of the Lorfi board, negative pin to GND port, positive pin to 5V port.
+|     Module    |   Lorfi L   |
+|---------------|-------------|
+| Signal        | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of the sensor to the Digital Input PB5 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
 ![LM35 Temperature Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\13.png)
 
