@@ -31,13 +31,13 @@ Note: D4、D5 are the digital pins(PIN 5(PB5) and PIN 12(PB3) ).
 
 #### Using directly Lorfi-L
 
-You can find complete [Lorfi-L IO pinout here].
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-L IO pinout here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
 #### Using Lorfi Interface board
 
-You can find complete guide for [Lorfi Interface here].
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 

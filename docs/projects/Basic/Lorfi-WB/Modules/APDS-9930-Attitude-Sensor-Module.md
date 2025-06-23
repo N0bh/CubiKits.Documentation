@@ -1,3 +1,67 @@
+# APDS-9930 Attitude Sensor Module using Lorfi-WB
+
+# Description
+
+This attitude sensor module is based on the APDS-9930 chip, which integrates an ambient light sensor and an infrared proximity sensor into a single 8-pin package. It communicates via an I2C interface and includes a built-in infrared LED for proximity sensing.
+
+The proximity sensor is pre-calibrated and capable of detecting objects up to 100mm away, removing the need for additional calibration of the device or its components. It functions reliably in a wide range of lighting environments, from bright outdoor conditions to dim indoor settings.
+
+An integrated micro optical lens enhances the efficiency of infrared signal transmission and reception, helping to reduce power usage. Additionally, its internal state machine allows the sensor to switch to low-power mode automatically, minimizing average energy consumption.
+
+# Specification
+
+- Working Voltage：DC 3.3-3.8V
+- Output Current：0-20mA
+- Temperature Range：-40℃—85℃
+- Optical module integrated with ALS, infrared LED and proximity detector;
+- Up to 16-bit resolution;
+- High sensitivity of operation in the back of dark glass;
+- 0.01lux low lumen performance;
+- Proximity detection, fully calibrated to 100 mm detection;
+- Integrate infrared LED and synchronous LED driver;
+- Eliminate factory calibration for proximity sensors;
+- Programmable waiting timer, waiting state’s power consumption- 90μA (typical value);
+- Programmable range is from 2.7milliseconds to 8 seconds;
+- Compatible with I2C interface, up to 400kHz (I2C fast mode);
+- Dedicated interruption pin;
+- Sleep mode power - 2.2μA (typical value).
+
+## Hardware Setup
+
+|     Module    |   Lorfi WB  |
+|---------------|-------------|
+| SDA           | CONN 19     |
+| SCL           | CONN 20     |
+| INT           | PB5         |
+| VCC           | 5V          |
+| GND           | GND         |
+
+Connect the Signal pin of sensor to Digital Input of the Lorfi board for the interrupt pin, connect the SDA and SCL pins of the sensor to the Lorfi Board,s negative pin to GND port, positive pin to 5V port.
+
+![Attitude Sensor Module](\assets\Images\LORFI Components\Lorfi-WB_Modules\3.png)
+
+#### Using directly Lorfi-WB
+
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-WB IO pinout here</a>.
+
+*MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
+
+#### Using Lorfi Interface board
+
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
+
+*MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
+
+## Software Setup
+
+Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). This must be added to Arduino IDE.
+
+Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 Board on your Arduino IDE</a>.
+
+Once ESP32 Board is added, you can now select it from the board selection.
+
+![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+
 ## **Sample Code**
 ```c
 
@@ -138,3 +202,14 @@ void interruptRoutine() {
   isr_flag = true;
 }
 ```
+
+## Expected Output
+
+Once the code is succesfully uploaded you must see the following output or behavior.
+
+*ADD HERE IMAGE OF SUCCESSFUL UPLOAD*
+
+*ADD HERE IMAGE OF EXPECTED OUTPUT IN SERIAL IF ANY*
+
+## FAQ
+

@@ -27,7 +27,7 @@ Click Install and wait for the process to complete.
 
 Once installed, launch the Arduino IDE from your desktop or Start menu
 
-# Adding Boards LorfiRAK3172
+# Adding Boards Lorfi-L RAK3172
 
 Open Arduino IDE.
 
@@ -54,3 +54,6 @@ Locate RAKwireless RUI STM32 Boards and click Install.
 After installation, select your RAK3172 board via Tools > Board > RAKWireless RUI STM32 Modules > WisDuo RAK3172 Evaluation Board.
 
 ![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+
+# Adding Boards Lorfi-WB ESP32
+

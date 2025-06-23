@@ -34,13 +34,13 @@ Connect the Signal pin of the sensor to the Digital Input PB5 on the Lorfi board
 
 #### Using directly Lorfi-L
 
-You can find complete [Lorfi-L IO pinout here].
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-L IO pinout here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
 #### Using Lorfi Interface board
 
-You can find complete guide for [Lorfi Interface here].
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 

@@ -25,17 +25,13 @@ Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative p
 
 #### Using directly Lorfi-L
 
-You can find complete [Lorfi-L IO pinout here].
-
-![Ultrasonic Sensor Connection]({{ '/assets/images/ultrasonic-connection.png' | relative_url }})
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-L IO pinout here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
 #### Using Lorfi Interface board
 
-You can find complete guide for [Lorfi Interface here].
-
-![Ultrasonic Sensor Connection]({{ '/assets/images/ultrasonic-connection.png' | relative_url }})
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 

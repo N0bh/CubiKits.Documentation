@@ -25,13 +25,13 @@ Connect the S pin of module to Analog A0 of the Lorfi board, connect the negativ
 
 #### Using directly Lorfi-L
 
-You can find complete [Lorfi-L IO pinout here].
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-L IO pinout here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
 #### Using Lorfi Interface board
 
-You can find complete guide for [Lorfi Interface here].
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
