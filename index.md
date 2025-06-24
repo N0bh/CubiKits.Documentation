@@ -10,8 +10,7 @@ title: Home
 </p>
 
 
-
-# <span style="display:inline-block;margin-bottom:2rem;">Guides</span>
+# <span style="display:inline-block;margin-bottom:1rem;">Guides</span>
 
   <p style="display:inline-block;margin-bottom:2rem;">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -34,11 +33,11 @@ title: Home
     <h2>Tutorials</h2>
   </div>
       
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:1rem;">
     <h2>Basics</h2>
   </div>
 
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:1rem;">
     <h4>Lorfi-L</h4>
     <div>
       <details>
@@ -142,22 +141,22 @@ title: Home
     </div>
   </div>
 
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:1rem;">
     <h2>LoRaWAN</h2>
     <h3>Coming Soon...</h3>
   </div>
 
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:1rem;">
     <h2>Cellular</h2>
     <h3>Coming Soon...</h3>
   </div>
 
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:1rem;">
     <h2>BLE</h2>
     <h3>Coming Soon...</h3>
   </div>
 
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:1rem;">
     <h2>Projects/Usecase Samples</h2>
     <h3>Coming Soon...</h3>
     </ul>
