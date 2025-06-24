@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installation
+title: Software Guide
 ---
 
 # Software Guide

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Component Lists
+---
+
 <h2>Component Lists</h2>
 
 <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
