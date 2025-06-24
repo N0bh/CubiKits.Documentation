@@ -21,7 +21,7 @@ title: Component Lists
   <tbody>
     <tr>
       <td style="text-align:justify;padding: 10px;">3W LED Module</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\3W_LED_Module.html">LoRaWAN</a><a>/</a><a href="\docs\projects\Basic\Lorfi-WB\Modules\3W-LED-Module.md">WiFi</a><a>/</a><a href="#">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\3W_LED_Module.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\3W-LED-Module.md">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\3W-LED-Module.md">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI Components\Components\3W_LED_MODULE.webp" style="max-width: 100px;"></td>
     </tr>
