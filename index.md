@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# <span style="display:inline-block;margin-bottom:1rem;">IoT School PH Kit</span>
+# <span style="display:inline-block;margin-bottom:1rem;">IoT School Development Kit</span>
 
 <p style="text-align:justify;margin-bottom:2rem;">
   The IoT School PH Kit is a flexible, educational hardware platform created for students, developers, and hobbyists to explore and prototype Internet of Things (IoT) projects. It includes Lorfi development boards, a multifunctional Lorfi Interface, and a variety of sensor modules—supporting wireless communication, data collection, and control tasks. The kit offers a hands-on introduction to wireless technologies like LoRa, Wi-Fi, BLE, and cellular, making it ideal for rapid prototyping and real-world IoT solutions.
@@ -20,14 +20,12 @@ title: Home
     <h2>Installation Setups</h2>
       <li>
         <a href="/docs/Hardware-Guide.html">Hardware Guide</a>
-      </li>
-      <li>
         <a href="/docs/Software-Guide.html">Software Guide</a>
       </li>
   </div>
 
-  <div style="margin-bottom:2rem;">
-    <h2>Tutorials</h2>
+  <div style="margin-bottom:1rem;">
+    <h2>Tutorials:</h2>
   </div>
       
   <div style="margin-bottom:1rem;">
@@ -35,10 +33,10 @@ title: Home
   </div>
 
   <div style="margin-bottom:1rem;">
-    <h4>Lorfi-L</h4>
+    <h4><strong>Lorfi-L</strong></h4>
     <div>
       <details>
-        <summary><strong>Modules</strong></summary>
+        <summary>Modules</summary>
         <ul>
           <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html">White LED Module</a></li>
           <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/3W_LED_Module.html">3W LED Module</a></li>
@@ -57,7 +55,7 @@ title: Home
     </div>
     <div>
       <details>
-        <summary><strong>Sensors</strong></summary>
+        <summary>Sensors</summary>
         <ul>
           <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Analog-Rotation-Sensor.html">Analog Rotation Sensor</a></li>
           <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Ball-Tilt-Switch-Sensor.html">Ball Tilt Switch Sensor</a></li>
@@ -86,10 +84,10 @@ title: Home
   </div>
 
   <div style="margin-bottom:2rem;">
-    <h4>Lorfi-WB</h4>
+    <h4><strong>Lorfi-WB</strong></h4>
     <div>
       <details>
-        <summary><strong>Modules</strong></summary>
+        <summary>Modules</summary>
         <ul>
           <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/White-LED-Module.html">White LED Module</a></li>
           <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/RGB-LED-Module.html">RGB LED Module</a></li>
@@ -110,7 +108,7 @@ title: Home
     </div>
     <div>
       <details>
-        <summary><strong>Sensors</strong></summary>
+        <summary>Sensors</summary>
         <ul>
           <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Analog-Rotation-Sensor.html">Analog Rotation Sensor</a></li>
           <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Ball-Tilt-Switch-Sensor.html">Ball Tilt Switch Sensor</a></li>
