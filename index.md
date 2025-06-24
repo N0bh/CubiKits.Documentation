@@ -6,17 +6,14 @@ title: Home
 # <span style="display:inline-block;margin-bottom:1rem;">IoT School PH Kit</span>
 
 <p style="text-align:justify;margin-bottom:2rem;">
-  This is an era of artificial intelligence. Artificial intelligence is widely applied to our lives, especially for all kinds of robots. To make beginners understand the principle readily, this sensor kit includes digital and analog sensors, modules such as ultrasound, digital tubes, temperature and humidity sensors.
+  The IoT School PH Kit is a flexible, educational hardware platform created for students, developers, and hobbyists to explore and prototype Internet of Things (IoT) projects. It includes Lorfi development boards, a multifunctional Lorfi Interface, and a variety of sensor modules—supporting wireless communication, data collection, and control tasks. The kit offers a hands-on introduction to wireless technologies like LoRa, Wi-Fi, BLE, and cellular, making it ideal for rapid prototyping and real-world IoT solutions.
 </p>
 
 
 # <span style="display:inline-block;margin-bottom:1rem;">Guides</span>
 
-  <p style="display:inline-block;margin-bottom:2rem;">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
+    This section provides step-by-step instructions on how to set up, connect, and program the IoT School PH Kit. Whether you're a beginner or an experienced developer, the guides are designed to help you get started with each component—from powering up the Lorfi development boards to using the sensor modules and wireless features. You'll learn how to build and test various IoT applications, understand the basics of LoRa, Wi-Fi, BLE, and cellular communication, and develop real-world solutions through practical examples and hands-on projects.
   </p>
 
   <div style="margin-bottom:2rem;">
