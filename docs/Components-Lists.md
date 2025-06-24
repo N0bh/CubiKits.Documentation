@@ -21,176 +21,176 @@ title: Component Lists
   <tbody>
     <tr>
       <td style="text-align:justify;padding: 10px;">3W LED Module</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\3W_LED_Module.html">LoRaWAN</a><a>/</a><a href="\docs\projects\Basic\Lorfi-L\Modules\3W-LED-Module.md">WiFi</a><a>/</a><a href="#">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\3W_LED_Module.html">LoRaWAN</a><a>/</a><a href="\docs\projects\Basic\Lorfi-WB\Modules\3W-LED-Module.md">WiFi</a><a>/</a><a href="#">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI Components\Components\3W_LED_MODULE.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Active Buzzer Module</a></td>
+      <td style="padding: 10px;">Active Buzzer Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="Active Buzzer Module" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">APDS 9930 Attitude Sensor Module</a></td>
+      <td style="padding: 10px;">APDS 9930 Attitude Sensor Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Button Switch Module</a></td>
+      <td style="padding: 10px;">Button Switch Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Capacitive Touch Module</a></td>
+      <td style="padding: 10px;">Capacitive Touch Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">IR Receiver Module</a></td>
+      <td style="padding: 10px;">IR Receiver Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">IR Transmitter Module</a></td>
+      <td style="padding: 10px;">IR Transmitter Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Passive Buzzer Module</a></td>
+      <td style="padding: 10px;">Passive Buzzer Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Photo Interrupter Module</a></td>
+      <td style="padding: 10px;">Photo Interrupter Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Reed Switch Module</a></td>
+      <td style="padding: 10px;">Reed Switch Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">RGB LED Module</a></td>
+      <td style="padding: 10px;">RGB LED Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Single Relay Module</a></td>
+      <td style="padding: 10px;">Single Relay Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Traffic Light Module</a></td>
+      <td style="padding: 10px;">Traffic Light Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">White LED Module</a></td>
+      <td style="padding: 10px;">White LED Module</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Analog Rotation Sensor</a></td>
+      <td style="padding: 10px;">Analog Rotation Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Analog Sound Sensor</a></td>
+      <td style="padding: 10px;">Analog Sound Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Ball Tilt Switch Sensor</a></td>
+      <td style="padding: 10px;">Ball Tilt Switch Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Ceramic Vibration Sensor</a></td>
+      <td style="padding: 10px;">Ceramic Vibration Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Crash Sensor</a></td>
+      <td style="padding: 10px;">Crash Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">DHT11 Temperature and Humidity Sensor</a></td>
+      <td style="padding: 10px;">DHT11 Temperature and Humidity Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Flame Sensor</a></td>
+      <td style="padding: 10px;">Flame Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">GUVA S12S 3528 Ultraviolet Sensor</a></td>
+      <td style="padding: 10px;">GUVA S12S 3528 Ultraviolet Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Hall Magnetic Sensor</a></td>
+      <td style="padding: 10px;">Hall Magnetic Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">HC-SR04 Ultrasonic Sensor</a></td>
+      <td style="padding: 10px;">HC-SR04 Ultrasonic Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Knock Sensor</a></td>
+      <td style="padding: 10px;">Knock Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Line Tracking Sensor</a></td>
+      <td style="padding: 10px;">Line Tracking Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">LM35 Temperature Sensor</a></td>
+      <td style="padding: 10px;">LM35 Temperature Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">MMA84521 Module Acceleration Tilt Sensor</a></td>
+      <td style="padding: 10px;">MMA84521 Module Acceleration Tilt Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr> <tr>
-      <td style="padding: 10px;"><a href="#">MQ2 Gas Sensor</a></td>
+      <td style="padding: 10px;">MQ2 Gas Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">IR Obstacle Avoidance Sensor</a></td>
+      <td style="padding: 10px;">IR Obstacle Avoidance Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Photocell Sensor</a></td>
+      <td style="padding: 10px;">Photocell Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Soil Humidity Sensor</a></td>
+      <td style="padding: 10px;">Soil Humidity Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Steam Sensor</a></td>
+      <td style="padding: 10px;">Steam Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">TEMT6000 Ambient Light Sensor</a></td>
+      <td style="padding: 10px;">TEMT6000 Ambient Light Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><a href="#">Thin-Film Pressure Sensor</a></td>
+      <td style="padding: 10px;">Thin-Film Pressure Sensor</td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image2.jpg" alt="" style="max-width: 100px;"></td>
     </tr>
