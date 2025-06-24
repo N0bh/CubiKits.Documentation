@@ -1,6 +1,6 @@
 <h2>Component Lists</h2>
 
-<p style="display:inline-block;margin-bottom:2rem;">
+<p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
   The IoT School PH Kit includes a range of digital and analog sensors, along with various expansion modules. It features components for environmental monitoring, motion detection, and user interaction—providing essential tools for building practical IoT projects in education, prototyping, or deployment. Here is the list:
 </p>
 
@@ -8,13 +8,15 @@
   <thead>
     <tr>
       <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Item</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Communication Protocol</th>
       <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Quantity</th>
       <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ccc;">Picture</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px;"><a href="#">3W LED Module</a></td>
+      <td style="padding: 10px;"><a>3W LED Module</a></td>
+      <td style="padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\3W_LED_Module.html">LoRaWAN</a><a href="\docs\projects\Basic\Lorfi-L\Modules\3W-LED-Module.md">WiFi</a><a href="#">BLE</a></td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image1.jpg" alt="3W LED Module" style="max-width: 100px;"></td>
     </tr>
