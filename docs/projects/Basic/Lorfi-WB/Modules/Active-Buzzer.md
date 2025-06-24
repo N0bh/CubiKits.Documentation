@@ -49,8 +49,6 @@ Once ESP32 board is added, you can now select it from the board selection.
 
 ![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
 
-If failing, test the UART connection by checking the version. Use `AT+VER=?` command with baud rate of 115200. In case of MCU brick, revive the RAK3172 by following this [guide from RAKwireless](https://learn.rakwireless.com/hc/en-us/articles/26687606549911-How-To-Guide-STM32CubeProgrammer-for-RAK-Modules).
-
 ## **Sample Code**
 ```c
 

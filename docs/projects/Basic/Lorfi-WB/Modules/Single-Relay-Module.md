@@ -54,7 +54,7 @@ Once ESP32 board is added, you can now select it from the board selection.
 #define Relay 2
 
 void setup() {
-  pinMode(Relay, OUTPUT);  //Set Pin3 as output
+  pinMode(Relay, OUTPUT); 
 }
 void loop() {
   digitalWrite(Relay, HIGH);    //Turn off relay
