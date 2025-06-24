@@ -16,7 +16,7 @@
   <tbody>
     <tr>
       <td style="padding: 10px;"><a>3W LED Module</a></td>
-      <td style="padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\3W_LED_Module.html">LoRaWAN</a><a href="\docs\projects\Basic\Lorfi-L\Modules\3W-LED-Module.md">WiFi</a><a href="#">BLE</a></td>
+      <td style="padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\3W_LED_Module.html">LoRaWAN</a><a>/</a><a href="\docs\projects\Basic\Lorfi-L\Modules\3W-LED-Module.md">WiFi</a><a>/</a><a href="#">BLE</a></td>
       <td style="padding: 10px;">1</td>
       <td style="padding: 10px;"><img src="image1.jpg" alt="3W LED Module" style="max-width: 100px;"></td>
     </tr>
