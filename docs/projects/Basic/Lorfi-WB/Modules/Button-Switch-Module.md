@@ -60,7 +60,7 @@ Once ESP32 board is added, you can now select it from the board selection.
 
 void setup()
 {
-  pinMode(LED, OUTPUT);     //Set Pin7 as output
+  pinMode(LED, OUTPUT); 
 }
 void loop()
 {    digitalWrite(LED, HIGH);   //Turn off led
