@@ -3,38 +3,46 @@ layout: default
 title: Hardware Guide
 ---
 
-# Hardware Guide
+# <span style="display:inline-block;margin-bottom:2rem;">Hardware Guide</span>
 
-In this section, we will explain the hardware involed in IoT School PH Kit.
+<p style="text-align:justify;margin-bottom:2rem;">
+  The IoT School PH Kit is a modular and educational hardware platform designed to provide learners, developers, and enthusiasts with all the essential tools to build and prototype Internet of Things (IoT) applications. The kit is composed of Lorfi development boards, a versatile Lorfi Interface, and a collection of sensor modules, allowing a wide range of wireless connectivity, data acquisition, and control functionalities. It serves as a foundation for understanding various wireless technologies such as LoRa, Wi-Fi, BLE, and cellular, while enabling quick prototyping for real-world applications.
+</p>
 
-## Lorfi Boards
+# <span style="display:inline-block;margin-bottom:2rem;">Lorfi Boards</span>
 
-### Lorfi-L
+<p style="text-align:justify;margin-bottom:2rem;">
+    The Lorfi series offers a range of development boards tailored to different wireless communication technologies, each suited for specific IoT scenarios.
+</p>
 
-Lorfi-L is based on RAK3172 and primarily used for long range application since it uses LoRa modulation. It fully supports LoRaWAN...
+# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-L</span>
 
-### Lorfi-WB
+<p style="text-align:justify;margin-bottom:2rem;">
+    Lorfi-L is powered by the RAK3172 module, designed for long-range wireless communication using LoRa modulation. It fully supports LoRaWAN, making it ideal for remote sensing, environmental monitoring, and low-power wide-area network (LPWAN) applications.
+</p>
 
-Lorfi-WB is based on ESP32 and supports BLE and WiFi use cases. It is best for smarthome and use cases that requires interaction with smartphone...
+# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-WB</span>
 
-### Lorfi-C
+<p style="text-align:justify;margin-bottom:2rem;">
+    Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). It is best suited for smart home, mobile-connected, and local wireless control use cases that require interaction with smartphones or home automation platforms.
+</p>
 
-Lorfi-C is based on SIM800L and supports cellular IoT use cases...
+# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-C</span>
 
-## Lorfi Interface
+<p style="text-align:justify;margin-bottom:2rem;">
+    Lorfi-C features the SIM800L module and supports Cellular IoT (2G GSM/GPRS) connectivity. This board is perfect for projects that require wide-area coverage, such as asset tracking, remote telemetry, or SMS-based alerts where internet infrastructure is limited.
+</p>
 
-Lorfi Interface design to have quick development of IoT applications.
+# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-Interface</span>
 
-## Sensor Modules
+<p style="text-align:justify;margin-bottom:2rem;">
+    The Lorfi Interface is designed to simplify development and testing by offering a standardized pinout and modular connection system. It enables rapid integration of sensor modules and facilitates fast prototyping of various IoT applications.
+</p>
 
-IoT School PH Kit includes 40 sensor modules
+# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-Interface</span>
+    The IoT School PH Kit comes with a variety of digital and analog sensors and expansion modules. These include components for environmental sensing, motion detection, and user interaction, providing the essential tools to build real-world IoT solutions for education, experimentation, or deployment.
+</p>
 
-| Component | Description |
-|-----------|-------------|
-| White LED | Basic LED module for beginners |
-| RGB LED | Multi-color LED module |
-| Temperature Sensor | Analog temperature measurement |
-| Ultrasonic Sensor | Distance measurement (2-40cm) |
-| PIR Motion Sensor | Motion detection module |
-
-> **Note:** The port "-, +, S" on sensors correspond to "G, V, S" due to edition changes.
+# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-Interface</span>
+    The IoT School PH Kit comes with a variety of digital and analog sensors and expansion modules. These include components for environmental sensing, motion detection, and user interaction, providing the essential tools to build real-world IoT solutions for education, experimentation, or deployment.
+</p>
