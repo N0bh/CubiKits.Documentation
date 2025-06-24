@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# <span style="display:inline-block;margin-bottom:2rem;">IoT School PH Kit Documentation</span>
+# <span style="display:inline-block;margin-bottom:1rem;">IoT School PH Kit</span>
 
 <p style="text-align:justify;margin-bottom:2rem;">
   This is an era of artificial intelligence. Artificial intelligence is widely applied to our lives, especially for all kinds of robots. To make beginners understand the principle readily, this sensor kit includes digital and analog sensors, modules such as ultrasound, digital tubes, temperature and humidity sensors.
@@ -159,5 +159,4 @@ title: Home
   <div style="margin-bottom:1rem;">
     <h2>Projects/Usecase Samples</h2>
     <h3>Coming Soon...</h3>
-    </ul>
   </div>
