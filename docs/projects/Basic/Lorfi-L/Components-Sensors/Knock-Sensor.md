@@ -1,4 +1,4 @@
-# knock Sensor using Lorfi-W
+# Knock Sensor using Lorfi-L
 
 # Description
 

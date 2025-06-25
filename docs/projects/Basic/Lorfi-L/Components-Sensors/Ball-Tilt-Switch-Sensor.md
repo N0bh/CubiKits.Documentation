@@ -1,4 +1,4 @@
-# Digital Tilt Switch Sensor using Lorfi-W
+# Digital Tilt Switch Sensor using Lorfi-L
 
 # Description
 

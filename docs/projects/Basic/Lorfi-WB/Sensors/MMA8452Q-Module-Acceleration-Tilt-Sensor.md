@@ -1,3 +1,56 @@
+# MMA8452Q Module Acceleration Tilt Sensor using Lorfi-WB
+
+# Description
+
+The MMA8452Q is a smart, low-power, three-axis capacitive accelerometer with 12-bit resolution. It offers advanced features, including customizable settings and dual interrupt pin configuration. Its built-in interrupt functions help reduce overall power usage by eliminating the need for constant data polling by the main processor. The sensor supports selectable measurement ranges of ±2g, ±4g, and ±8g, and can provide both high-pass filtered and unfiltered output data in real time. Additionally, it includes an inertial wake-up feature that allows the device to stay in low-power mode while monitoring for motion events.
+
+# Specification
+
+- Power Supply Voltage：1.95 V to 3.6 V
+- Interface Voltage：1.6 V to 3.6 V
+- ±2g/±4g/±8g Optional dynamic range
+- Output data rate (ODR) range: 1.56Hz to 800Hz
+- Noise：99μg/√Hz
+- 12 bits and 8 bits digital outputs;
+- I2C digital output interface (up to 2.25MHz when the pull-up resistor is 4.7kΩ);
+- Two programmable interruption pins applied to six interruption sources;
+- Three motion detection embedded channels: free fall detection, pulse detection, shaking detection;
+- Direction (transverse/longitudinal) detection with setting lag compensation;
+- Automatic arousal and auto-dormant ODR can be automatically altered;
+- High-pass filtering data can be exported in real time;
+- Power consumption: 6μA – 165μA
+
+## Hardware Setup
+
+|     Sensor    |   Lorfi WB  |
+|---------------|-------------|
+| SDA           | CONN19      |
+| SCL           | CONN20      |
+| VCC           | 3V          |
+| GND           | GND         |
+
+Connect the SCL pin to pin 19, SDA pin to pin 20 of the Lorfi Board; Connect positive pin to 3V3 port, negative pin to GND port.
+
+![MMA8452Q Module Acceleration Tilt Senso](\assets\Images\LORFI Components\Lorfi-WB_Sensors\13.png)
+
+#### Using directly Lorfi-WB
+
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-WB IO pinout here</a>.
+
+#### Using Lorfi Interface board
+
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
+
+## Software Setup
+
+Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). This must be added to Arduino IDE.
+
+Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board on your Arduino IDE</a>.
+
+Once ESP32 board is added, you can now select it from the board selection.
+
+![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+
 ## **Sample Code**
 ```c
 #include <Wire.h>               // Must include Wire library for I2C
@@ -76,3 +129,13 @@ void printOrientation() {
   }
 }
 ```
+
+## Expected Output
+
+Once the code is succesfully uploaded you must see the following output or behavior.
+
+*ADD HERE IMAGE OF SUCCESSFUL UPLOAD*
+
+*ADD HERE IMAGE OF EXPECTED OUTPUT IN SERIAL IF ANY*
+
+## FAQ

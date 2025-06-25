@@ -1,4 +1,4 @@
-# HC-SR04 Ultrasonic Sensor using Lorfi-W
+# HC-SR04 Ultrasonic Sensor using Lorfi-L
 
 # Description
 

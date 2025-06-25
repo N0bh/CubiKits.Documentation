@@ -1,4 +1,4 @@
-# DHT11 Temperature and Humidity Sensor using Lorfi-W
+# DHT11 Temperature and Humidity Sensor using Lorfi-L
 
 # Description
 

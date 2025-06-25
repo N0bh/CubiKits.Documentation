@@ -1,4 +1,4 @@
-# Hall Magnetic Sensor using Lorfi-W
+# Hall Magnetic Sensor using Lorfi-L
 
 # Description
 

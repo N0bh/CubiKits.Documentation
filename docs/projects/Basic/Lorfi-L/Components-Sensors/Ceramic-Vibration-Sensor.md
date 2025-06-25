@@ -1,4 +1,4 @@
-# Ceramic Vibration Sensor using Lorfi-W
+# Ceramic Vibration Sensor using Lorfi-L
 
 # Description
 

@@ -1,93 +1,77 @@
----
-layout: project
-title: "Project 36: Ultrasonic Ranger"
-project_number: 36
-difficulty: intermediate
-components: ["Ultrasonic Sensor", "Arduino UNO", "Jumper Wires"]
----
+# Infrared Obstacle Avoidance using Lorfi-WB
 
-# Project 36: Ultrasonic Ranger
+# Description
 
-## **Description**
-The ultrasonic sensor uses sonar to determine distance to an object. It offers excellent non-contact range detection with high accuracy and stable readings.
+The infrared obstacle sensor is designed for wheeled robots, with adjustable detection range (2–40 cm) and strong resistance to ambient light. It uses infrared reflection to detect objects and outputs a digital signal when an obstacle is sensed. Compatible with 3.3V–5V systems, it's ideal for Arduino and other microcontrollers.
 
-## **Specifications**
-- **Detection Distance:** 2-40cm
-- **IO Interface:** 4 wire interface (-/+/S/EN)  
-- **Output Signal:** TTL voltage
-- **Effective Angle:** 35°
-- **Size:** 41.7×16.7mm
-- **Weight:** 5g
+# Specification
 
-## **Required Components**
-- UNO Board × 1
-- Ultrasonic Sensor × 1  
-- USB Cable × 1
-- Jumper Wires × 4
+- Working voltage: DC 3.3V-5V
+- Working current: ≥20mA
+- Working temperature: －10℃ to＋50℃
+- Detection distance: 2-40cm
+- IO Interface: 4 wire interfaces (-/+/S/EN)
+- Output signal: TTL voltage
+- Accommodation mode: Multi-circle resistance regulation
+- Effective Angle: 35°
 
-## **Connection Diagram**
+## Hardware Setup
 
-![Ultrasonic Sensor Connection]({{ '/assets/images/ultrasonic-connection.png' | relative_url }})
+|     Module    |   Lorfi WB  |
+|---------------|-------------|
+| Signal        | GPIO2       |
+| VCC           | 5V          |
+| GND           | GND         |
 
-| Sensor Pin | Arduino Pin |
-|------------|-------------|
-| VCC | 5V |
-| GND | GND |
-| Trig | Digital Pin 7 |
-| Echo | Digital Pin 8 |
+Connect the Signal pin of the sensor to the Digital Input GPIO2 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
+
+![Infrared Obstacle Avoidance Sensor](\assets\Images\LORFI Components\Lorfi-WB_Sensors\15.png)
+
+#### Using directly Lorfi-WB
+
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-WB IO pinout here</a>.
+
+#### Using Lorfi Interface board
+
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
+
+## Software Setup
+
+Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). This must be added to Arduino IDE.
+
+Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board on your Arduino IDE</a>.
+
+Once ESP32 board is added, you can now select it from the board selection.
+
+![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
 
 ## **Sample Code**
 
 ```c
-// Ultrasonic Sensor Distance Measurement V4
-#define trigPin = 2;
-#define echoPin = 14;
-
-void setup() {
-Serial.begin(9600);
-pinMode(trigPin, OUTPUT);
-pinMode(echoPin, INPUT);
-}
-
-void loop() {
-long duration, distance;
-
-// Clear the trigPin
-digitalWrite(trigPin, LOW);
-delayMicroseconds(2);
-
-// Trigger the sensor
-digitalWrite(trigPin, HIGH);
-delayMicroseconds(10);
-digitalWrite(trigPin, LOW);
-
-// Read the echoPin
-duration = pulseIn(echoPin, HIGH);
-
-// Calculate distance
-distance = duration * 0.034 / 2;
-
-Serial.print("Distance: ");
-Serial.print(distance);
-Serial.println(" cm");
-
-delay(500);
+#define sensorPin A0    // the number of the sensor pin
+int sensorState = 0;         // variable for reading the sensor status
+void setup() {    
+  pinMode(sensorPin, INPUT); }
+void loop(){
+  // read the state of the sensor value:
+  sensorState = digitalRead(sensorPin);
+  // if it is, the sensorState is HIGH:
+  if (sensorState == HIGH) {     
+     Serial.print("Object Detected!");  
+  } 
+  else {
+     Serial.print("Object not Detected!");
+  }
 }
 ```
 
-## **How It Works**
-1. The sensor sends out an ultrasonic pulse
-2. The pulse reflects off objects and returns
-3. The sensor measures the time between sending and receiving
-4. Distance is calculated using: `Distance = (Time × Speed of Sound) / 2`
+## Expected Output
 
-## **Applications**
-- Robot obstacle avoidance
-- Automatic parking systems  
-- Liquid level measurement
-- Security systems
+Once the code is succesfully uploaded you must see the following output or behavior.
 
-## **Troubleshooting**
-- **No readings:** Check wiring connections
-- **Inconsistent readings:** Ensure sensor is mounted securely
-- **Out of range:** Target may be too close (<2cm) or too far (>40cm)
+*ADD HERE IMAGE OF SUCCESSFUL UPLOAD*
+
+*ADD HERE IMAGE OF EXPECTED OUTPUT IN SERIAL IF ANY*
+
+## FAQ
+

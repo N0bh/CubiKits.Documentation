@@ -1,4 +1,4 @@
-# Crash Sensor using Lorfi-W
+# Crash Sensor using Lorfi-L
 
 # Description
 

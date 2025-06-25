@@ -1,3 +1,49 @@
+# HC-SR04 Ultrasonic Sensor using Lorfi-WB
+
+# Description
+
+Ultrasonic waves have strong directionality, low energy loss, and can travel long distances through a medium, making them ideal for distance measurement applications such as range finders and position sensors. This ultrasonic sensor module offers a non-contact detection range of 2 cm to 450 cm, with a high measurement accuracy of up to 3 mm, making it suitable for most standard needs. The module integrates both an ultrasonic transmitter and receiver along with the necessary control circuitry.
+
+# Specification
+
+- Working voltage：0.5V(DC)
+- Working current：15mA
+- Detecting range：2-450cm
+- Detecting angle：15 degrees
+- Input trigger pulse：10us TTL Level
+- Output echo signal： output TTL level signal(HIGH)，proportional to range.
+
+## Hardware Setup
+
+Next, please refer to the following connection table:
+
+| Ultrasonic ranger | Lorfi WB    | 
+|-------------------|-------------|
+| ECHO              | GPIO14      |
+| TRIG              | GPIO2       |
+| VCC               | 5V          |
+| GND               | GND         |
+
+![HC-SR04 Ultrasonic Sensor](\assets\Images\LORFI Components\Lorfi-WB_Sensors\8.png)
+
+#### Using directly Lorfi-WB
+
+You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-WB IO pinout here</a>.
+
+#### Using Lorfi Interface board
+
+You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
+
+## Software Setup
+
+Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). This must be added to Arduino IDE.
+
+Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board on your Arduino IDE</a>.
+
+Once ESP32 board is added, you can now select it from the board selection.
+
+![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+
 ## **Sample Code**
 ```c
 #define TRIG_PIN 2
@@ -35,3 +81,13 @@ void loop() {
   delay(500);
 }
 ```
+
+## Expected Output
+
+Once the code is succesfully uploaded you must see the following output or behavior.
+
+*ADD HERE IMAGE OF SUCCESSFUL UPLOAD*
+
+*ADD HERE IMAGE OF EXPECTED OUTPUT IN SERIAL IF ANY*
+
+## FAQ

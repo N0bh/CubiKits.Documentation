@@ -1,4 +1,4 @@
-# MMA8452Q Module Acceleration Tilt Sensor using Lorfi-W
+# MMA8452Q Module Acceleration Tilt Sensor using Lorfi-L
 
 # Description
 
@@ -22,7 +22,7 @@ The MMA8452Q is a smart, low-power, three-axis capacitive accelerometer with 12-
 
 ## Hardware Setup
 
-|     Sensor    |   Lorfi WB  |
+|     Sensor    |   Lorfi L   |
 |---------------|-------------|
 | SDA           | PA11        |
 | SCL           | PA12        |

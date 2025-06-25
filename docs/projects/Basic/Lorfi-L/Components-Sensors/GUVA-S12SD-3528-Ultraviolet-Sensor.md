@@ -1,4 +1,4 @@
-# GUVA S12SD-3528 Ultraviolet Sensor using Lorfi-W
+# GUVA S12SD-3528 Ultraviolet Sensor using Lorfi-L
 
 # Description
 
@@ -18,11 +18,11 @@ The GUVA-S12SD ultraviolet sensor is designed to detect UV light. It is commonly
 
 |     Module    |   Lorfi L   |
 |---------------|-------------|
-| Signal        | PB5         |
+| Signal        | PB3         |
 | VCC           | 5V          |
 | GND           | GND         |
 
-Connect the Signal pin of the sensor to the Digital Input PB5 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
+Connect the Signal pin of the sensor to the Analog Signal PB3 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
 ![GUVA S12SD-3528 Ultraviolet Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\8.png)
 
@@ -52,7 +52,7 @@ If failing, test the UART connection by checking the version. Use `AT+VER=?` com
 
 ## **Sample Code**
 ```c
-#define Sensor PB5
+#define Sensor PB3
 
 void setup() {
   Serial.begin(9600);  //Open the serial to set the baud rate as 9600bps

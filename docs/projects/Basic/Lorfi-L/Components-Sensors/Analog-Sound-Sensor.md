@@ -1,4 +1,4 @@
-# Microphone Sound Sensor using Lorfi-W
+# Microphone Sound Sensor using Lorfi-L
 
 # Description
 
@@ -13,7 +13,7 @@ The analog sound sensor is mainly used to detect the intensity of surrounding so
 
 ## Hardware Setup
 
-|     Sensor    |   Lorfi WB  |
+|     Sensor    |   Lorfi L   |
 |---------------|-------------|
 | Signal        | A0          |
 | VCC           | 5V          |

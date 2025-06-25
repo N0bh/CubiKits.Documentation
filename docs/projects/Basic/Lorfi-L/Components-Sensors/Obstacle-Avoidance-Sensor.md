@@ -71,23 +71,6 @@ void loop(){
 }
 ```
 
-## **How It Works**
-1. The sensor sends out an ultrasonic pulse
-2. The pulse reflects off objects and returns
-3. The sensor measures the time between sending and receiving
-4. Distance is calculated using: `Distance = (Time × Speed of Sound) / 2`
-
-## **Applications**
-- Robot obstacle avoidance
-- Automatic parking systems  
-- Liquid level measurement
-- Security systems
-
-## **Troubleshooting**
-- **No readings:** Check wiring connections
-- **Inconsistent readings:** Ensure sensor is mounted securely
-- **Out of range:** Target may be too close (<2cm) or too far (>40cm)
-
 ## Expected Output
 
 Once the code is succesfully uploaded you must see the following output or behavior.

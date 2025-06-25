@@ -1,4 +1,4 @@
-# Flame Sensor using Lorfi-W
+# Flame Sensor using Lorfi-L
 
 # Description
 

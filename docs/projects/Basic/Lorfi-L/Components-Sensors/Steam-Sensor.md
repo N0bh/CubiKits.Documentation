@@ -15,7 +15,7 @@ The steam sensor is an analog sensor that can be used as a basic rain detector o
 
 ## Hardware Setup
 
-|     Sensor    |   Lorfi WB  |
+|     Sensor    |   Lorfi L   |
 |---------------|-------------|
 | Signal        | A0          |
 | VCC           | 5V          |

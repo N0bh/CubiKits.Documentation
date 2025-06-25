@@ -1,4 +1,4 @@
-# Line Tracking Sensor using Lorfi-W
+# Line Tracking Sensor using Lorfi-L
 
 # Description
 

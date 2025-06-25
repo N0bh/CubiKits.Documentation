@@ -37,7 +37,9 @@ Go to File > Preferences.
 
 In the Additional Board Manager URLs field, add the following URL:
 
+```c
 https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless_com_rui_index.json
+```
 
 If there are existing URLs, add this on a new line or separate with a comma. Click OK to save.
 

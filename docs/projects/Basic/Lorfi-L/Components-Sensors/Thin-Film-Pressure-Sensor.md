@@ -22,13 +22,13 @@ This sensor uses advanced flexible nano pressure-sensitive material combined wit
 
 |     Module    |   Lorfi L   |
 |---------------|-------------|
-| Signal        | PB5         |
+| Signal        | AO          |
 | VCC           | 5V          |
 | GND           | GND         |
 
-Connect the Signal pin of the sensor to the Digital Input PB5 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
+Connect the Signal pin of the sensor to the Analog Signal on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
-![Thin-Film Pressure Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\22.png)
+![Thin-Film Pressure Sensor](\assets\Images\LORFI Components\Lorfi-WB_Sensors\21.png)
 
 #### Using directly Lorfi-L
 

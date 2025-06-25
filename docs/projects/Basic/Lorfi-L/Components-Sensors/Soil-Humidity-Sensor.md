@@ -16,7 +16,7 @@ When paired with an Arduino, this sensor can make plant care smarter and more ef
 
 ## Hardware Setup
 
-|     Sensor    |   Lorfi WB  |
+|     Sensor    |   Lorfi L   |
 |---------------|-------------|
 | Signal        | A0          |
 | VCC           | 5V          |

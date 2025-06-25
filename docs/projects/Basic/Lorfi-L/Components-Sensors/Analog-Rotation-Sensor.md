@@ -13,9 +13,9 @@ This analog rotation sensor is compatible with Arduino and is built around a pot
 
 ## Hardware Setup
 
-|     Sensor    |   Lorfi WB  |
+|     Sensor    |   Lorfi L   |
 |---------------|-------------|
-| Signal        | A0          |
+| Signal        | PB3         |
 | VCC           | 5V          |
 | GND           | GND         |
 
