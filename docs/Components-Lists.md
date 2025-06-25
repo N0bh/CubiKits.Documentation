@@ -34,8 +34,8 @@ title: Component Lists
     <tr>
       <td style="padding: 10px;">APDS 9930 Attitude Sensor Module</td>
       <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\APDS_9930_Attitude_Sensor_Module.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\APDS_9930_Attitude_Sensor_Module.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\APDS_9930_Attitude_Sensor_Module.html">BLE</a></td>
-      <td style="padding: 10px;">1</td>
-      <td style="padding: 10px;"><img src="assets\Images\LORFI Components\Components\Attitude_Sensor.webp" style="max-width: 100px;"></td>
+      <td style="text-align:justify;padding: 10px;">1</td>
+      <td style="text-align:justify;padding: 10px;"><img src="assets\Images\LORFI Components\Components\Attitude_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Button Switch Module</td>

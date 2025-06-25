@@ -29,20 +29,21 @@ title: Hardware Guide
 
 # <span style="display:inline-block;margin-bottom:2rem;">Lorfi-C</span>
 
-<p style="text-align:justify;margin-bottom:2rem;">
+<p style="text-align:justify;margin-bottom:1rem;">
     Lorfi-C features the SIM800L module and supports Cellular IoT (2G GSM/GPRS) connectivity. This board is perfect for projects that require wide-area coverage, such as asset tracking, remote telemetry, or SMS-based alerts where internet infrastructure is limited.
 </p>
 
+<h4>Coming Soon...</h4>
+
+
 # <span style="display:inline-block;margin-bottom:2rem;">Lorfi-Interface</span>
 
-<p style="text-align:justify;margin-bottom:2rem;">
+<p style="text-align:justify;margin-bottom:1rem;">
     The Lorfi Interface is designed to simplify development and testing by offering a standardized pinout and modular connection system. It enables rapid integration of sensor modules and facilitates fast prototyping of various IoT applications.
 </p>
 
-# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-Interface</span>
-    The IoT School PH Kit comes with a variety of digital and analog sensors and expansion modules. These include components for environmental sensing, motion detection, and user interaction, providing the essential tools to build real-world IoT solutions for education, experimentation, or deployment.
-</p>
+<h4>Coming Soon...</h4>
 
-# <span style="display:inline-block;margin-bottom:2rem;">Lorfi-Interface</span>
+# <span style="display:inline-block;margin-bottom:2rem;">Components: Modules and Sensors</span>
     The IoT School PH Kit comes with a variety of digital and analog sensors and expansion modules. These include components for environmental sensing, motion detection, and user interaction, providing the essential tools to build real-world IoT solutions for education, experimentation, or deployment.
 </p>
