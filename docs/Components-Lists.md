@@ -29,13 +29,13 @@ title: Component Lists
       <td style="padding: 10px;">Active Buzzer Module</td>
       <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\Active_Buzzer.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Active_Buzzer.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Active_Buzzer.html">BLE</a></td>
       <td style="padding: 10px;">1</td>
-      <td style="padding: 10px;"><img src="assets\Images\LORFI Components\Components\Active_Buzzer_Module.webp" alt="Active Buzzer Module" style="max-width: 100px;"></td>
+      <td style="padding: 10px;"><img src="assets\Images\LORFI Components\Components\Active_Buzzer_Module.webp"style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">APDS 9930 Attitude Sensor Module</td>
       <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Components-Modules\APDS-9930-Attitude-Sensor-Module.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\APDS-9930-Attitude-Sensor-Module.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\APDS-9930-Attitude-Sensor-Module.html">BLE</a></td>
       <td style="padding: 10px;">1</td>
-      <td style="padding: 10px;"><img src="assets\Images\LORFI Components\Components\Attitude_Sensor.webp" alt="" style="max-width: 100px;"></td>
+      <td style="padding: 10px;"><img src="assets\Images\LORFI Components\Components\Attitude_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Button Switch Module</td>
