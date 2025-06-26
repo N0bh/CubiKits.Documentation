@@ -1,26 +1,26 @@
-title: "IoT School Development Kit: Documentation"  # ✅ Used as site-wide title in <title>
-description: "Complete guide for Lorfi projects and applications"  # ✅ Used for meta description
-baseurl: ""  # Leave empty if hosted on root (GitHub Pages will often use a subpath like /repo-name)
-url: "https://iotlauncher.github.io/iotlauncher"  # ✅ Base URL for links
+title: "IoT School Development Kit: Documentation"
+description: "Complete guide for Lorfi projects and applications"
+baseurl: ""
+url: "https://iotlauncher.github.io/iotlauncher"
 
-# # Build settings
-# markdown: kramdown
-# highlighter: rouge
-# theme: minima  # You may override it with your own layout
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
 
-# ✅ This controls which pages appear in the dynamic header
+# Navigation
 header_pages:
   - docs/Software-Guide.md
   - docs/Hardware-Guide.md
+  - docs/Guides.md
   - docs/Components-Lists.md
 
-# ✅ Collections to structure project content
+# Collections for better organization
 collections:
   projects:
     output: true
     permalink: /:collection/:name/
 
-# ✅ Default front matter for project pages
 defaults:
   - scope:
       path: ""
