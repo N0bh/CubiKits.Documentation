@@ -21,7 +21,7 @@ This vibration sensor operates using a piezoelectric ceramic chip that detects a
 
 Connect the S pin of module to Analog A0 of Lorfi Board, connect the negative pin to GND port, NC pin to 5V port.
 
-![Ceramic Vibration Sensor](\assets\Images\LORFI Components\Lorfi-WB_Sensors\2.png)
+![Ceramic Vibration Sensor](\assets\Images\LORFI_Components\Lorfi-WB_Sensors\2.png)
 
 #### Using directly Lorfi-WB
 
@@ -43,7 +43,7 @@ Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
 
 ## **Sample Code**
 ```c

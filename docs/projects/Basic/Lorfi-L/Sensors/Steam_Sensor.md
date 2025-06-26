@@ -23,7 +23,7 @@ The steam sensor is an analog sensor that can be used as a basic rain detector o
 
 Connect the S pin of module to Analog A0 of the Lorfi board, connect the negative pin to GND port, positive pin to 5V port.
 
-![Steam Sensor](\assets\Images\LORFI Components\Lorfi-L_Sensors\20.png)
+![Steam Sensor](\assets\Images\LORFI_Components\Lorfi-L_Sensors\20.png)
 
 #### Using directly Lorfi-L
 
@@ -45,7 +45,7 @@ Here's the guide on <a href="/docs/Software-Guide.html">how to add RAK3172 on yo
 
 Once RAK3172 is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
 
 If failing, test the UART connection by checking the version. Use `AT+VER=?` command with baud rate of 115200. In case of MCU brick, revive the RAK3172 by following this [guide from RAKwireless](https://learn.rakwireless.com/hc/en-us/articles/26687606549911-How-To-Guide-STM32CubeProgrammer-for-RAK-Modules).
 

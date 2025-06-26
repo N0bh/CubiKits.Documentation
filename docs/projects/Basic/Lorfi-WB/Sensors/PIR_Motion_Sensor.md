@@ -30,7 +30,7 @@ This updated version, designed specifically for Arduino, features an all-in-one 
 
 Connect the Signal pin of the sensor to the Digital Input GPIO2 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
-![PIR Motion Sensor](\assets\Images\LORFI Components\Lorfi-WB_Sensors\17.png)
+![PIR Motion Sensor](\assets\Images\LORFI_Components\Lorfi-WB_Sensors\17.png)
 
 #### Using directly Lorfi-WB
 
@@ -48,7 +48,7 @@ Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
 
 ## **Sample Code**
 ```c

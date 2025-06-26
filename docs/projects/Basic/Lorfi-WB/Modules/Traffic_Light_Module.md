@@ -25,7 +25,7 @@ The Traffic LED Module features built-in red, yellow, and green LEDs to simulate
 
 Connect the three signal pin (RED, YELLOW, GREEN) of the sensors to the GPIO pins of the Lorfi board, negative pin to GND port, positive pin to 5V port.
 
-![Traffic Light Module](\assets\Images\LORFI Components\Lorfi-WB_Modules\13.png)
+![Traffic Light Module](\assets\Images\LORFI_Components\Lorfi-WB_Modules\13.png)
 
 #### Using directly Lorfi-WB
 
@@ -47,7 +47,7 @@ Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
 
 ### Sample Code
 ```c

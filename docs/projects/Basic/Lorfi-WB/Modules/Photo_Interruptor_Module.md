@@ -24,7 +24,7 @@ This type of sensor is commonly used in various applications such as optical lim
 
 Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
 
-![Photo Interrupter Module](\assets\Images\LORFI Components\Lorfi-WB_Modules\9.png)
+![Photo Interrupter Module](\assets\Images\LORFI_Components\Lorfi-WB_Modules\9.png)
 
 #### Using directly Lorfi-WB
 
@@ -46,7 +46,7 @@ Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
 
 ## **Sample Code**
 ```c

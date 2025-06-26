@@ -31,7 +31,7 @@ The MMA8452Q is a smart, low-power, three-axis capacitive accelerometer with 12-
 
 Connect the SCL pin to pin 19, SDA pin to pin 20 of the Lorfi Board; Connect positive pin to 3V3 port, negative pin to GND port.
 
-![MMA8452Q Module Acceleration Tilt Senso](\assets\Images\LORFI Components\Lorfi-WB_Sensors\13.png)
+![MMA8452Q Module Acceleration Tilt Senso](\assets\Images\LORFI_Components\Lorfi-WB_Sensors\13.png)
 
 #### Using directly Lorfi-WB
 
@@ -49,7 +49,7 @@ Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
 
 ## **Sample Code**
 ```c

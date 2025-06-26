@@ -21,7 +21,7 @@ The MQ2 analog gas sensor is commonly used in gas leak detection systems for bot
 
 Connect the A0 pin of module to Analog A0 of the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
-![MQ2 Gas Sensor](\assets\Images\LORFI Components\Lorfi-WB_Sensors\14.png)
+![MQ2 Gas Sensor](\assets\Images\LORFI_Components\Lorfi-WB_Sensors\14.png)
 
 #### Using directly Lorfi-WB
 
@@ -39,7 +39,7 @@ Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI Components\Software-Guide_Images\Software_Guide4.png)
+![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
 
 ## **Sample Code**
 ```c
