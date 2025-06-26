@@ -40,18 +40,18 @@ title: Home
       <details>
         <summary>Modules</summary>
         <ul>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/White-LED-Module.html">White LED Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/3W_LED_Module.html">3W LED Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Active_Buzzer.html">Active Buzzer Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Passive-Buzzer-Module.html">Passive Buzzer Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Button-Switch-Module.html">Button Switch Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/APDS-9930-Attitude-Sensor-Module.html">APDS-9930 Attitude Sensor Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Single-Relay-Module.html">Single Relay Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Reed-Switch-Module.html">Reed Switch Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Photo-Interrupter-Module.html">Photo Interruptor Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/Capacitive-Touch-Module.html">Capacitive Touch Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Receiver-Module.html">IR Receiver Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/White_LED_Module.html">White LED Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/3W_LED_Module.html">3W LED Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/Active_Buzzer.html">Active Buzzer Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/Passive_Buzzer_Module.html">Passive Buzzer Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/Button_Switch_Module.html">Button Switch Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/APDS_9930_Attitude_Sensor_Module.html">APDS-9930 Attitude Sensor Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/Single_Relay_Module.html">Single Relay Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/Reed_Switch_Module.html">Reed Switch Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/Photo_Interrupter_Module.html">Photo Interruptor Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/Capacitive_Touch_Module.html">Capacitive Touch Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/IR_Receiver_Module.html">IR Receiver Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Modules/IR_Transmitter_Module.html">IR Transmitter Module</a></li>
         </ul>
       </details>
     </div>
@@ -59,27 +59,27 @@ title: Home
       <details>
         <summary>Sensors</summary>
         <ul>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Analog-Rotation-Sensor.html">Analog Rotation Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Ball-Tilt-Switch-Sensor.html">Ball Tilt Switch Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Crash-Sensor.html">Crash Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/DTH11-Temperature-and-Humidity-Sensor.html">DHT11 Temperature and Humidity Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Flame-Sensor.html">Flame Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/GUVA-S12SD-3528-Ultraviolet-Sensor.html">Ultraviolet Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Hall-Magnetic-Sensor.html">Hall Magnetic Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/HC-SR04-Ultrasonic-Sensor.html">HC-SR04 Ultrasonic Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Knock-Sensor.html">Knock Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Line-Tracking-Sensor.html">Line Tracking Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/LM35-Temperature-Sensor.html">LM35 Temperature Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Analog-Sound-Sensor.html">Analog Sound Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/MMA8452Q-Module-Acceleration-Tilt-Sensor.html">Acceleration Tilt Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Gas-Sensor.html">Gas Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Obstacle-Avoidance-Sensor.html">Obstacle Avoidance Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Photo-Resistor-Sensor.html">Photo Resistor Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/PIR-Motion-Sensor.html">PIR Motion Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Soil-Humidity-Sensor.html">Soil Humidity Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Steam-Sensor.html">Steam Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/TEMT6000-Sensor.html">Ambient Light Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-L/Components-Sensors/Thin-Film-Pressure-Sensor.html">Thin-film Pressure Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Analog_Rotation_Sensor.html">Analog Rotation Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Ball_Tilt_Switch_Sensor.html">Ball Tilt Switch Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Crash_Sensor.html">Crash Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/DTH11_Temperature_and_Humidity_Sensor.html">DHT11 Temperature and Humidity Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Flame_Sensor.html">Flame Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/GUVA_S12SD_3528_Ultraviolet_Sensor.html">Ultraviolet Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Hall_Magnetic_Sensor.html">Hall Magnetic Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/HC_SR04_Ultrasonic_Sensor.html">HC-SR04 Ultrasonic Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Knock_Sensor.html">Knock Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Line_Tracking_Sensor.html">Line Tracking Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/LM35_Temperature_Sensor.html">LM35 Temperature Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Analog_Sound_Sensor.html">Analog Sound Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/MMA8452Q_Module_Acceleration_Tilt_Sensor.html">Acceleration Tilt Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Gas_Sensor.html">Gas Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Obstacle_Avoidance_Sensor.html">Obstacle Avoidance Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Photo_Resistor_Sensor.html">Photo Resistor Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/PIR_Motion_Sensor.html">PIR Motion Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Soil_Humidity_Sensor.html">Soil Humidity Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Steam_Sensor.html">Steam Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/TEMT6000_Sensor.html">Ambient Light Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-L/Sensors/Thin_Film_Pressure_Sensor.html">Thin-film Pressure Sensor</a></li>
         </ul>
       </details>
     </div>
@@ -91,20 +91,20 @@ title: Home
       <details>
         <summary>Modules</summary>
         <ul>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/White-LED-Module.html">White LED Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/RGB-LED-Module.html">RGB LED Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/White_LED_Module.html">White LED Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/RGB_LED_Module.html">RGB LED Module</a></li>
           <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/3W_LED_Module.html">3W LED Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Traffic-Light-Module.html">Traffic Light Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Traffic_Light_Module.html">Traffic Light Module</a></li>
           <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Active_Buzzer.html">Active Buzzer Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Passive-Buzzer-Module.html">Passive Buzzer Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Button-Switch-Module.html">Button Switch Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/APDS-9930-Attitude-Sensor-Module.html">APDS-9930 Attitude Sensor Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Single-Relay-Module.html">Single Relay Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Reed-Switch-Module.html">Reed Switch Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Photo-Interrupter-Module.html">Photo Interruptor Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Capacitive-Touch-Module.html">Capacitive Touch Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/IR-Receiver-Module.html">IR Receiver Module</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/IR-Transmitter-Module.html">IR Transmitter Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Passive_Buzzer_Module.html">Passive Buzzer Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Button_Switch_Module.html">Button Switch Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/APDS_9930_Attitude_Sensor_Module.html">APDS-9930 Attitude Sensor Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Single_Relay_Module.html">Single Relay Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Reed_Switch_Module.html">Reed Switch Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Photo_Interrupter_Module.html">Photo Interruptor Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/Capacitive_Touch_Module.html">Capacitive Touch Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/IR_Receiver_Module.html">IR Receiver Module</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Modules/IR_Transmitter_Module.html">IR Transmitter Module</a></li>
         </ul>
       </details>
     </div>
@@ -112,27 +112,27 @@ title: Home
       <details>
         <summary>Sensors</summary>
         <ul>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Analog-Rotation-Sensor.html">Analog Rotation Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Ball-Tilt-Switch-Sensor.html">Ball Tilt Switch Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Crash-Sensor.html">Crash Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/DTH11-Temperature-and-Humidity-Sensor.html">DHT11 Temperature and Humidity Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Flame-Sensor.html">Flame Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/GUVA-S12SD-3528-Ultraviolet-Sensor.html">Ultraviolet Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Hall-Magnetic-Sensor.html">Hall Magnetic Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/HC-SR04-Ultrasonic-Sensor.html">HC-SR04 Ultrasonic Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Knock-Sensor.html">Knock Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Line-Tracking-Sensor.html">Line Tracking Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/LM35-Temperature-Sensor.html">LM35 Temperature Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Analog-Sound-Sensor.html">Analog Sound Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/MMA8452Q-Module-Acceleration-Tilt-Sensor.html">Acceleration Tilt Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Gas-Sensor.html">Gas Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Obstacle-Avoidance-Sensor.html">Obstacle Avoidance Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Photo-Resistor-Sensor.html">Photo Resistor Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/PIR-Motion-Sensor.html">PIR Motion Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Soil-Humidity-Sensor.html">Soil Humidity Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Steam-Sensor.html">Steam Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/TEMT6000-Sensor.html">Ambient Light Sensor</a></li>
-          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Thin-Film-Pressure-Sensor.html">Thin-film Pressure Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Analog_Rotation_Sensor.html">Analog Rotation Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Ball_Tilt_Switch_Sensor.html">Ball Tilt Switch Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Crash_Sensor.html">Crash Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/DTH11_Temperature_and_Humidity_Sensor.html">DHT11 Temperature and Humidity Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Flame_Sensor.html">Flame Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/GUVA_S12SD_3528_Ultraviolet_Sensor.html">Ultraviolet Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Hall_Magnetic_Sensor.html">Hall Magnetic Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/HC_SR04_Ultrasonic_Sensor.html">HC-SR04 Ultrasonic Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Knock_Sensor.html">Knock Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Line_Tracking_Sensor.html">Line Tracking Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/LM35_Temperature_Sensor.html">LM35 Temperature Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Analog_Sound_Sensor.html">Analog Sound Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/MMA8452Q_Module_Acceleration_Tilt_Sensor.html">Acceleration Tilt Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Gas_Sensor.html">Gas Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Obstacle_Avoidance_Sensor.html">Obstacle Avoidance Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Photo_Resistor_Sensor.html">Photo Resistor Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/PIR_Motion_Sensor.html">PIR Motion Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Soil_Humidity_Sensor.html">Soil Humidity Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Steam_Sensor.html">Steam Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/TEMT6000_Sensor.html">Ambient Light Sensor</a></li>
+          <li><a href="/docs/projects/Basic/Lorfi-WB/Sensors/Thin_Film_Pressure_Sensor.html">Thin-film Pressure Sensor</a></li>
         </ul>
       </details>
     </div>
