@@ -105,126 +105,126 @@ title: Component Lists
     </tr>
     <tr>
       <td style="padding: 10px;">Analog Rotation Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Analog_Rotation_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Analog_Rotation_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Analog_Rotation_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Analog_Rotation_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Rotation_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Rotation_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Analog_Rotation_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Analog Sound Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Analog_Sound_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Analog_Sound_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Analog_Sound_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Analog_Sound_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Sound_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Sound_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Analog_Sound_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Digital Tilt Switch Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Ball_Tilt_Switch_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Ball_Tilt_Switch_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Ball_Tilt_Switch_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Ball_Tilt_Switch_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Ball_Tilt_Switch_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Ball_Tilt_Switch_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Digital_Tilt_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Ceramic Vibration Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Ceramic_Vibration_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Ceramic_Vibration_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Ceramic_Vibration_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Ceramic_Vibration_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Ceramic_Vibration_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Ceramic_Vibration_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Ceramic_Vibration_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Crash Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Crash_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Crash_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Crash_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Crash_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Crash_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Crash_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Crash_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">DHT11 Temperature and Humidity Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\DHT11_Temperature_and_Humidity_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\DHT11_Temperature_and_Humidity_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\DHT11_Temperature_and_Humidity_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\DHT11_Temperature_and_Humidity_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\DHT11_Temperature_and_Humidity_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\DHT11_Temperature_and_Humidity_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\DHT11_Temperature_and_Humidity_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Flame Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Flame_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Flame_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Flame_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Flame_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Flame_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Flame_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\DHT11_Temperature_and_Humidity_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">GUVA S12S 3528 Ultraviolet Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\GUVA_S12S_3528_Ultraviolet_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\GUVA_S12S_3528_Ultraviolet_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\GUVA_S12S_3528_Ultraviolet_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\GUVA_S12S_3528_Ultraviolet_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\GUVA_S12S_3528_Ultraviolet_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\GUVA_S12S_3528_Ultraviolet_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Ultraviolet_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Hall Magnetic Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Hall_Magnetic_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Hall_Magnetic_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Hall_Magnetic_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Hall_Magnetic_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Hall_Magnetic_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Hall_Magnetic_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Hall_Magnetic_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">HC-SR04 Ultrasonic Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\HC_SR04_Ultrasonic_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\HC_SR04_Ultrasonic_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\HC_SR04_Ultrasonic_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\HC_SR04_Ultrasonic_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\HC_SR04_Ultrasonic_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\HC_SR04_Ultrasonic_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\HCSR04_Ultrasonic_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Knock Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Knock_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Knock_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Knock_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Knock_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Knock_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Knock_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Knock_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Line Tracking Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Line_Tracking_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Line_Tracking_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Line_Tracking_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Line_Tracking_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Line_Tracking_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Line_Tracking_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Line_Tracking_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">LM35 Temperature Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\LM35_Temperature_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\LM35_Temperature_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\LM35_Temperature_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\LM35_Temperature_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\LM35_Temperature_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\LM35_Temperature_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\LM35_Temperature_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">MMA84521 Module Acceleration Tilt Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\MMA84521_Module_Acceleration_Tilt_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\MMA84521_Module_Acceleration_Tilt_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\MMA84521_Module_Acceleration_Tilt_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\MMA84521_Module_Acceleration_Tilt_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\MMA84521_Module_Acceleration_Tilt_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\MMA84521_Module_Acceleration_Tilt_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\MMA84521_Module_Acceleration_Tilt_Sensor.webp" style="max-width: 100px;"></td>
     </tr> <tr>
       <td style="padding: 10px;">MQ2 Gas Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\MQ2_Gas_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\MQ2_Gas_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\MQ2_Gas_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\MQ2_Gas_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\MQ2_Gas_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\MQ2_Gas_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Gas_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">IR Obstacle Avoidance Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Obstacle_Avoidance_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Obstacle_Avoidance_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Obstacle_Avoidance_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Obstacle_Avoidance_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Obstacle_Avoidance_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Obstacle_Avoidance_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\IR_Obstacle_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Photocell Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Photo_Resistor_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Photo_Resistor_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Photo_Resistor_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Photo_Resistor_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Photo_Resistor_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Photo_Resistor_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Photocell_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Soil Humidity Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Soil_Humidity_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Soil_Humidity_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Soil_Humidity_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Soil_Humidity_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Soil_Humidity_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Soil_Humidity_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Soil_Humidity_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Steam Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Steam_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Steam_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Steam_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Steam_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Steam_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Steam_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Steam_Sensor.jpeg" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">TEMT6000 Ambient Light Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\TEMT6000_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\TEMT6000_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\TEMT6000_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\TEMT6000_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\TEMT6000_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\TEMT6000_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\TEMT6000_Ambient_Light_Sensor.jpeg" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Thin-Film Pressure Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\Thin_Film_Pressure_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Thin_Film_Pressure_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\Thin_Film_Pressure_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Thin_Film_Pressure_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Thin_Film_Pressure_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Thin_Film_Pressure_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Thin_Film_Pressure_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
