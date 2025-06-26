@@ -113,7 +113,7 @@ title: Component Lists
       <td style="padding: 10px;">Analog Sound Sensor</td>
       <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Analog_Sound_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Sound_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Sound_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
-      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Analog_Sound_Sensor.webp" style="max-width: 100px;"></td>
+      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Analog_Sound_Sensor.jpeg" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Digital Tilt Switch Sensor</td>
@@ -208,13 +208,13 @@ title: Component Lists
       <td style="padding: 10px;">Soil Humidity Sensor</td>
       <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Soil_Humidity_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Soil_Humidity_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Soil_Humidity_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
-      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Soil_Humidity_Sensor.webp" style="max-width: 100px;"></td>
+      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Soil_Humidity_Sensor.jpeg" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Steam Sensor</td>
       <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Steam_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Steam_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Steam_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
-      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Steam_Sensor.jpeg" style="max-width: 100px;"></td>
+      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Steam_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">TEMT6000 Ambient Light Sensor</td>
