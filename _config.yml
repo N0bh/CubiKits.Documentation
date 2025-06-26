@@ -3,10 +3,10 @@ description: "Complete guide for Lorfi projects and applications"  # ✅ Used fo
 baseurl: ""  # Leave empty if hosted on root (GitHub Pages will often use a subpath like /repo-name)
 url: "https://iotlauncher.github.io/iotlauncher"  # ✅ Base URL for links
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-theme: minima  # You may override it with your own layout
+# # Build settings
+# markdown: kramdown
+# highlighter: rouge
+# theme: minima  # You may override it with your own layout
 
 # ✅ This controls which pages appear in the dynamic header
 header_pages:
