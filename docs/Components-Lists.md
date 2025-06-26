@@ -83,7 +83,7 @@ title: Component Lists
       <td style="padding: 10px;">RGB LED Module</td>
       <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-WB\Modules\RGB_LED_Module.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\RGB_LED_Module.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
-      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\RGB_LED_Module.webp" style="max-width: 100px;"></td>
+      <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\RGB_LED_MODULE.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Single Relay Module</td>
