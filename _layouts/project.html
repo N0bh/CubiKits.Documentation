@@ -8,14 +8,19 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <header style="position: sticky; top: 0; width: 100%; background: white; z-index: 1000;">
-        <nav>
-            <ul>
-                <li><a href="/docs/Software-Guide.html">Software Guide</a></li>
-                <li><a href="/docs/Hardware-Guide.html">Hardware Guide</a></li>
-                <li><a href="/docs/Components-Lists.html">Components Lists</a></li>
-            </ul>
-        </nav>
+    <header style="position: fixed; top: 0; width: 100%; background: white; z-index: 1000; padding: 20px 40px; border: 1px solid #ccc; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);">
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
+            <div style="flex: 1;">
+                <h1 style="margin: 0; font-size: 24px; white-space: nowrap;">IoT School Development Kit: Documentation</h1>
+            </div>
+            <nav>
+                <ul style="display: flex; gap: 30px; list-style: none; margin: 0; padding: 0;">
+                    <li><a href="/docs/Software-Guide.html">Software Guide</a></li>
+                    <li><a href="/docs/Hardware-Guide.html">Hardware Guide</a></li>
+                    <li><a href="/docs/Components-Lists.html">Components Lists</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
             
     <main>
