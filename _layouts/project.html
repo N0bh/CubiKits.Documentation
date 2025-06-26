@@ -8,18 +8,14 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <header style="position: fixed; top: 0; width: 100%; background: white; z-index: 1000; padding: 20px 40px; border: 1px solid #ccc; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);">
-        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
-            <div style="flex: 1;">
-                <h1 style="margin: 0; font-size: 24px; white-space: nowrap;">{{ site.title }}</h1>
-            </div>
+    <header style="position: fixed; top: 0; width: 100%; background: white; z-index: 1000; border: 1px solid #ccc; padding: 20px 40px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
+            <h1 style="margin: 0; font-size: 20px; white-space: nowrap;">IoT School Development Kit: Documentation</h1>
             <nav>
-                <ul style="display: flex; gap: 30px; list-style: none; margin: 0; padding: 0;">
-                    {% for page in site.pages %}
-                    {% if site.header_pages contains page.path %}
-                        <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-                    {% endif %}
-                    {% endfor %}
+                <ul style="display: flex; list-style: none; margin: 0; padding: 0; gap: 30px;">
+                    <li><a href="/docs/Software-Guide.html">Software Guide</a></li>
+                    <li><a href="/docs/Hardware-Guide.html">Hardware Guide</a></li>
+                    <li><a href="/docs/Components-Lists.html">Component Lists</a></li>
                 </ul>
             </nav>
         </div>
