@@ -5,20 +5,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      min-height: 2000px; /* For scroll demonstration */
+    }
+    .navbar {
+      position: sticky;
+      top: 0;
+      background: #222;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 0 2rem;
+      height: 60px;
+      z-index: 1000;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      gap: 3rem; /* Gap between title and links */
+    }
+    .navbar-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+    .navbar-links {
+      display: flex;
+      gap: 2rem;
+    }
+    .navbar-links a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 1rem;
+      transition: color 0.2s;
+    }
+    .navbar-links a:hover {
+      color: #ff9800;
+    }
+  </style>
 </head>
 <body>
-    <header style="position: sticky; top: 0; width: 100%; background: white; z-index: 1000; padding: 10px; border: 1px solid #ccc; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);">
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-            <h1 style="margin: 0; font-size: 24px;">IoT School Development Kit: Documentation</h1>
-            <nav>
-                <ul style="display: flex; gap: 30px; list-style: none; margin: 0; padding: 0;">
-                    <li><a href="/docs/Software-Guide.html">Software Guide</a></li>
-                    <li><a href="/docs/Hardware-Guide.html">Hardware Guide</a></li>
-                    <li><a href="/docs/Components-Lists.html">Components Lists</a></li>
-                </ul>
-            </nav>
+    <nav class="navbar">
+        <div class="navbar-title">IoT Launcher Development Kit: Documentation</div>
+        <div class="navbar-links">
+            <a href="/docs/Software-Guide.html">Software Guide</a>
+            <a href="/docs/Hardware-Guide.html">Hardware Guide</a>
+            <a href="/docs/Components-Lists.html">Components Lists</a>
         </div>
-    </header>
+    </nav>
+
             
     <main>
         <div class="project-header">
