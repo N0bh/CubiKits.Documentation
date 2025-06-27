@@ -29,13 +29,13 @@ Connect the three signal pin (RED, YELLOW, GREEN) of the sensors to the GPIO pin
 
 #### Using directly Lorfi-WB
 
-You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-WB IO pinout here</a>.
+You can find complete <a href="/docs/Hardware_Guide.html">Lorfi-WB IO pinout here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
 #### Using Lorfi Interface board
 
-You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
+You can find complete guide for <a href="/docs/Hardware_Guide.html">Lorfi Interface here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
@@ -43,7 +43,7 @@ You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interf
 
 Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). This must be added to Arduino IDE.
 
-Here's the guide on <a href="/docs/Software-Guide.html">how to add ESP32 board on your Arduino IDE</a>.
+Here's the guide on <a href="/docs/Software_Guide.html">how to add ESP32 board on your Arduino IDE</a>.
 
 Once ESP32 board is added, you can now select it from the board selection.
 

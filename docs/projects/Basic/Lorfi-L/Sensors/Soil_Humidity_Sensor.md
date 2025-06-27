@@ -28,13 +28,13 @@ Connect the S pin of module to Analog A0 of the Lorfi board, connect the negativ
 
 #### Using directly Lorfi-L
 
-You can find complete <a href="/docs/Hardware-Guide.html">Lorfi-L IO pinout here</a>.
+You can find complete <a href="/docs/Hardware_Guide.html">Lorfi-L IO pinout here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
 #### Using Lorfi Interface board
 
-You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interface here</a>.
+You can find complete guide for <a href="/docs/Hardware_Guide.html">Lorfi Interface here</a>.
 
 *MIGHT NEED TO ADD NOTES ON POWER REQUIREMENTS, PIN CONSIDERATIONS, ETC.*
 
@@ -42,7 +42,7 @@ You can find complete guide for <a href="/docs/Hardware-Guide.html">Lorfi Interf
 
 Lorfi-L is based on RAK3172 LoRaWAN module. This must be added to Arduino IDE.
 
-Here's the guide on <a href="/docs/Software-Guide.html">how to add RAK3172 on your Arduino IDE</a>.
+Here's the guide on <a href="/docs/Software_Guide.html">how to add RAK3172 on your Arduino IDE</a>.
 
 Once RAK3172 is added, you can now select it from the board selection.
 
