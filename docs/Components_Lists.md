@@ -2,7 +2,7 @@
 layout: project
 ---
 
-# <span style="display:inline-block;margin-bottom:1rem;">Component Lists</span>
+## Component Lists
 
 <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
   The IoT School PH Kit includes a range of digital and analog sensors, along with various expansion modules. It features components for environmental monitoring, motion detection, and user interaction—providing essential tools for building practical IoT projects in education, prototyping, or deployment. Here is the list:
