@@ -1,5 +1,5 @@
 ---
-title: Home
+layout: project
 ---
 
 # <span style="display:inline-block;margin-bottom:1rem;">IoT School Development Kit</span>

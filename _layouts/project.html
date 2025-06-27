@@ -1,76 +1,81 @@
 <!DOCTYPE html> 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <style>
-      body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        min-height: 2000px; /* For scroll demonstration */
-      }
-      .navbar {
-        position: sticky;
-        top: 0;
-        background: #222;
-        color: #fff;
-        display: flex;
-        align-items: center;
-        justify-content: flex-start;
-        padding: 0 2rem;
-        height: 60px;
-        z-index: 1000;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-        gap: 3rem; /* Gap between title and links */
-      }
-      .navbar-title {
-        font-size: 1.5rem;
-        font-weight: bold;
-        letter-spacing: 1px;
-      }
-      .navbar-links {
-        display: flex;
-        gap: 2rem;
-      }
-      .navbar-links a {
-        color: #fff;
-        text-decoration: none;
-        font-size: 1rem;
-        transition: color 0.2s;
-      }
-      .navbar-links a:hover {
-        color: #ff9800;
-      }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      min-height: 2000px; /* For scroll demonstration */
+    }
+
+    .navbar {
+      position: sticky;
+      top: 0;
+      background: #222;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 60px;
+      z-index: 1000;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    .navbar-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      flex: 1;
+    }
+
+    .navbar-links {
+      display: flex;
+      gap: 2rem;
+    }
+
+    .navbar-links a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 1rem;
+      transition: color 0.2s;
+    }
+
+    .navbar-links a:hover {
+      color: #ff9800;
+    }
+  </style>
 </head>
 <body>
-    <nav class="navbar">
-        <div class="navbar-title">IoT Launcher Development Kit: Documentation</div>
-        <div class="navbar-links">
-            <a href="/docs/Software-Guide.html">Software Guide</a>
-            <a href="/docs/Hardware-Guide.html">Hardware Guide</a>
-            <a href="/docs/Components-Lists.html">Components Lists</a>
-        </div>
-    </nav>
-            
-    <main>
-        <div class="project-header">
-            <span class="project-number">Project {{ page.project_number }}</span>
-            <span class="difficulty">{{ page.difficulty | capitalize }}</span>
-        </div>
-        
-        {{ content }}
-        
-        <div class="project-navigation">
-            {% if page.project_number > 1 %}
-                <a href="project-{{ page.project_number | minus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">← Previous Project</a>
-            {% endif %}
-            {% if page.project_number < 37 %}
-                <a href="project-{{ page.project_number | plus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">Next Project →</a>
-            {% endif %}
-        </div>
-    </main>
+  <nav class="navbar">
+    <div class="navbar-title">IoT Launcher Development Kit: Documentation</div>
+    <div class="navbar-links">
+      <a href="/docs/Software-Guide.html">Software Guide</a>
+      <a href="/docs/Hardware-Guide.html">Hardware Guide</a>
+      <a href="/docs/Components-Lists.html">Components Lists</a>
+    </div>
+  </nav>
+
+  <main>
+    <div class="project-header">
+      <span class="project-number">Project {{ page.project_number }}</span>
+      <span class="difficulty">{{ page.difficulty | capitalize }}</span>
+    </div>
+
+    {{ content }}
+
+    <div class="project-navigation">
+      {% if page.project_number > 1 %}
+        <a href="project-{{ page.project_number | minus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">← Previous Project</a>
+      {% endif %}
+      {% if page.project_number < 37 %}
+        <a href="project-{{ page.project_number | plus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">Next Project →</a>
+      {% endif %}
+    </div>
+  </main>
 </body>
 </html>

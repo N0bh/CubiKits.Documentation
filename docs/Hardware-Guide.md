@@ -1,5 +1,5 @@
 ---
-title: Hardware Guide
+layout: project
 ---
 
 # <span style="display:inline-block;margin-bottom:1rem;">Hardware Guide</span>

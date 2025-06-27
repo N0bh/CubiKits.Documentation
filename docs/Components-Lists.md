@@ -1,6 +1,5 @@
 ---
 layout: project
-title: Component Lists
 ---
 
 # <span style="display:inline-block;margin-bottom:1rem;">Component Lists</span>
