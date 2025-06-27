@@ -61,21 +61,7 @@
   </nav>
 
   <main>
-    <div class="project-header">
-      <span class="project-number">Project {{ page.project_number }}</span>
-      <span class="difficulty">{{ page.difficulty | capitalize }}</span>
-    </div>
 
-    {{ content }}
-
-    <div class="project-navigation">
-      {% if page.project_number > 1 %}
-        <a href="project-{{ page.project_number | minus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">← Previous Project</a>
-      {% endif %}
-      {% if page.project_number < 37 %}
-        <a href="project-{{ page.project_number | plus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">Next Project →</a>
-      {% endif %}
-    </div>
   </main>
 </body>
 </html>
