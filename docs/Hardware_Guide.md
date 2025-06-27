@@ -19,10 +19,18 @@ title: Hardware Guide
     Lorfi-L is powered by the RAK3172 module, designed for long-range wireless communication using LoRa modulation. It fully supports LoRaWAN, making it ideal for remote sensing, environmental monitoring, and low-power wide-area network (LPWAN) applications.
 </p>
 
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Lorfi-Boards\Lorfi-L.jpg" alt="Centered Image" width="900" />
+</p>
+
 # <span style="display:inline-block;margin-bottom:1rem;">Lorfi-WB</span>
 
 <p style="text-align:justify;margin-bottom:2rem;">
     Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). It is best suited for smart home, mobile-connected, and local wireless control use cases that require interaction with smartphones or home automation platforms.
+</p>
+
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Lorfi-Boards\Lorfi-WB.jpg" alt="Centered Image" width="900" />
 </p>
 
 # <span style="display:inline-block;margin-bottom:1rem;">Lorfi-C</span>
@@ -32,7 +40,6 @@ title: Hardware Guide
 </p>
 
 <h4>Coming Soon...</h4>
-
 
 # <span style="display:inline-block;margin-bottom:1rem;">Lorfi-Interface</span>
 
