@@ -1,10 +1,10 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
   <style>
     body {
       margin: 0;
@@ -23,7 +23,7 @@
       padding: 0 2rem;
       height: 60px;
       z-index: 1000;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
     }
 
     .navbar-title {
@@ -51,6 +51,7 @@
   </style>
 </head>
 <body>
+
   <nav class="navbar">
     <div class="navbar-title">IoT Launcher Development Kit: Documentation</div>
     <div class="navbar-links">
@@ -59,23 +60,38 @@
       <a href="/docs/Components_Lists.html">Components Lists</a>
     </div>
   </nav>
-              
-  <main>
-      <div class="project-header">
-          <span class="project-number">Project {{ page.project_number }}</span>
-          <span class="difficulty">{{ page.difficulty | capitalize }}</span>
-      </div>
-      
+
+  <main style="padding: 2rem; max-width: 960px; margin: auto;">
+    <header style="margin-bottom: 2rem;">
+      <h1>{{ page.title }}</h1>
+      {% if page.project_number or page.difficulty %}
+      <p style="color: #666;">
+        {% if page.project_number %}Project #{{ page.project_number }}{% endif %}
+        {% if page.difficulty %} | Difficulty: {{ page.difficulty | capitalize }}{% endif %}
+      </p>
+      {% endif %}
+    </header>
+
+    <section class="content">
       {{ content }}
-      
-      <div class="project-navigation">
-          {% if page.project_number > 1 %}
-              <a href="project-{{ page.project_number | minus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">← Previous Project</a>
-          {% endif %}
-          {% if page.project_number < 37 %}
-              <a href="project-{{ page.project_number | plus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">Next Project →</a>
-          {% endif %}
-      </div>
+    </section>
+
+    <hr style="margin: 3rem 0; border: none; border-top: 1px solid #ccc;" />
+
+    <nav class="project-navigation" style="display: flex; justify-content: space-between;">
+      {% if page.project_number > 1 %}
+        <a href="/docs/project-{{ page.project_number | minus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">← Previous</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+
+      {% if page.project_number < 37 %}
+        <a href="/docs/project-{{ page.project_number | plus: 1 | prepend: '00' | slice: -2, 2 }}-*.html">Next →</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+    </nav>
   </main>
+
 </body>
 </html>
