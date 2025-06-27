@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Software Guide
 ---
 

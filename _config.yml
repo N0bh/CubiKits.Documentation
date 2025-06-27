@@ -12,7 +12,6 @@ theme: minima
 header_pages:
   - docs/Software-Guide.md
   - docs/Hardware-Guide.md
-  - docs/Guides.md
   - docs/Components-Lists.md
 
 # Collections for better organization
