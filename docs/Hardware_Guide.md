@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Hardware Guide
 ---
-
-## Hardware Guide
 
 <p style="text-align:justify;margin-bottom:2rem;">
   The IoT School PH Kit is a modular and educational hardware platform designed to provide learners, developers, and enthusiasts with all the essential tools to build and prototype Internet of Things (IoT) applications. The kit is composed of Lorfi development boards, a versatile Lorfi Interface, and a collection of sensor modules, allowing a wide range of wireless connectivity, data acquisition, and control functionalities. It serves as a foundation for understanding various wireless technologies such as LoRa, Wi-Fi, BLE, and cellular, while enabling quick prototyping for real-world applications.

@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Software Guide
 ---
-
-## Software Guide
 
 This section covers the software used in the IoT School PH Kit, including how to install and configure it for your development needs.
 
