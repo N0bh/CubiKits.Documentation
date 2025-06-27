@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Component Lists
 ---
 
