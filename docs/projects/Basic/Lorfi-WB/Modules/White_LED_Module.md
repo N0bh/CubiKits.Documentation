@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # White LED Module using Lorfi-WB
 
 # Description

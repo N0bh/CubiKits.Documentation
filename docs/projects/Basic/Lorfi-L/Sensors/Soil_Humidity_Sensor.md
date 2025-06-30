@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Soil Humidity Sensor using Lorfi-L
 
 # Description

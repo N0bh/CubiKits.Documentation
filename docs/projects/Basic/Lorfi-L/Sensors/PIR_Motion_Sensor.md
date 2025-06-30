@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # PIR Motion Sensor using Lorfi-L
 
 # Description

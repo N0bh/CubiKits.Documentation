@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Digital Push Button Module using Lorfi-L
 
 # Description

@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Infrared Obstacle Avoidance using Lorfi-L
 
 # Description

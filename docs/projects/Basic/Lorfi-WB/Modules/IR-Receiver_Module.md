@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Digital IR Receiver using Lorfi-WB
 
 # Description

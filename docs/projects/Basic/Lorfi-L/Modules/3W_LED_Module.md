@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # 3W LED Module using Lorfi-L
 
 # Description

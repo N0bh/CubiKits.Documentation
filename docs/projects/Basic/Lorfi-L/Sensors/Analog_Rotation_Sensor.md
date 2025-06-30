@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Analog Rotation Sensor using Lorfi-L
 
 # Description

@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Active Buzzer Module using Lorfi-L
 
 # Description

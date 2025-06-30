@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Reed Switch Module using Lorfi-WB
 
 # Description

@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Digital IR Transmitter using Lorfi-WB
 
 # Description

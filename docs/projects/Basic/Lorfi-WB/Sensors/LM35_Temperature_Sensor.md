@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # LM35 Temperature Sensor using Lorfi-WB
 
 # Description

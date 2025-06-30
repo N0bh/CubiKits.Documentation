@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Ceramic Vibration Sensor using Lorfi-WB
 
 # Description

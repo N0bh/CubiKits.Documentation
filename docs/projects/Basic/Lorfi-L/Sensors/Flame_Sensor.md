@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Flame Sensor using Lorfi-L
 
 # Description

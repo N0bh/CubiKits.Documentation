@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Photo Interruptor Module using Lorfi-WB
 
 # Description

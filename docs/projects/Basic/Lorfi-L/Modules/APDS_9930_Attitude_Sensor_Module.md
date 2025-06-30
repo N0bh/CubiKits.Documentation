@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # APDS-9930 Attitude Sensor Module using Lorfi-L
 
 # Description

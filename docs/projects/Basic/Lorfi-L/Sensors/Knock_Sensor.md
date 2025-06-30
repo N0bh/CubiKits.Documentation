@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Knock Sensor using Lorfi-L
 
 # Description

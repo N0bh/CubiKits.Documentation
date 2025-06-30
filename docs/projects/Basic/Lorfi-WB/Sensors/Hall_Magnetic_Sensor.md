@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Hall Magnetic Sensor using Lorfi-WB
 
 # Description

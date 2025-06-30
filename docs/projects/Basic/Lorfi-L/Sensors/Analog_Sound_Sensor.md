@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Microphone Sound Sensor using Lorfi-L
 
 # Description

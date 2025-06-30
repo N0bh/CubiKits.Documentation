@@ -1,3 +1,7 @@
+---
+layout: project
+---
+
 # Line Tracking Sensor using Lorfi-L
 
 # Description
