@@ -34,7 +34,9 @@ This is a simple push-button module that's perfect for getting started with Ardu
 
 Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
 
-![Digital Push Button Module](\assets\Images\LORFI_Components\Lorfi-L_Modules\4.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Lorfi-L_Modules\4.png" alt="Centered Image" width="900" />
+</p>
 
 #### Using directly Lorfi-L
 
@@ -56,7 +58,9 @@ Here's the guide on <a href="/docs/Software_Guide.html">how to add RAK3172 on yo
 
 Once RAK3172 is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
+</p>
 
 If failing, test the UART connection by checking the version. Use `AT+VER=?` command with baud rate of 115200. In case of MCU brick, revive the RAK3172 by following this [guide from RAKwireless](https://learn.rakwireless.com/hc/en-us/articles/26687606549911-How-To-Guide-STM32CubeProgrammer-for-RAK-Modules).
 

@@ -42,7 +42,9 @@ An integrated micro optical lens enhances the efficiency of infrared signal tran
 
 Connect the Signal pin of sensor to Digital Input of the Lorfi board for the interrupt pin, connect the SDA and SCL pins of the sensor to the Lorfi Board,s negative pin to GND port, positive pin to 5V port.
 
-![Attitude Sensor Module](\assets\Images\LORFI_Components\Lorfi-L_Modules\3.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Lorfi-L_Modules\3.png" alt="Centered Image" width="900" />
+</p>
 
 #### Using directly Lorfi-L
 
@@ -64,7 +66,9 @@ Here's the guide on <a href="/docs/Software_Guide.html">how to add RAK3172 on yo
 
 Once RAK3172 is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
+</p>
 
 If failing, test the UART connection by checking the version. Use `AT+VER=?` command with baud rate of 115200. In case of MCU brick, revive the RAK3172 by following this [guide from RAKwireless](https://learn.rakwireless.com/hc/en-us/articles/26687606549911-How-To-Guide-STM32CubeProgrammer-for-RAK-Modules).
 
