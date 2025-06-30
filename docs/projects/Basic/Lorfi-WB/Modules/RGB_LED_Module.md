@@ -31,7 +31,9 @@ With proper programming, you can control each LED to turn on or off in sequence,
 
 Connect the three signal pin (RED, GREEN, BLUE) of the sensors to the GPIO pins of the Lorfi board, negative pin to GND port, positive pin to 5V port.
 
-![RGB LED Module](\assets\Images\LORFI_Components\Lorfi-WB_Modules\11.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Lorfi-WB_Modules\11.png" alt="Centered Image" width="900" />
+</p>
 
 #### Using directly Lorfi-WB
 
@@ -53,7 +55,9 @@ Here's the guide on <a href="/docs/Software_Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
+</p>
 
 #### Sample Code
 ```c

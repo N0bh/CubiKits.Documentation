@@ -27,7 +27,9 @@ Infrared (IR) technology is commonly used in remote controls. With this IR recei
 
 Connect the Signal pin of sensor to Digital Input of the Lorfi board, negative pin to GND port, positive pin to 5V port.
 
-![IR Receiver Module](\assets\Images\LORFI_Components\Lorfi-WB_Modules\6.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Lorfi-WB_Modules\7.png" alt="Centered Image" width="900" />
+</p>
 
 #### Using directly Lorfi-WB
 
@@ -49,7 +51,9 @@ Here's the guide on <a href="/docs/Software_Guide.html">how to add ESP32 board o
 
 Once ESP32 board is added, you can now select it from the board selection.
 
-![Software Guide 4](\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
+</p>
 
 ## **Sample Code 1: Simple Approach**
 ```c
