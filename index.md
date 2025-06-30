@@ -9,14 +9,14 @@ layout: project
 </p>
 
 
-# <span style="display:inline-block;margin-bottom:1rem;">Guides</span>
+# <span style="display:inline-block;margin-bottom:2rem;">Guides</span>
 
   <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
     This section provides step-by-step instructions on how to set up, connect, and program the IoT School PH Kit. Whether you're a beginner or an experienced developer, the guides are designed to help you get started with each component—from powering up the Lorfi development boards to using the sensor modules and wireless features. You'll learn how to build and test various IoT applications, understand the basics of LoRa, Wi-Fi, BLE, and cellular communication, and develop real-world solutions through practical examples and hands-on projects.
   </p>
 
   <div style="margin-bottom:2rem;">
-    <h2>Installation Setups</h2>
+    <h2>Installation Setups:</h2>
       <li>
           <a href="/docs/Hardware_Guide.html">Hardware Guide</a>
       </li>
