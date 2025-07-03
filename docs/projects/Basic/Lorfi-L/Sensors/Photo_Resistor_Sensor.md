@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Photo Resistor Sensor using Lorfi-L
 ---
-
-# Photo Resistor Sensor using Lorfi-L
 
 # Description
 

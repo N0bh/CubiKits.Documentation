@@ -1,8 +1,7 @@
 ---
 layout: project
+title: MQ2 Gas Sensor using Lorfi-L
 ---
-
-# MQ2 Gas Sensor using Lorfi-L
 
 # Description
 

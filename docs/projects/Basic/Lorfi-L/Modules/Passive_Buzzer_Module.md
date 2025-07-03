@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Passive Buzzer Module
 ---
-
-# Passive Buzzer Module
 
 # Description
 

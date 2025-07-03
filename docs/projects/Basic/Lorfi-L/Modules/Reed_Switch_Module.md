@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Reed Switch Module using Lorfi-L
 ---
-
-# Reed Switch Module using Lorfi-L
 
 # Description
 

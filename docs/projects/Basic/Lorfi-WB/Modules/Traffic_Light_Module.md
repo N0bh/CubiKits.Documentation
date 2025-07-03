@@ -1,12 +1,11 @@
 ---
 layout: project
+title: Traffic Light Module using Lorfi-WB
 ---
-
-# RRG Led Module using Lorfi-WB
 
 # Description
 
-The Traffic LED Module features built-in red, yellow, and green LEDs to simulate real traffic lights. It simplifies wiring and is perfect for learning microcontroller control and traffic light sequences.
+The Traffic Light Module features built-in red, yellow, and green LEDs to simulate real traffic lights. It simplifies wiring and is perfect for learning microcontroller control and traffic light sequences.
 
 # Specification
 

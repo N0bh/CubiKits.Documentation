@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Line Tracking Sensor using Lorfi-WB
 ---
-
-Line Tracking Sensor using Lorfi-WB
 
 # Description
 

@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Digital Push Button Module using Lorfi-WB
 ---
-
-# Digital Push Button Module using Lorfi-WB
 
 # Description
 

@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Passive Buzzer Module using Lorfi-WB
 ---
-
-# Passive Buzzer Module using Lorfi-WB
 
 # Description
 

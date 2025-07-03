@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Thin-Film Pressure Sensor using Lorfi-L
 ---
-
-# Thin-Film Pressure Sensor using Lorfi-L
 
 # Description
 

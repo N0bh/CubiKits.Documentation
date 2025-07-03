@@ -1,8 +1,7 @@
 ---
 layout: project
+title: White LED Module using Lorfi-WB
 ---
-
-# White LED Module using Lorfi-WB
 
 # Description
 This white LED light module is perfect for Arduino beginners. It easily connects to an IO or sensor shield and allows for experimentation with light-based projects.

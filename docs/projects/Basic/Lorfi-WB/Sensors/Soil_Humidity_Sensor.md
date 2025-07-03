@@ -1,12 +1,13 @@
 ---
 layout: project
+title: Soil Moisture Sensor using Lorfi-WB
 ---
-
-# Analog Rotation Sensor using Lorfi-WB
 
 # Description
 
-This analog rotation sensor is compatible with Arduino and is built around a potentiometer. It provides a voltage output that can be divided into 1024 steps, making it easy to connect to an Arduino using a sensor shield. By reading the analog values through an IO port, it can be combined with other sensors to create a variety of interactive projects.
+This soil moisture sensor is designed to measure the humidity level in soil. When the soil is dry, the sensor's analog output decreases; when the soil is moist, the output increases. It's ideal for creating an automatic watering system that can detect when your plant needs water, helping prevent it from drying out while you're away.
+
+When paired with an Arduino, this sensor can make plant care smarter and more efficient. It features two probes that are inserted into the soil. By measuring the change in current between the probes, it determines the soil's resistance and converts it into a moisture level. Higher moisture means lower resistance and better conductivity. The sensor's surface is metal-coated to enhance durability. Simply insert it into the soil and use an ADC to read the values—your plant can now "tell" you when it's thirsty.
 
 # Specification
 

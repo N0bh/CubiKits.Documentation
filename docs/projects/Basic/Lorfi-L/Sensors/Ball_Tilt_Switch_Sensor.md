@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Digital Tilt Switch Sensor using Lorfi-L
 ---
-
-# Digital Tilt Switch Sensor using Lorfi-L
 
 # Description
 

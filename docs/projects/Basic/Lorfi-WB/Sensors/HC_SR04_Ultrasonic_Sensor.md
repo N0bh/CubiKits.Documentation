@@ -1,8 +1,7 @@
 ---
 layout: project
+title: HC-SR04 Ultrasonic Sensor using Lorfi-WB
 ---
-
-# HC-SR04 Ultrasonic Sensor using Lorfi-WB
 
 # Description
 

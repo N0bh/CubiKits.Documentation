@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Knock Sensor using Lorfi-WB
 ---
-
-# Knock Sensor using Lorfi-WB
 
 # Description
 
@@ -25,7 +24,9 @@ This module functions as a knock sensor that generates a brief signal when tappe
 
 Connect the Signal pin of the sensor to the Digital Input GPIO2 on the Lorfi board, connect the GND pin to GND port, VCC pin to 5V port.
 
-![Knock Sensor](\assets\Images\LORFI_Components\Lorfi-WB_Sensors\9.png)
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Lorfi-WB_Sensors\9.png" alt="Centered Image" width="900" />
+</p>
 
 #### Using directly Lorfi-WB
 

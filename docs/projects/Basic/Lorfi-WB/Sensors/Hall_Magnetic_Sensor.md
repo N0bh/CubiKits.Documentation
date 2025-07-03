@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Hall Magnetic Sensor using Lorfi-WB
 ---
-
-# Hall Magnetic Sensor using Lorfi-WB
 
 # Description
 
@@ -29,7 +28,6 @@ Connect the Signal pin of the sensor to the Digital Input GPIO2 on the Lorfi boa
 <p style="text-align: center;">
   <img src="\assets\Images\LORFI_Components\Lorfi-WB_Sensors\7.png" alt="Centered Image" width="900" />
 </p>
-![Hall Magnetic Sensor](\assets\Images\LORFI_Components\Lorfi-WB_Sensors\7.png)
 
 #### Using directly Lorfi-WB
 

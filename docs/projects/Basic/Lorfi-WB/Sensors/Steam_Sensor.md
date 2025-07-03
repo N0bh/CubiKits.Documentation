@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Steam Sensor using Lorfi-WB
 ---
-
-# Steam Sensor using Lorfi-WB
 
 # Description
 

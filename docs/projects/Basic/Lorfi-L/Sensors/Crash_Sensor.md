@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Crash Sensor using Lorfi-L
 ---
-
-# Crash Sensor using Lorfi-L
 
 # Description
 

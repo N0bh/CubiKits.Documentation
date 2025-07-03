@@ -1,8 +1,7 @@
 ---
 layout: project
+title: DHT11 Temperature and Humidity Sensor using Lorfi-L
 ---
-
-# DHT11 Temperature and Humidity Sensor using Lorfi-L
 
 # Description
 

@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Hall Magnetic Sensor using Lorfi-L
 ---
-
-# Hall Magnetic Sensor using Lorfi-L
 
 # Description
 

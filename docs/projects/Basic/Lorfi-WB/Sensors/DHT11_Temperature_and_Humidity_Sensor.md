@@ -1,8 +1,7 @@
 ---
 layout: project
+title: DHT11 Temperature and Humidity Sensor using Lorfi-WB
 ---
-
-# DHT11 Temperature and Humidity Sensor using Lorfi-WB
 
 # Description
 
@@ -28,7 +27,6 @@ Connect the Signal pin of the sensor to the Digital Input GPIO2 on the Lorfi boa
 <p style="text-align: center;">
   <img src="\assets\Images\LORFI_Components\Lorfi-WB_Sensors\4.png" alt="Centered Image" width="900" />
 </p>
-![DHT11 Temperature and Humidity Sensor](\assets\Images\LORFI_Components\Lorfi-WB_Sensors\4.png)
 
 #### Using directly Lorfi-WB
 

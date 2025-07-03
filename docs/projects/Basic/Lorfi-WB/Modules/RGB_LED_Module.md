@@ -1,8 +1,7 @@
 ---
 layout: project
+title: RGB Led Module using Lorfi-WB
 ---
-
-# RRG Led Module using Lorfi-WB
 
 # Description
 

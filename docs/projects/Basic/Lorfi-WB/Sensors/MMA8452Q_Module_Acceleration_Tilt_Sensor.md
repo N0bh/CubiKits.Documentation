@@ -1,8 +1,7 @@
 ---
 layout: project
+title: MMA8452Q Module Acceleration Tilt Sensor using Lorfi-WB
 ---
-
-# MMA8452Q Module Acceleration Tilt Sensor using Lorfi-WB
 
 # Description
 

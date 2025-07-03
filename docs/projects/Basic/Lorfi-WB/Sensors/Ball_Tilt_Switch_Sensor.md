@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Digital Tilt Switch Sensor using Lorfi-WB
 ---
-
-# Digital Tilt Switch Sensor using Lorfi-WB
 
 # Description
 

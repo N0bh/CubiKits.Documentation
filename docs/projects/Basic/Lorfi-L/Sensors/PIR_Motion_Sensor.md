@@ -1,8 +1,7 @@
 ---
 layout: project
+title: PIR Motion Sensor using Lorfi-L
 ---
-
-# PIR Motion Sensor using Lorfi-L
 
 # Description
 

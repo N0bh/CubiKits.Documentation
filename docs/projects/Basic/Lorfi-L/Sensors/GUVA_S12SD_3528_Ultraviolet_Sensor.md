@@ -1,8 +1,7 @@
 ---
 layout: project
+title: GUVA S12SD-3528 Ultraviolet Sensor using Lorfi-L
 ---
-
-# GUVA S12SD-3528 Ultraviolet Sensor using Lorfi-L
 
 # Description
 

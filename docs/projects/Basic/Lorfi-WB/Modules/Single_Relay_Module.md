@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Single Relay Module using Lorfi-WB
 ---
-
-# Single Relay Module using Lorfi-WB
 
 # Description
 

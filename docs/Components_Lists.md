@@ -19,7 +19,7 @@ title: Component Lists
   <tbody>
     <tr>
       <td style="text-align:justify;padding: 10px;">3W LED Module</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\3W_LED_Module.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\3W-LED-Module.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\3W_LED_Module.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Modules\3W_LED_Module.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\3W_LED_Module.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Modules\3W_LED_Module.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\3W_LED_MODULE.webp" style="max-width: 100px;"></td>
     </tr>
@@ -103,13 +103,13 @@ title: Component Lists
     </tr>
     <tr>
       <td style="padding: 10px;">Analog Rotation Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Analog_Rotation_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Rotation_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Rotation_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Analog_Rotation_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Potentiometer_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Potentiometer_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Analog_Rotation_Sensor.webp" style="max-width: 100px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px;">Analog Sound Sensor</td>
-      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Analog_Sound_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Sound_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Analog_Sound_Sensor.html">BLE</a></td>
+      <td style="text-align:justify;padding: 10px;"><a href="\docs\projects\Basic\Lorfi-L\Sensors\Analog_Sound_Sensor.html">LoRaWAN</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Microphone_Sound_Sensor.html">WiFi</a>/<a href="\docs\projects\Basic\Lorfi-WB\Sensors\Microphone_Sound_Sensor.html">BLE</a></td>
       <td style="text-align:justify;padding: 10px;">1</td>
       <td style="text-align:justify;padding: 10px;"><img src="\assets\Images\LORFI_Components\Components\Analog_Sound_Sensor.jpeg" style="max-width: 100px;"></td>
     </tr>

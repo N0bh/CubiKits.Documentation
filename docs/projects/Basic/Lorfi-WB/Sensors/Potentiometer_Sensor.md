@@ -1,12 +1,11 @@
 ---
 layout: project
+title: Analog Rotation Sensor using Lorfi-WB
 ---
-
-# Analog Rotation Sensor using Lorfi-WB
 
 # Description
 
-This analog rotation sensor is compatible with Arduino and is built around a potentiometer. It provides a voltage output that can be divided into 1024 steps, making it easy to connect to an Arduino using a sensor shield. By reading the analog values through an IO port, it can be combined with other sensors to create a variety of interactive projects.
+This analog rotation sensor is built around a potentiometer. It provides a voltage output that can be divided into 1024 steps, making it easy to connect to an Arduino using a sensor shield. By reading the analog values through an IO port, it can be combined with other sensors to create a variety of interactive projects.
 
 # Specification
 

@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Capacitive Touch Sensor using Lorfi-L
 ---
-
-# Capacitive Touch Sensor using Lorfi-L
 
 # Description
 

@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Ambient Light Sensor using Lorfi-WB
 ---
-
-# Ambient Light Sensor using Lorfi-WB
 
 # Description
 

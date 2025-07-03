@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Digital IR Transmitter using Lorfi-L
 ---
-
-# Digital IR Transmitter using Lorfi-L
 
 # Description
 

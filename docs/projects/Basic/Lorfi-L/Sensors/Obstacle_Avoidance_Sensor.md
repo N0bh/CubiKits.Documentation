@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Infrared Obstacle Avoidance using Lorfi-L
 ---
-
-# Infrared Obstacle Avoidance using Lorfi-L
 
 # Description
 

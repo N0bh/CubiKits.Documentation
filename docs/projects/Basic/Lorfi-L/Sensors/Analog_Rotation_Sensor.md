@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Analog Rotation Sensor using Lorfi-L
 ---
-
-# Analog Rotation Sensor using Lorfi-L
 
 # Description
 

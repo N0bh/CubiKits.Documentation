@@ -1,8 +1,7 @@
 ---
 layout: project
+title: Digital IR Receiver using Lorfi-L
 ---
-
-# Digital IR Receiver using Lorfi-L
 
 # Description
 
