@@ -4,6 +4,7 @@ title: 3W LED Module using Lorfi-L
 ---
 
 # Description
+
 This LED module features high brightness, thanks to its 3W lamp beads. It's well-suited for Arduino projects and is especially useful in robotics or search and rescue platforms.
 
 For instance, smart robots can utilize this module for lighting purposes. However, for safety reasons, avoid shining the LED directly into human eyes.

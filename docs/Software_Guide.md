@@ -90,11 +90,11 @@ Restart the Arduino IDE.
 Go to Tools > Board > Boards Manager. In the search bar, type RAK.
 
 <p style="text-align: center;">
-  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide2.png" alt="Centered Image" width="900" />
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide2.jpg" alt="Centered Image" width="900" />
 </p>
 
 <p style="text-align: center;">
-  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide6.png" alt="Centered Image" width="900" />
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide6.jpg" alt="Centered Image" width="900" />
 </p>
 
 Locate RAKwireless RUI STM32 Boards and click Install.
@@ -102,5 +102,6 @@ Locate RAKwireless RUI STM32 Boards and click Install.
 After installation, select your RAK3172 board via Tools > Board > RAKWireless RUI STM32 Modules > WisDuo RAK3172 Evaluation Board.
 
 <p style="text-align: center;">
-  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide7.png" alt="Centered Image" width="900" />
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide7.jpg" alt="Centered Image" width="900" />
 </p>
+
