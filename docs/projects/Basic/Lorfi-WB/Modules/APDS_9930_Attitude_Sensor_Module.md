@@ -69,7 +69,7 @@ Once ESP32 Board is added, you can now select it from the board selection.
   <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
 </p>
 
-## **Sample Code**
+## Sample Code:
 ```c
 
 #define DUMP_REGS

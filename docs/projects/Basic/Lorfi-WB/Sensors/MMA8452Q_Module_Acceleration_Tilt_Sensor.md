@@ -58,7 +58,8 @@ Once ESP32 board is added, you can now select it from the board selection.
   <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
 </p>
 
-## **Sample Code**
+## Sample Code
+
 ```c
 #include <Wire.h>               // Must include Wire library for I2C
 #include <SparkFun_MMA8452Q.h>  // Includes the SFE_MMA8452Q library

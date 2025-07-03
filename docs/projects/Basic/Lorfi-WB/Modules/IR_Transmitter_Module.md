@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Digital IR Transmitter using Lorfi-WB
+title: IR Transmitter Module
 ---
 
 # Description
@@ -56,7 +56,7 @@ Once ESP32 board is added, you can now select it from the board selection.
   <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
 </p>
 
-## **Sample Code**
+## Sample Code
 ```c
 #define led 2
 void setup() {                
@@ -70,7 +70,7 @@ void loop() {
   delay(1000); }
 ```
 
-## **Sample Code**
+## Sample Code 2:
 ```c
 #include <IRremote.h>
  #define RECV_PIN 2

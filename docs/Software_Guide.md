@@ -38,7 +38,9 @@ Go to File > Preferences.
 In the Additional Board Manager URLs field, add the following URL:
 
 ```c
-## https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless_com_rui_index.json
+
+https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless_com_rui_index.json
+
 ```
 
 If there are existing URLs, add this on a new line or separate with a comma. Click OK to save.
@@ -65,3 +67,40 @@ After installation, select your RAK3172 board via Tools > Board > RAKWireless RU
 
 # Adding Boards Lorfi-WB ESP32
 
+Open Arduino IDE.
+
+Go to File > Preferences.
+
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide5.png" alt="Centered Image" width="900" />
+</p>
+
+In the Additional Board Manager URLs field, add the following URL:
+
+```c
+
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+```
+
+If there are existing URLs, add this on a new line or separate with a comma. Click OK to save.
+
+Restart the Arduino IDE.
+
+Go to Tools > Board > Boards Manager. In the search bar, type RAK.
+
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide2.png" alt="Centered Image" width="900" />
+</p>
+
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide6.png" alt="Centered Image" width="900" />
+</p>
+
+Locate RAKwireless RUI STM32 Boards and click Install.
+
+After installation, select your RAK3172 board via Tools > Board > RAKWireless RUI STM32 Modules > WisDuo RAK3172 Evaluation Board.
+
+<p style="text-align: center;">
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide7.png" alt="Centered Image" width="900" />
+</p>

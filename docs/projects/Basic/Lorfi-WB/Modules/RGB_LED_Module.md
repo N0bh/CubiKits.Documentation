@@ -58,7 +58,8 @@ Once ESP32 board is added, you can now select it from the board selection.
   <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide4.png" alt="Centered Image" width="900" />
 </p>
 
-#### Sample Code
+## Sample Code
+
 ```c
 #define RED 13   // used as digital input
 #define GREEN 2  // used as digital input

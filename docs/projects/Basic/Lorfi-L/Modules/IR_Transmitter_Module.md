@@ -58,7 +58,7 @@ Once RAK3172 is added, you can now select it from the board selection.
 
 If failing, test the UART connection by checking the version. Use `AT+VER=?` command with baud rate of 115200. In case of MCU brick, revive the RAK3172 by following this [guide from RAKwireless](https://learn.rakwireless.com/hc/en-us/articles/26687606549911-How-To-Guide-STM32CubeProgrammer-for-RAK-Modules).
 
-## **Sample Code**
+## Sample Code:
 ```c
 #define led PB5
 void setup() {                
@@ -72,7 +72,7 @@ void loop() {
   delay(1000); }
 ```
 
-## **Sample Code**
+## Sample Code 2:
 ```c
 #include <IRremote.h>
  #define RECV_PIN PB5
