@@ -1,20 +1,24 @@
 ---
 layout: project
-title: IoT School Development Kit
+title: CubiKit One
 ---
 
-<p style="text-align:justify;margin-bottom:2rem;">
-  The IoT School PH Kit is a flexible, educational hardware platform created for students, developers, and hobbyists to explore and prototype Internet of Things (IoT) projects. It includes Lorfi development boards, a multifunctional Lorfi Interface, and a variety of sensor modules—supporting wireless communication, data collection, and control tasks. The kit offers a hands-on introduction to wireless technologies like LoRa, Wi-Fi, BLE, and cellular, making it ideal for rapid prototyping and real-world IoT solutions.
+<p style="text-align:justify;margin-bottom:2rem;margin-top:1rem;">
+  The CubiKit One is a flexible, educational hardware platform created for students, developers, and hobbyists to explore and prototype Internet of Things (IoT) projects. It includes Lorfi development boards, a multifunctional Lorfi Interface, and a variety of sensor modules supporting wireless communication, data collection, and control tasks. The kit offers a hands-on introduction to wireless technologies like LoRa, Wi-Fi, BLE, and cellular, making it ideal for rapid prototyping and real-world IoT solutions.
 </p>
+
 
 # <span style="display:inline-block;margin-bottom:1rem;">Guides</span>
 
   <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
-    This section provides step-by-step instructions on how to set up, connect, and program the IoT School PH Kit. Whether you're a beginner or an experienced developer, the guides are designed to help you get started with each component—from powering up the Lorfi development boards to using the sensor modules and wireless features. You'll learn how to build and test various IoT applications, understand the basics of LoRa, Wi-Fi, BLE, and cellular communication, and develop real-world solutions through practical examples and hands-on projects.
+    This section provides step-by-step instructions on how to set up, connect, and program the Cubikit One. Whether you're a beginner or an experienced developer, the guides are designed to help you get started with each component from powering up the Lorfi development boards to using the sensor modules and wireless features. You'll learn how to build and test various IoT applications, understand the basics of LoRa, Wi-Fi, BLE, and cellular communication, and develop real-world solutions through practical examples and hands-on projects.
   </p>
 
   <div style="margin-bottom:2rem;">
-    <h2>Installation Setups</h2>
+    <h2>Installation Setups:</h2>
+    <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
+      This section serves as both the Software and Hardware Guide for the CubiKit One. It provides clear, step-by-step instructions for setting up, connecting, and programming the kit—whether you're new to IoT or an experienced developer. You'll learn how to power up the Lorfi development boards, work with various sensor modules, and explore wireless technologies like LoRa, Wi-Fi, BLE, and cellular. Through practical examples and hands-on projects, this guide will help you build, test, and understand real-world IoT applications.
+    </p>
       <li>
           <a href="/docs/Hardware_Guide.html">Hardware Guide</a>
       </li>
@@ -29,10 +33,18 @@ title: IoT School Development Kit
       
   <div style="margin-bottom:1rem;">
     <h2>Basics</h2>
-  </div>
+    <p style="text-align:justify;display:inline-block;margin-bottom:1rem;">
+      This tutorial covers the Lorfi Series, featuring two versatile modules: Lorfi-WB, based on the ESP32 with Wi-Fi and BLE for smart home and local control applications, and Lorfi-L, powered by the RAK3172 with LoRaWAN support for long-range, low-power IoT deployments. You'll learn how to set up, configure, and deploy each module for various real-world use cases.</h4>
+    <p>
+  <div>
 
   <div style="margin-bottom:1rem;">
     <h4><strong>Lorfi-L</strong></h4>
+    <div>
+      <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
+        Lorfi-L is powered by the RAK3172 module, designed for long-range wireless communication using LoRa modulation. It fully supports LoRaWAN, making it ideal for remote sensing, environmental monitoring, and low-power wide-area network (LPWAN) applications.
+      </p>
+    </div>
     <div>
       <details>
         <summary>Modules</summary>
@@ -84,6 +96,10 @@ title: IoT School Development Kit
 
   <div style="margin-bottom:2rem;">
     <h4><strong>Lorfi-WB</strong></h4>
+    <div>
+      <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
+        Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). It is best suited for smart home, mobile-connected, and local wireless control use cases that require interaction with smartphones or home automation platforms.
+      </p>
     <div>
       <details>
         <summary>Modules</summary>
