@@ -33,7 +33,7 @@ title: CubiKit One
       
   <div style="margin-bottom:1rem;">
     <h2>Basics</h2>
-    <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
+    <p style="text-align:justify;display:inline-block;margin-bottom:1rem;">
       This tutorial covers the Lorfi Series, featuring two versatile modules: Lorfi-WB, based on the ESP32 with Wi-Fi and BLE for smart home and local control applications, and Lorfi-L, powered by the RAK3172 with LoRaWAN support for long-range, low-power IoT deployments. You'll learn how to set up, configure, and deploy each module for various real-world use cases.</h4>
     <p>
   <div>
@@ -41,7 +41,9 @@ title: CubiKit One
   <div style="margin-bottom:1rem;">
     <h4><strong>Lorfi-L</strong></h4>
     <div>
-        <h5>Lorfi-L is powered by the RAK3172 module, designed for long-range wireless communication using LoRa modulation. It fully supports LoRaWAN, making it ideal for remote sensing, environmental monitoring, and low-power wide-area network (LPWAN) applications.</h5>
+      <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
+        Lorfi-L is powered by the RAK3172 module, designed for long-range wireless communication using LoRa modulation. It fully supports LoRaWAN, making it ideal for remote sensing, environmental monitoring, and low-power wide-area network (LPWAN) applications.
+      </p>
     </div>
     <div>
       <details>
@@ -95,8 +97,9 @@ title: CubiKit One
   <div style="margin-bottom:2rem;">
     <h4><strong>Lorfi-WB</strong></h4>
     <div>
-        <h5>Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). It is best suited for smart home, mobile-connected, and local wireless control use cases that require interaction with smartphones or home automation platforms.</h5>
-    </div>
+      <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
+        Lorfi-WB is built around the ESP32 chipset and supports both Wi-Fi and Bluetooth Low Energy (BLE). It is best suited for smart home, mobile-connected, and local wireless control use cases that require interaction with smartphones or home automation platforms.
+      </p>
     <div>
       <details>
         <summary>Modules</summary>
