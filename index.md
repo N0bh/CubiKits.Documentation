@@ -4,12 +4,12 @@ layout: project
 
 # <span style="display:inline-block;margin-bottom:1rem;">IoT School Development Kit</span>
 
-<p style="text-align:justify;margin-bottom:2rem;">
+<p style="text-align:justify;margin-bottom:2rem;margin-top:1rem;">
   The IoT School PH Kit is a flexible, educational hardware platform created for students, developers, and hobbyists to explore and prototype Internet of Things (IoT) projects. It includes Lorfi development boards, a multifunctional Lorfi Interface, and a variety of sensor modules—supporting wireless communication, data collection, and control tasks. The kit offers a hands-on introduction to wireless technologies like LoRa, Wi-Fi, BLE, and cellular, making it ideal for rapid prototyping and real-world IoT solutions.
 </p>
 
 
-# <span style="display:inline-block;margin-bottom:2rem;">Guides</span>
+# <span style="display:inline-block;margin-bottom:1rem;">Guides</span>
 
   <p style="text-align:justify;display:inline-block;margin-bottom:2rem;">
     This section provides step-by-step instructions on how to set up, connect, and program the IoT School PH Kit. Whether you're a beginner or an experienced developer, the guides are designed to help you get started with each component—from powering up the Lorfi development boards to using the sensor modules and wireless features. You'll learn how to build and test various IoT applications, understand the basics of LoRa, Wi-Fi, BLE, and cellular communication, and develop real-world solutions through practical examples and hands-on projects.
