@@ -52,5 +52,5 @@ title: Hardware Guide
 # <span style="display:inline-block;margin-bottom:1rem;">Components: Modules and Sensors</span>
 
 <p style="text-align:justify;margin-bottom:2rem;">
-    The IoT School PH Kit comes with a variety of digital and analog sensors and expansion modules. These include components for environmental sensing, motion detection, and user interaction, providing the essential tools to build real-world IoT solutions for education, experimentation, or deployment.
+    The CubiKit One comes with a variety of digital and analog sensors and expansion modules. These include components for environmental sensing, motion detection, and user interaction, providing the essential tools to build real-world IoT solutions for education, experimentation, or deployment. Here are the lists of <a href="/docs/Components_Lists.html">Components</a>
 </p>

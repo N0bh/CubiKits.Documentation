@@ -72,7 +72,7 @@ Open Arduino IDE.
 Go to File > Preferences.
 
 <p style="text-align: center;">
-  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide5.png" alt="Centered Image" width="900" />
+  <img src="\assets\Images\LORFI_Components\Software-Guide_Images\Software_Guide5.jpg" alt="Centered Image" width="900" />
 </p>
 
 In the Additional Board Manager URLs field, add the following URL:
