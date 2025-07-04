@@ -20,7 +20,7 @@ title: Hardware Guide
 </p>
 
 <p style="text-align: center;">
-  <img src="\assets\Images\LORFI_Components\Lorfi-Boards\LORFI_L.jpg" alt="Centered Image" width="900" />
+  <img src="\assets\Images\LORFI_Components\Lorfi-Boards\Hardware_GuideL.jpg" alt="Centered Image" width="900" />
 </p>
 
 # <span style="display:inline-block;margin-bottom:1rem;">Lorfi-WB</span>
@@ -30,7 +30,7 @@ title: Hardware Guide
 </p>
 
 <p style="text-align: center;">
-  <img src="\assets\Images\LORFI_Components\Lorfi-Boards\LORFI_WB.jpg" alt="Centered Image" width="900" />
+  <img src="\assets\Images\LORFI_Components\Lorfi-Boards\Hardware_GuideWB.jpg" alt="Centered Image" width="900" />
 </p>
 
 # <span style="display:inline-block;margin-bottom:1rem;">Lorfi-C</span>
